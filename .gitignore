@@ -4,3 +4,6 @@ desktop.ini
 ~$*.doc
 ~$*.xlsx
 *.tmp
+.worktrees/
+__pycache__/
+*.pyc
