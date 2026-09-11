@@ -5,7 +5,13 @@ from automation.opportunity_monitor import config
 from automation.opportunity_monitor.geocode import within_commute_radius
 
 
-def has_red_flag(text: str) -> bool:
+def has_red_flag(text: str | None) -> bool:
+    """Missing/empty posting text (a plausible real-world scrape
+    failure) is treated as having no red flag to check, not a crash —
+    the caller (passes_hard_filters, or a source fetcher upstream) is
+    responsible for deciding what to do with unusable text."""
+    if not text:
+        return False
     lowered = text.lower()
     return any(keyword in lowered for keyword in config.RED_FLAG_KEYWORDS)
 

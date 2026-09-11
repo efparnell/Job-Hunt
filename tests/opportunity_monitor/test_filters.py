@@ -16,6 +16,16 @@ def test_detects_red_flag_substring():
     assert has_red_flag(text) is True
 
 
+def test_detects_3pl_keyword_standalone():
+    text = "5+ years 3PL experience managing distribution centers."
+    assert has_red_flag(text) is True
+
+
+def test_has_red_flag_treats_missing_text_as_no_flag():
+    assert has_red_flag(None) is False
+    assert has_red_flag("") is False
+
+
 def test_passes_hard_filters_true_for_clean_remote_posting():
     text = "General Manager for a multi-site industrial services company."
     assert passes_hard_filters(text, location_text="Remote", remote_ok=True) is True
