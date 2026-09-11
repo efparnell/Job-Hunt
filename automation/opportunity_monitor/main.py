@@ -25,9 +25,20 @@ def _truncate(text: str) -> str:
 
 
 def _candidates_from_career_pages() -> list[dict]:
+    # remote_ok=True here is deliberate, not a placeholder: Task 6's
+    # design decision was whole-page text with no per-posting
+    # structured parsing, so there's no real per-listing location to
+    # geocode. Setting remote_ok=False with a fake "Unknown" location
+    # would fail geocoding and fail-close every single career-page
+    # candidate (via geocode.py's own fail-closed design), silently
+    # making this entire source produce nothing, ever. Geography is
+    # instead one of the scorer's six real judgment dimensions (see
+    # scorer.py's prompt) — it evaluates whatever location signal
+    # actually appears in the page text. Revisit if/when career pages
+    # get structured per-posting parsing.
     return [
         {"company": c["name"], "role": "Unknown (see text)", "source": "career_page",
-         "text": _truncate(c["text"]), "location_text": "Unknown", "remote_ok": False}
+         "text": _truncate(c["text"]), "location_text": "Unknown", "remote_ok": True}
         for c in fetch_all_career_pages()
     ]
 
