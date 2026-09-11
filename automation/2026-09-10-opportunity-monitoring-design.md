@@ -51,6 +51,8 @@ Auto-reject, no scoring, no logging needed beyond a simple discard count:
 
 Rationale: these are non-negotiable constraints, not matters of degree — scoring them would waste effort. This mirrors Evan's own "protect time, pass quickly" lesson.
 
+**Implementation note (2026-09-11, final review of the Phase 1 build):** in the actual `main.py` orchestrator, the geography gate above is currently a no-op for all three live sources — none of them extract a real per-listing location (career pages and PE/news are whole-page text with no structured parsing, per this doc's own Tech Stack decision; LinkedIn alert emails aren't parsed for location either), so every candidate is passed through as `remote_ok=True` rather than gated. See `main.py`'s `_candidates_from_career_pages()` comment for the full reasoning: gating on a fake "Unknown" location would fail-closed and silently zero out that entire source forever, which is worse than the alternative. Geography is, in practice, scored by the AI model (section 4) using whatever location signal appears in the text — not hard-gated — until/unless structured per-listing location extraction is added. The red-flag keyword check is the only hard filter with real teeth today.
+
 ---
 
 ## 4. Fit Score (0–100)
