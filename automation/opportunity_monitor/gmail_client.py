@@ -64,6 +64,14 @@ def extract_plain_text(payload: dict) -> str:
 def fetch_linkedin_alert_emails(max_results: int = 20) -> list[str]:
     try:
         service = _build_service()
+    except _RECOVERABLE_ERRORS as exc:
+        _logger.warning(
+            "Gmail service unavailable (credential/token problem), treating as no LinkedIn alerts today: %s",
+            exc,
+        )
+        return []
+
+    try:
         query = f"from:{config.LINKEDIN_ALERT_SENDER} newer_than:1d"
         listing = service.users().messages().list(userId="me", q=query, maxResults=max_results).execute()
     except _RECOVERABLE_ERRORS as exc:
@@ -74,10 +82,10 @@ def fetch_linkedin_alert_emails(max_results: int = 20) -> list[str]:
     for msg_ref in listing.get("messages", []):
         try:
             message = service.users().messages().get(userId="me", id=msg_ref["id"], format="full").execute()
+            text = extract_plain_text(message["payload"])
         except _RECOVERABLE_ERRORS as exc:
             _logger.warning("Gmail get call failed for message %s, skipping: %s", msg_ref["id"], exc)
             continue
-        text = extract_plain_text(message["payload"])
         if text:
             bodies.append(text)
     return bodies
