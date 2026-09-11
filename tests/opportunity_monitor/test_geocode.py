@@ -1,5 +1,8 @@
 from unittest.mock import patch
-from automation.opportunity_monitor.geocode import within_commute_radius
+
+from geopy.exc import GeocoderServiceError, GeocoderTimedOut
+
+from automation.opportunity_monitor.geocode import _geocode, within_commute_radius
 
 
 def test_remote_or_hybrid_always_passes():
@@ -22,3 +25,21 @@ def test_far_location_fails(mock_geocode):
 def test_ungeocodable_location_fails_closed(mock_geocode):
     mock_geocode.return_value = None
     assert within_commute_radius("Nowhere Really", remote_ok=False) is False
+
+
+@patch("automation.opportunity_monitor.geocode._geolocator")
+def test_geocode_returns_none_on_timeout(mock_geolocator):
+    mock_geolocator.geocode.side_effect = GeocoderTimedOut()
+    assert _geocode("Annapolis, MD") is None
+
+
+@patch("automation.opportunity_monitor.geocode._geolocator")
+def test_geocode_returns_none_on_service_error(mock_geolocator):
+    mock_geolocator.geocode.side_effect = GeocoderServiceError("rate limited")
+    assert _geocode("Annapolis, MD") is None
+
+
+@patch("automation.opportunity_monitor.geocode._geolocator")
+def test_within_commute_radius_fails_closed_on_geocoder_timeout(mock_geolocator):
+    mock_geolocator.geocode.side_effect = GeocoderTimedOut()
+    assert within_commute_radius("Annapolis, MD", remote_ok=False) is False
