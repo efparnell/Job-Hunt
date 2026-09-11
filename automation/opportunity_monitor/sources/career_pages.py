@@ -13,7 +13,7 @@ def fetch_page_text(url: str) -> str | None:
     try:
         response = requests.get(url, timeout=15, headers={"User-Agent": "job-hunt-automation"})
         response.raise_for_status()
-    except Exception:
+    except requests.exceptions.RequestException:
         return None
     soup = BeautifulSoup(response.text, "html.parser")
     for tag in soup(["script", "style", "nav", "footer"]):

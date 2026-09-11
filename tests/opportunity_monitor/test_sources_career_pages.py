@@ -1,5 +1,8 @@
 from pathlib import Path
 from unittest.mock import MagicMock, patch
+
+import requests
+
 from automation.opportunity_monitor.sources.career_pages import fetch_page_text
 
 FIXTURE = Path(__file__).parent.parent / "fixtures" / "sample_page.html"
@@ -21,5 +24,13 @@ def test_fetch_page_text_strips_html_to_readable_text(mock_get):
 
 @patch("automation.opportunity_monitor.sources.career_pages.requests.get")
 def test_fetch_page_text_returns_none_on_request_failure(mock_get):
-    mock_get.side_effect = Exception("network error")
+    mock_get.side_effect = requests.exceptions.ConnectionError("network error")
+    assert fetch_page_text("https://example.com/careers") is None
+
+
+@patch("automation.opportunity_monitor.sources.career_pages.requests.get")
+def test_fetch_page_text_returns_none_on_http_error_status(mock_get):
+    mock_response = MagicMock()
+    mock_response.raise_for_status.side_effect = requests.exceptions.HTTPError("404")
+    mock_get.return_value = mock_response
     assert fetch_page_text("https://example.com/careers") is None
