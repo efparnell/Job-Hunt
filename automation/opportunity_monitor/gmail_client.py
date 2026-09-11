@@ -4,13 +4,15 @@ generated once locally (see generate_gmail_token.py) and stored as a
 GitHub Actions secret — the daily job never does an interactive OAuth
 flow.
 
-Both public functions catch googleapiclient.errors.HttpError (and any
-error from building the authenticated service, e.g. an expired/invalid
-token) and degrade gracefully rather than crash the daily unattended
-run: fetch returns an empty list (treated as "no LinkedIn alerts
-today", same as a real empty inbox), send silently no-ops (the day's
-log entries still get written even if the notification email fails —
-losing one day's digest is much better than losing the whole run)."""
+Both public functions catch every realistic failure from building the
+authenticated service (missing/malformed GMAIL_OAUTH_TOKEN, a token
+refresh failure) as well as googleapiclient.errors.HttpError from the
+API calls themselves, and degrade gracefully rather than crash the
+daily unattended run: fetch returns an empty list (treated as "no
+LinkedIn alerts today", same as a real empty inbox), send silently
+no-ops (the day's log entries still get written even if the
+notification email fails — losing one day's digest is much better
+than losing the whole run)."""
 
 import base64
 import json
@@ -18,6 +20,7 @@ import logging
 import os
 from email.mime.text import MIMEText
 
+from google.auth.exceptions import GoogleAuthError
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -28,6 +31,13 @@ _SCOPES = [
     "https://www.googleapis.com/auth/gmail.readonly",
     "https://www.googleapis.com/auth/gmail.send",
 ]
+
+# Covers: HttpError (API call failures), KeyError (GMAIL_OAUTH_TOKEN
+# env var missing), ValueError (malformed token JSON — json.JSONDecodeError
+# is a ValueError subclass), GoogleAuthError (bad/expired/unrefreshable
+# credentials). Anything in this tuple means "couldn't do the Gmail
+# thing today," never "crash the whole run."
+_RECOVERABLE_ERRORS = (HttpError, KeyError, ValueError, GoogleAuthError)
 
 _logger = logging.getLogger(__name__)
 
@@ -56,7 +66,7 @@ def fetch_linkedin_alert_emails(max_results: int = 20) -> list[str]:
         service = _build_service()
         query = f"from:{config.LINKEDIN_ALERT_SENDER} newer_than:1d"
         listing = service.users().messages().list(userId="me", q=query, maxResults=max_results).execute()
-    except HttpError as exc:
+    except _RECOVERABLE_ERRORS as exc:
         _logger.warning("Gmail list call failed, treating as no LinkedIn alerts today: %s", exc)
         return []
 
@@ -64,7 +74,7 @@ def fetch_linkedin_alert_emails(max_results: int = 20) -> list[str]:
     for msg_ref in listing.get("messages", []):
         try:
             message = service.users().messages().get(userId="me", id=msg_ref["id"], format="full").execute()
-        except HttpError as exc:
+        except _RECOVERABLE_ERRORS as exc:
             _logger.warning("Gmail get call failed for message %s, skipping: %s", msg_ref["id"], exc)
             continue
         text = extract_plain_text(message["payload"])
@@ -81,5 +91,5 @@ def send_digest_email(subject: str, body_text: str, to_address: str) -> None:
         message["subject"] = subject
         raw = base64.urlsafe_b64encode(message.as_bytes()).decode()
         service.users().messages().send(userId="me", body={"raw": raw}).execute()
-    except HttpError as exc:
+    except _RECOVERABLE_ERRORS as exc:
         _logger.warning("Failed to send digest email: %s", exc)

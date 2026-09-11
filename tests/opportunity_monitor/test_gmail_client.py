@@ -83,3 +83,19 @@ def test_send_digest_email_calls_gmail_send_on_success(mock_build_service):
     send_digest_email("subject", "body text", "efparnell@gmail.com")
 
     mock_service.users().messages().send.assert_called()
+
+
+def test_fetch_linkedin_alert_emails_returns_empty_list_when_token_env_var_missing(monkeypatch):
+    monkeypatch.delenv("GMAIL_OAUTH_TOKEN", raising=False)
+    assert fetch_linkedin_alert_emails() == []
+
+
+def test_fetch_linkedin_alert_emails_returns_empty_list_on_malformed_token_json(monkeypatch):
+    monkeypatch.setenv("GMAIL_OAUTH_TOKEN", "not valid json")
+    assert fetch_linkedin_alert_emails() == []
+
+
+def test_send_digest_email_swallows_missing_token_env_var(monkeypatch):
+    monkeypatch.delenv("GMAIL_OAUTH_TOKEN", raising=False)
+    # Should not raise.
+    send_digest_email("subject", "body", "efparnell@gmail.com")
