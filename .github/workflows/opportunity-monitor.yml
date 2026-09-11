@@ -1,0 +1,42 @@
+name: Opportunity Monitor
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # 12:00 UTC daily = 8:00 AM Eastern (adjust for DST as needed)
+  workflow_dispatch: {}  # lets Evan trigger it manually from the Actions tab
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r automation/requirements.txt
+
+      - name: Run opportunity monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_OAUTH_TOKEN: ${{ secrets.GMAIL_OAUTH_TOKEN }}
+          GMAIL_OAUTH_CLIENT: ${{ secrets.GMAIL_OAUTH_CLIENT }}
+        run: python -m automation.opportunity_monitor.main
+
+      - name: Commit updated log
+        run: |
+          git config user.name "opportunity-monitor-bot"
+          git config user.email "actions@github.com"
+          # data/opportunity_log.jsonl won't exist yet on a day where
+          # nothing passed the filters (or on the very first run,
+          # before config.py has real sources filled in) - `git add`
+          # on a missing path exits non-zero and would fail this step
+          # even though the run itself succeeded, so only add it if
+          # it's actually there.
+          if [ -f data/opportunity_log.jsonl ]; then
+            git add data/opportunity_log.jsonl
+          fi
+          git diff --staged --quiet || git commit -m "chore: daily opportunity log update"
+          git push
