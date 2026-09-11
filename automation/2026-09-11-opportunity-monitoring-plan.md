@@ -8,7 +8,7 @@
 
 **Tech Stack:** Python 3.11+, `requests` + `beautifulsoup4` (page fetching), `google-api-python-client` + `google-auth-oauthlib` (Gmail read/send), `anthropic` (scoring), `geopy` (geocoding for the geography filter), `pytest` (tests), GitHub Actions (scheduler/runtime).
 
-Design doc this plan implements: `Automation/2026-09-10-opportunity-monitoring-design.md`.
+Design doc this plan implements: `automation/2026-09-10-opportunity-monitoring-design.md`.
 
 ---
 
@@ -339,7 +339,7 @@ Expected: FAIL — `ModuleNotFoundError`
 
 ```python
 """Hard filters: pass/fail checks applied before any scoring. See
-Automation/2026-09-10-opportunity-monitoring-design.md section 3."""
+automation/2026-09-10-opportunity-monitoring-design.md section 3."""
 
 from automation.opportunity_monitor import config
 from automation.opportunity_monitor.geocode import within_commute_radius
