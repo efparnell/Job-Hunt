@@ -77,6 +77,8 @@ def run(log_path: str, digest_to: str) -> None:
         + _candidates_from_linkedin()
     )
 
+    filtered_count = 0
+    scored_count = 0
     alerted_entries = []
     for candidate in candidates:
         try:
@@ -84,6 +86,7 @@ def run(log_path: str, digest_to: str) -> None:
                 candidate["text"], candidate["location_text"], candidate["remote_ok"]
             ):
                 continue
+            filtered_count += 1
 
             result = score_opportunity(candidate["text"])
             if result is None:
@@ -91,6 +94,7 @@ def run(log_path: str, digest_to: str) -> None:
                 # one candidate rather than crash the whole run (it's
                 # already logged a warning internally).
                 continue
+            scored_count += 1
 
             entry = {
                 "company": candidate["company"],
@@ -120,9 +124,19 @@ def run(log_path: str, digest_to: str) -> None:
             )
             continue
 
+    # A "successful" run with nothing new and a silently-broken run
+    # otherwise look identical in the GitHub Actions log — this line
+    # is the difference between the two, so it's always emitted, not
+    # just on failure.
+    _logger.info(
+        "Run complete: %d candidates fetched, %d passed hard filters, %d scored, %d alerted (>= %d).",
+        len(candidates), filtered_count, scored_count, len(alerted_entries), config.FIT_SCORE_ALERT_THRESHOLD,
+    )
+
     body = build_digest_body(alerted_entries)
     send_digest_email("Job Hunt Daily Digest", body, digest_to)
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     run(log_path="data/opportunity_log.jsonl", digest_to="efparnell@gmail.com")

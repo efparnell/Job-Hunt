@@ -60,6 +60,27 @@ def test_score_opportunity_returns_none_on_api_error(mock_client):
 
 
 @patch("automation.opportunity_monitor.scorer._client")
+def test_score_opportunity_returns_none_when_api_key_missing(mock_client):
+    mock_client.api_key = None
+
+    assert score_opportunity("Some posting text") is None
+    mock_client.messages.create.assert_not_called()
+
+
+@patch("automation.opportunity_monitor.scorer._client")
+def test_score_opportunity_returns_none_on_typeerror_from_bad_auth(mock_client):
+    # A present-but-invalid key doesn't raise anthropic.APIError from
+    # the client constructor - the real-world failure mode this guards
+    # is messages.create() itself raising a plain TypeError.
+    mock_client.api_key = "sk-ant-not-actually-valid"
+    mock_client.messages.create.side_effect = TypeError(
+        "Could not resolve authentication method"
+    )
+
+    assert score_opportunity("Some posting text") is None
+
+
+@patch("automation.opportunity_monitor.scorer._client")
 def test_score_opportunity_returns_none_on_malformed_json_response(mock_client):
     fake_response = MagicMock()
     fake_response.content = [MagicMock(text="not valid json")]

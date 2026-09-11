@@ -64,6 +64,18 @@ def score_opportunity(posting_text: str) -> dict | None:
     Every failure is logged so a broken scorer is visible in the
     GitHub Actions run log instead of only inferable from an empty
     digest."""
+    if not _client.api_key:
+        # A missing/empty ANTHROPIC_API_KEY doesn't raise
+        # anthropic.APIError - the client constructs fine either way,
+        # and the first messages.create() call instead raises a plain
+        # TypeError with a generic "could not resolve authentication
+        # method" message. Catching that alongside APIError below would
+        # still prevent a crash, but this explicit upfront check gives
+        # a far clearer diagnostic for the most likely first-run
+        # misconfiguration (a forgotten/misspelled GitHub secret).
+        _logger.warning("ANTHROPIC_API_KEY is not set — skipping scoring for this candidate.")
+        return None
+
     prompt = build_prompt(posting_text)
 
     try:
@@ -72,7 +84,7 @@ def score_opportunity(posting_text: str) -> dict | None:
             max_tokens=300,
             messages=[{"role": "user", "content": prompt}],
         )
-    except anthropic.APIError as exc:
+    except (anthropic.APIError, TypeError) as exc:
         _logger.warning("Scoring API call failed: %s", exc)
         return None
 

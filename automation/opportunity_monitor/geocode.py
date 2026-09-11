@@ -1,6 +1,8 @@
 """Geography hard filter: is a posting's location within Evan's real
 commute radius, or remote/hybrid?"""
 
+import logging
+
 from geopy.distance import geodesic
 from geopy.exc import GeocoderServiceError, GeocoderTimedOut
 from geopy.geocoders import Nominatim
@@ -8,6 +10,7 @@ from geopy.geocoders import Nominatim
 from automation.opportunity_monitor import config
 
 _geolocator = Nominatim(user_agent="job-hunt-automation-efparnell")
+_logger = logging.getLogger(__name__)
 
 
 def _geocode(location_text: str) -> tuple[float, float] | None:
@@ -15,12 +18,17 @@ def _geocode(location_text: str) -> tuple[float, float] | None:
     be geocoded (e.g. vague text like 'United States; remote') OR if
     the free Nominatim service times out / errors — this runs
     unattended in a daily job, so a transient network hiccup must
-    degrade to "couldn't verify" (None) rather than crash the run."""
+    degrade to "couldn't verify" (None) rather than crash the run.
+    Every failure is logged, matching scorer.py/gmail_client.py, so a
+    string of geocoding failures is visible in the run log rather than
+    indistinguishable from "really is out of commute range"."""
     try:
         result = _geolocator.geocode(location_text, timeout=10)
-    except (GeocoderTimedOut, GeocoderServiceError):
+    except (GeocoderTimedOut, GeocoderServiceError) as exc:
+        _logger.warning("Geocoding failed for %r, treating as out of range: %s", location_text, exc)
         return None
     if result is None:
+        _logger.info("Could not geocode %r (no match), treating as out of range.", location_text)
         return None
     return (result.latitude, result.longitude)
 

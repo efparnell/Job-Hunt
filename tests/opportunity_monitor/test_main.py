@@ -1,3 +1,4 @@
+import logging
 from unittest.mock import patch
 
 from automation.opportunity_monitor.main import run
@@ -167,3 +168,27 @@ def test_run_continues_past_one_candidate_raising_an_unexpected_error(
     assert mock_append.call_count == 1
     sent_body = mock_send.call_args.args[1]
     assert "Good Co" in sent_body
+
+
+@patch("automation.opportunity_monitor.main.send_digest_email")
+@patch("automation.opportunity_monitor.main.append_entry")
+@patch("automation.opportunity_monitor.main.score_opportunity")
+@patch("automation.opportunity_monitor.main.passes_hard_filters")
+@patch("automation.opportunity_monitor.main.fetch_linkedin_alert_emails")
+@patch("automation.opportunity_monitor.main.fetch_all_pe_news")
+@patch("automation.opportunity_monitor.main.fetch_all_career_pages")
+def test_run_logs_a_summary_line_distinguishing_quiet_from_broken(
+    mock_career, mock_pe, mock_linkedin, mock_filters, mock_score, mock_append, mock_send, caplog
+):
+    mock_career.return_value = [{"name": "Career Co", "url": "u1", "text": "Director role text"}]
+    mock_pe.return_value = []
+    mock_linkedin.return_value = []
+    mock_filters.return_value = True
+    mock_score.return_value = {"score": 85, "reasoning": "Great fit."}
+
+    with caplog.at_level(logging.INFO):
+        run(log_path="unused-because-append_entry-is-mocked", digest_to="efparnell@gmail.com")
+
+    assert "Run complete" in caplog.text
+    assert "1 candidates fetched" in caplog.text
+    assert "1 alerted" in caplog.text
