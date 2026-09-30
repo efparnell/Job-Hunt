@@ -58,41 +58,50 @@ Be honest and specific; inflated self-ratings are easy to puncture in an intervi
 
 ---
 
-## Filling ADP's Add Skill form (Skill · Date Attained · Last Used · Proficiency · Comments)
+## Filling ADP's Add Skill form — final, as entered 9/30/2026
 
-**The Skill field is a dropdown, not free text.** Type the first word and take the closest match in their list. If something isn't there, skip it rather than forcing an odd synonym — a mismatched label scores worse than an absent one.
+**Form fields:** Skill (dropdown) · Date Attained (MM/DD/YYYY) · Last Used (MM/DD/YYYY) · Proficiency Level (dropdown) · Comments.
 
-**Do 12–18 well rather than 40 badly.** Each takes a minute, and the list is read by a person after it's scored by a system.
+**Proficiency options are ADB, ADI, ADV, BEG, INT, L1, L2, L3 — there is no Expert.** ADV is the ceiling. Use **only ADV and INT**; ADB, ADI and L1–L3 have no published meaning, and an uninterpretable rating is worse than a plain one. Because the dropdown can't express depth, the **Comments field carries it** — that is where "expert level" gets said, on the few entries that deserve it.
 
-**Date Attained** = the year you could first do it competently, on the job. **Last Used** = leave it current for anything still true; be honest where a skill genuinely stopped. Dates must not contradict the experience entries — claiming a bench technique "last used 2026" when the experience says you left that bench in 2019 is exactly the inconsistency these forms surface.
+**The Skill field is a dropdown, not free text.** Type the first word, take the closest match, and skip anything that isn't in their list rather than forcing an odd synonym.
 
-| Skill | Date Attained | Last Used | Proficiency |
-|---|---|---|---|
-| Analytical Chemistry | 01/01/2008 | today | Expert |
-| Laboratory Operations | 01/01/2014 | today | Expert |
-| Quality Management Systems | 01/01/2015 | today | Expert |
-| ISO/IEC 17025 | 01/01/2017 | today | Expert |
-| Team Leadership | 01/01/2014 | today | Expert |
-| Employee Training & Development | 01/01/2014 | today | Expert |
-| Process Improvement | 01/01/2014 | today | Expert |
-| Laboratory Accreditation | 01/01/2017 | 12/31/2021 | Expert |
-| ISO 9001 | 01/01/2015 | 12/31/2021 | Advanced |
-| Method Validation | 01/01/2017 | 12/31/2021 | Advanced |
-| LIMS | 01/01/2017 | today | Advanced |
-| Microbiology | 01/01/2014 | today | Advanced |
-| P&L Management | 01/01/2019 | today | Advanced |
-| Budgeting | 01/01/2019 | today | Advanced |
-| Multi-Site Operations Management | 01/01/2021 | today | Advanced |
-| Cost Reduction | 01/01/2017 | today | Advanced |
-| Client Relationship Management | 01/01/2017 | today | Advanced |
-| Strategic Planning | 01/01/2019 | today | Advanced |
+| # | Skill | Date Attained | Last Used | Level | Comments |
+|---|---|---|---|---|---|
+| 1 | Analytical Chemistry | 05/01/2008 | 09/30/2026 | ADV | B.S. Chemistry, U.S. Naval Academy. HPLC, LC-MS/MS, GC-MS/MS, ICP-MS and qPCR across pharmaceutical, environmental and cannabis matrices. |
+| 2 | Laboratory Operations | 01/15/2014 | 09/30/2026 | ADV | Fourteen years in commercial laboratories. Grew annual volume from ~25,000 to ~47,000 samples while staff went from 32 to 45; turnaround five days to three. |
+| 3 | ISO/IEC 17025 | 06/01/2017 | 09/30/2026 | ADV | Expert level: led QMS implementation and accreditation at two laboratories, including an ISO 17025:2017 upgrade audit. |
+| 4 | Laboratory Accreditation | 06/01/2017 | 12/31/2021 | ADV | Two laboratories taken through accreditation; one also DEA registered for controlled substances. |
+| 5 | ISO 9001 | 06/01/2015 | 12/31/2021 | ADV | Built and implemented a full quality management system following an unsuccessful external audit. |
+| 6 | Employee Training & Development | 01/15/2014 | 09/30/2026 | ADV | Designed a job leveling framework adopted across eight laboratories and 250+ employees. |
+| 7 | Quality Management Systems | 06/01/2015 | 09/30/2026 | ADV | *(leave blank)* |
+| 8 | Method Validation | 06/01/2017 | 12/31/2021 | ADV | *(leave blank)* |
+| 9 | LIMS | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
+| 10 | Microbiology | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
+| 11 | Team Leadership | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
+| 12 | Process Improvement | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
+| 13 | P&L Management | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
+| 14 | Budgeting | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
+| 15 | Multi-Site Operations Management | 11/01/2021 | 09/30/2026 | ADV | *(leave blank)* |
+| 16 | Cost Reduction | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
+| 17 | Client Relationship Management | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
+| 18 | Strategic Planning | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
+| 19 | Forecasting | 01/01/2019 | 09/30/2026 | **INT** | *(leave blank)* |
+| 20 | Project Management | 06/01/2015 | 09/30/2026 | **INT** | *(leave blank)* |
+| 21 | Business Development | 01/01/2019 | 09/30/2026 | **INT** | *(leave blank)* |
 
-*(Adjust any date that doesn't match his memory — these are reasoned from the career timeline: Atlantic Technical Services 2012–2017, Atlantic Test Labs 2017–2019, Atlas Labs 2019–2021, Green Analytics 2021–2026.)*
+**Why the three INT entries at the end:** they give the list gradation. Eighteen straight ADVs reads as someone who ticked the top box; a list with a few honest INTs makes the ADVs mean something.
 
-**Proficiency:** reserve Expert for what he could teach or defend under audit. Everything above is set that way — Expert where the record backs it, Advanced where it's real but not his deepest ground. Resist rating everything Expert; a list with gradation reads as self-aware, and an interviewer will test the top ones.
+### Where the dates come from
 
-**Comments:** leave blank except on the three or four that carry the candidacy, where one clause of evidence is worth having:
-- **ISO/IEC 17025** — "Led QMS implementation and accreditation at two laboratories, including a 17025:2017 upgrade audit."
-- **Laboratory Accreditation** — "Two laboratories accredited; one also DEA registered for controlled substances."
-- **ISO 9001** — "Built and implemented following an unsuccessful external audit."
-- **Employee Training & Development** — "Designed a job leveling framework adopted across eight laboratories and 250+ employees."
+| Date | Milestone |
+|---|---|
+| 05/01/2008 | B.S. Chemistry, U.S. Naval Academy |
+| 01/15/2014 | Running laboratory work at Atlantic Technical Services |
+| 06/01/2015 | The ISO 9001 rebuild after the failed external audit |
+| 06/01/2017 | Atlantic Test Labs — ISO 17025 implementation and accreditation |
+| 01/01/2019 | Atlas Labs — financing, construction, P&L ownership |
+| 11/01/2021 | Green Analytics — multi-site scope |
+| 12/31/2021 | End of the Atlas chapter, where hands-on accreditation work stopped |
+
+Adjust anything that doesn't match memory. These need to be **defensible, not precise** — and they must not contradict the experience entries.
