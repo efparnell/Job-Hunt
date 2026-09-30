@@ -40,6 +40,11 @@ Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificat
 ## The psychological-safety proof (if culture or people come up)
 *"The test isn't a survey — it's whether a shift lead calls you at 8pm because something looks wrong instead of waiting until morning. Mine called."* **On escalation (it's about decision rights, not availability):** *"When I escalate it's because the fix needs someone else's authority or presence. I don't escalate to inform or to hand off — I show up with the plan and leave with a decision, so the next morning we're executing."* Routed to whoever held the authority needed: lab manager, Lab Director, COO or CEO, depending on the fix. Two-way line with all of them, and with your own middle managers.
 
+## The chain (market intel, 9/30 — never attribute it)
+A client-side contact reports Microbac has struggled with **staff turnover**, **client relations**, and **responsiveness after consolidating into a hub-and-spoke model**. Don't repeat that. **Ask** — *"how's retention across the region?"*, *"where does responsiveness slip today?"*, *"how has the hub model worked for turnaround at the spoke sites?"* — then answer with the chain:
+
+*"Retention and turnaround are the same problem. Every analyst who leaves takes certified methods with them, so capacity drops before headcount does and the client feels it as a missed date. That's why I went after turnover with a job architecture rather than wages — twelve a year became four, and turnaround went five days to three in the same period."*
+
 ## The labor line
 *"The industry doesn't have a hiring problem, it has a retention problem — testing labs pay below every other employer of chemists, and R&D labs raise faster. I cut turnover 75% with structure, not wages."*
 

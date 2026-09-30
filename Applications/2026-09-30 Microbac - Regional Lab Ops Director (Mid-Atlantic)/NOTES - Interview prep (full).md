@@ -644,3 +644,47 @@ A second one: *"What would you have done in that region if you'd had more time o
 
 LinkedIn shows **six mutual connections** with Chris Long ("Cory, Tanner and 4 other mutual connections"). **Look at who they are.** If any of them knows Long well, a one-line introduction from that person outperforms any note you could write yourself, and it is the single highest-value thing available right now. Ask the mutual connection for the introduction, not for a recommendation.
 
+---
+
+## 14. Market intelligence from Cory Koons (9/30) — this is the most valuable thing in the file
+
+**Source and its limits:** Cory's firm **uses Microbac as a subcontractor**, so this is the view from the client side of the table — partial, second-hand on some points, and shaped by one company's experience. He has spoken with Chris Long maybe once, so **there is no warm introduction here.** Send the direct note.
+
+**What he said, verbatim in substance:**
+1. **"They have struggled with staff turnover... for the past few years."**
+2. **"And to some extent client relations."**
+3. **"They did the consolidation thing and the hub and spoke model, and it hurt their responsiveness in some areas."**
+
+### Why this is worth more than an introduction
+
+**It names the business problem, and it is exactly the problem you solve.** Those three items are not three problems; they are one causal chain. Turnover destroys turnaround, because a lab's capacity is analyst certification coverage, and every departure removes methods someone was qualified to run. Missed turnaround destroys client relations, because turnaround is what clients actually buy. A hub-and-spoke model then stretches the distance between the client and the bench, so the failure is felt hardest at the edges — in the region.
+
+**And it corroborates the research from a completely independent direction.** The PFAS finding in 10.3 is hub-and-spoke made concrete: every PFAS sample in the Northeast and Mid-Atlantic ships to Marietta, Ohio. Cory, who has never seen that research, describes the same model and the same symptom.
+
+**It also exposes the gap between Microbac's brand and its delivery.** Their own marketing sells *"responsiveness and accuracy,"* *"quick turnarounds without quality compromise,"* and *"with other labs you're just a number."* A client-side contact says responsiveness slipped after consolidation. **That gap is the job.** The regional director exists to close it.
+
+### Your record maps onto all three, precisely
+
+| What Cory says hurts | What you did |
+|---|---|
+| Staff turnover | **12 departures a year down to 4**, via a job leveling framework rather than wages |
+| Responsiveness | **Turnaround five days to three** |
+| Client relations | Turnaround *is* client relations in this business; you also added service capability while cutting cost ~15% |
+
+**This is the argument to build the interview around**, and it is now evidence-backed rather than generic.
+
+### How to use it — and how not to
+
+**Never say any version of "I hear you have a turnover problem."** It is second-hand, it came through a subcontracting relationship, it would embarrass Cory, and telling a twenty-year veteran what is wrong with their company is the fastest way to lose the room.
+
+**Ask instead, and let them tell you:**
+- *"How is retention across the region's laboratories right now?"*
+- *"Where does responsiveness slip today — is it intake and scheduling, bench capacity, or data review?"*
+- *"How has the hub model worked out for turnaround at the spoke sites?"*
+
+**Then answer with the chain**, in their language rather than as a diagnosis of them: *"In my experience retention and turnaround are the same problem. Every analyst who leaves takes certified methods with them, so capacity drops before headcount does, and the client feels it as a missed date. That's why I went after turnover with a job architecture rather than with wages — twelve departures a year became four, and turnaround went from five days to three in the same period."*
+
+**If they raise it themselves**, which is likely given a requisition open 30+ days, you are no longer pitching — you are the person who has already solved their stated problem. That is the strongest position available in any interview.
+
+**Treat it as a hypothesis, not a fact.** One subcontractor's view of a 30-lab network could be local, dated, or specific to one site. Test it with the questions above before building an answer on it.
+
