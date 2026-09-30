@@ -73,3 +73,40 @@ Negotiating posture: anchor at the top of the posted range, ask about the incent
 ## Log
 
 Tracker row OPP-022, raised to Priority A on 9/29. Next action 10/2.
+
+---
+
+## The warm path — Cory Koons (added 9/30)
+
+Cory Koons is a close contact of Evan's **and** a mutual connection with Chris Long. **This outranks the cold note.** A message from someone Long already trusts gets read differently from one that arrives from the applicant pile, and on a requisition that has sat 30+ days, the hiring manager is receptive to a name arriving with a recommendation attached.
+
+**Sequence:** ask Cory first. Hold the direct note to Long for a few days. If Cory can't help or goes quiet, send the cold note then — nothing is lost, because the application is already in and dated.
+
+### What to ask Cory for
+
+Two things, in this order:
+1. **An introduction** — or simply a word to Chris that the application is worth a look.
+2. **Intelligence** — what Chris is like to work with, what they care about, what the region's situation actually is. This may be worth more than the introduction. Cory's answers will also settle how Chris is referred to, which resolves the honorific question naturally rather than by asking.
+
+**Make it easy for him.** Include a short forwardable paragraph so Cory can pass something along without composing it himself. People help more readily when helping takes ninety seconds.
+
+### Draft message to Cory
+
+> Cory — a favor, if you're up for it. I applied yesterday for the Regional Laboratory Operations Director role for Microbac's Mid-Atlantic region (req 2196, Baltimore). I saw you're connected to Chris Long, their COO, who owns the hire.
+>
+> Two things I'd value, either or both. First, anything you can tell me about Chris — what they care about, what they're like to work with, what's actually going on in that region. Second, if you know them well enough and feel comfortable, a quick word that my application is worth a look. No pressure at all on the second one; the first is honestly the more useful of the two.
+>
+> Something you could forward, if it's easier:
+>
+> *"Evan Parnell applied for the Mid-Atlantic Regional Lab Ops Director role. Background is analytical chemistry and lab operations — he ran a high-throughput lab where volume went from about 25,000 to 47,000 samples a year on a staff that grew from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve to four. He's also taken two labs through ISO 17025 accreditation. He's local to Anne Arundel County. Worth fifteen minutes."*
+>
+> Either way, good to be back in touch — happy to return the favor any time.
+
+**Why that shape works:** it asks for information first and the favor second, which makes it easy to say yes to part of it; it hands him ready-made text; and it explicitly releases him from the bigger ask. The forwardable paragraph is all numbers and no adjectives, because a forwarded brag reflects on the forwarder.
+
+### When Cory replies
+
+- **If he offers an introduction:** let him make it, then follow up to Long within a day. Reference Cory by name in the first line — that's the whole value of the introduction.
+- **If he gives intel only:** use it, thank him specifically, and send the direct note yourself.
+- **Either way:** tell him how it turns out. People who hear the outcome help again.
+
