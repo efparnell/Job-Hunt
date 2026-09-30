@@ -29,9 +29,13 @@ Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificat
 3. Where does PFAS work in the Northeast go today, and is bringing 1633 or 533 into Dayville on the table?
 4. Is the P&L cut by site, by division, or by region? And does "Northeast" include Sterling VA and Pittsburgh?
 5. Twelve months from now, what has to be true for this to have been a good hire?
+6. What's the escalation path when a site has a real problem at 7pm on a Saturday — and does this role become that number?
 
 ## Two 2027 deadlines — your best offer
 **April 26, 2027:** federal PFAS initial monitoring. **November 1, 2027:** Lead and Copper Rule Improvements — **and lead/copper by 200.8 is already in Baltimore's scope.** Samples arrive in the last two quarters before a deadline, not evenly. *"Has the region planned capacity for that wave?"*
+
+## The psychological-safety proof (if culture or people come up)
+*"The test isn't a survey — it's whether a shift lead calls you at 8pm because something looks wrong instead of waiting until morning. Mine called."* Standing line to the CEO, COO and CFO both ways; same with your middle managers; ~9pm was the norm, and things that could wait waited.
 
 ## The labor line
 *"The industry doesn't have a hiring problem, it has a retention problem — testing labs pay below every other employer of chemists, and R&D labs raise faster. I cut turnover 75% with structure, not wages."*

@@ -111,6 +111,18 @@ You're operating right now, not between jobs: active consulting with invoiced pr
 
 ---
 
+### Story I — Access in both directions (and the proof your culture work was real)
+
+You could text or call the CEO, COO and CFO whenever it was needed, and they did the same with you. You had the same arrangement with your middle managers. **9pm was the practical edge of a reasonable hour** in that business.
+
+**Why this is worth saying:** in a laboratory running seven days with regulatory deadlines and perishable samples, decisions can't wait for the next scheduled meeting. That you had a standing line to the C-suite says they trusted your judgment; that your managers used it upward says they weren't afraid to. **Upward escalation behavior is the only real proof of psychological safety** — far better evidence than saying you value it. Use it that way:
+
+> *"The test of whether people feel safe isn't a survey. It's whether a shift lead calls you at 8pm because something looks wrong, instead of waiting until morning and hoping. Mine called."*
+
+**Frame it as responsiveness with a boundary, not as always-on.** A hiring manager hears "I text the CEO at night" two ways: trusted operator, or no judgment about when to escalate. Make the boundary explicit — there was a norm, roughly 9pm, and things that could wait waited. That reads as someone who knows the difference between urgent and merely unfinished.
+
+**Then turn it into a question**, which is also genuine diligence on a 50%-travel regional job: *"What's the escalation path today when a site has a real problem at 7pm on a Saturday — does that reach the Operations Manager, the Technical Director, or you? And would this role become that number for the Northeast?"* The answer tells you how the region actually runs, what you'd be absorbing, and whether they've thought about it at all.
+
 ## 3. Questions they will ask, and how to handle each
 
 **"Walk me through your background."**
