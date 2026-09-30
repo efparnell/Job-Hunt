@@ -35,7 +35,7 @@ Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificat
 **April 26, 2027:** federal PFAS initial monitoring. **November 1, 2027:** Lead and Copper Rule Improvements — **and lead/copper by 200.8 is already in Baltimore's scope.** Samples arrive in the last two quarters before a deadline, not evenly. *"Has the region planned capacity for that wave?"*
 
 ## The psychological-safety proof (if culture or people come up)
-*"The test isn't a survey — it's whether a shift lead calls you at 8pm because something looks wrong instead of waiting until morning. Mine called."* Standing line to the CEO, COO and CFO both ways; same with your middle managers; ~9pm was the norm, and things that could wait waited.
+*"The test isn't a survey — it's whether a shift lead calls you at 8pm because something looks wrong instead of waiting until morning. Mine called."* **On escalation (it's about decision rights, not availability):** *"When I escalate it's because the fix needs someone else's authority or presence. I don't escalate to inform or to hand off — I show up with the plan and leave with a decision, so the next morning we're executing."* Routed to whoever held the authority needed: lab manager, Lab Director, COO or CEO, depending on the fix. Two-way line with all of them, and with your own middle managers.
 
 ## The labor line
 *"The industry doesn't have a hiring problem, it has a retention problem — testing labs pay below every other employer of chemists, and R&D labs raise faster. I cut turnover 75% with structure, not wages."*

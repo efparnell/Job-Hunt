@@ -119,7 +119,13 @@ You could text or call the CEO, COO and CFO whenever it was needed, and they did
 
 > *"The test of whether people feel safe isn't a survey. It's whether a shift lead calls you at 8pm because something looks wrong, instead of waiting until morning and hoping. Mine called."*
 
-**Frame it as responsiveness with a boundary, not as always-on.** A hiring manager hears "I text the CEO at night" two ways: trusted operator, or no judgment about when to escalate. Make the boundary explicit — there was a norm, roughly 9pm, and things that could wait waited. That reads as someone who knows the difference between urgent and merely unfinished.
+**The real point, in his own words — this is about decision rights, not availability.** He didn't call the CEO to raise an alarm or to offload a problem. He called because *"I need to escalate and I know he'll call me right now to discuss, and have a plan he's approved when I walk in tomorrow."* The problem goes to **whoever holds the authority he needs in order to execute the fix** — or to whoever must be in the room to solve it as a team. Sometimes that's the lab manager, sometimes the Lab Director, sometimes the COO or CEO. It depends on what the fix requires.
+
+**Say it that way; it's a much stronger claim than availability.** It says he knows where decision rights actually sit, he routes to the right level rather than up the chain by reflex, and he arrives with a plan rather than a problem:
+
+> *"When I escalate, it's because the fix needs someone else's authority or someone else's presence. I don't escalate to inform, and I don't escalate to hand it off. I show up with the plan and leave with a decision — so by the next morning we're executing, not deliberating."*
+
+**This is also the answer to "what can I change without asking?"** (question 12 in section 4). An operator who understands decision rights asks that question early, deliberately. Pair the two.
 
 **Then turn it into a question**, which is also genuine diligence on a 50%-travel regional job: *"What's the escalation path today when a site has a real problem at 7pm on a Saturday — does that reach the Operations Manager, the Technical Director, or you? And would this role become that number for the Northeast?"* The answer tells you how the region actually runs, what you'd be absorbing, and whether they've thought about it at all.
 
