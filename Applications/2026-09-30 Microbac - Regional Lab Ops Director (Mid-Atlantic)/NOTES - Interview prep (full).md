@@ -380,9 +380,9 @@ Don't walk in saying there's a chemist shortage. The numbers say otherwise, and 
 
 ### 10.6 Chris Long — how to pitch to this specific person
 
-His published language: *"leading enterprise-wide operations, driving strategic growth, operational excellence,"* a *"collaborative leadership style, commitment to continuous improvement, and ability to deliver results in complex operating environments,"* credited with *"improving efficiency, strengthening customer partnerships, and developing high-performing teams."* **B.S. Biology, internally promoted, long-tenured.**
+Their published language: *"leading enterprise-wide operations, driving strategic growth, operational excellence,"* a *"collaborative leadership style, commitment to continuous improvement, and ability to deliver results in complex operating environments,"* credited with *"improving efficiency, strengthening customer partnerships, and developing high-performing teams."* **B.S. Biology, internally promoted, 20 years at Microbac.**
 
-Mirror that vocabulary: **throughput, schedule reliability, efficiency, customer partnership, developing people.** Don't try to out-science him, and don't lead with analytical chemistry depth — his published identity is operator, not scientist. Your Green Analytics numbers are already written in his language.
+Mirror that vocabulary: **throughput, schedule reliability, efficiency, customer partnership, developing people.** Don't try to out-science them, and don't lead with analytical chemistry depth — their published identity is operator, not scientist. Your Green Analytics numbers are already written in his language.
 
 Others you may meet: **Derrick Friedrich**, CTO, 35+ years, who **started as a dishwasher** and worked nearly every lab role — he'll respect the inside-the-walls story. **Ashley Malchow**, Chief Quality, Safety and Risk Officer, among the first 18 people to earn TNI's quality-systems certification and a member of A2LA's Accreditation Council — with her, quality is not a box to tick. **Grayson Boyce**, President. **Alexandra Boyce**, Chief Innovation Officer — **IT, and therefore LIMS, sits under her**, not under the COO, which is worth knowing before proposing any systems change.
 
@@ -602,3 +602,45 @@ The Atlantic Technical Systems / Atlantic Test Labs and Atlas Labs record is dee
 1. **Open `E:\Evan Parnell Resume.docx`** and settle the three number/title conflicts in 12.1.
 2. **Open `Job Hunt 2019\Qualifications & Certificates.pdf`** and confirm which certifications you can claim.
 3. Tell me the rulings and I'll regenerate the Word files so every document agrees.
+
+---
+
+## 13. Chris Long's actual record (LinkedIn, read 9/30) — this changes the approach
+
+**Profile:** https://www.linkedin.com/in/chris-long-96377136/ · based in **Pittston, PA** (where Microbac has a laboratory) · **20 years and 1 month at Microbac** · B.S. Biology, East Stroudsburg University, 2007 · top endorsed skills **LIMS** and **Microbiology** · volunteers at the Pocono Wildlife Rehabilitation Center.
+
+**A note on address:** the profile photo appears to be a woman and no pronouns are published. **Do not use "Mr." or "Ms."** Write "Dear Chris Long," or just "Chris." The submitted cover letter said "Dear Mr. Long" — see the fix below.
+
+### The career history, which is the important part
+
+| Role | When |
+|---|---|
+| **Chief Operating Officer** | **Jan 2026 – present (9 months)** |
+| Vice President, Operations | Jun 2023 – Jan 2026 |
+| **Senior Director, Mid-Atlantic** | **Jul 2019 – Jul 2023 (4 years)** |
+| Laboratory Director, Eastern Pennsylvania / New York | Feb 2012 – Jul 2019 |
+| Laboratory Manager, Tannersville PA | Sep 2006 – Feb 2012 |
+
+**Three things follow from this, and they reshape the whole conversation.**
+
+**1. Long ran the Mid-Atlantic region personally, for four years.** The job being filled is, in substance, their old seat. That means: they know every laboratory in it by name, they have firm opinions about what works there, and they will evaluate answers against their own experience rather than against a job description. Generic regional-management talk will not survive contact.
+
+**The single best question you can ask becomes obvious:** *"You ran the Mid-Atlantic yourself for four years. What did you learn in that seat that you'd want whoever takes it next to know on day one?"* That question flatters nothing, invites the story they most want to tell, and hands you the actual success criteria. **Ask it early.**
+
+A second one: *"What would you have done in that region if you'd had more time or more support?"* The answer is very likely the mandate.
+
+**2. They are nine months into the COO role, and this is their first structural move.** A new COO filling two regional director seats at once is rebuilding the management layer they used to occupy. Early COO hires are about installing people they can trust to run what they can no longer run personally. That is an argument for emphasizing judgment and reliability over cleverness — and for the escalation and decision-rights story, which is exactly about being someone a senior leader can rely on.
+
+**3. They came up the same ladder you did, only inside one company.** Laboratory Manager → Laboratory Director → Senior Director → VP → COO, starting on the bench with a biology degree. They will recognize and respect the operator's path. They will also know instantly whether you have actually run a laboratory. **Speak in specifics — sample flow, prep queues, analyst certification coverage, turnaround definitions — not in management abstractions.**
+
+**Also worth noting:** their top endorsed skill is **LIMS**. Systems for running laboratories are a personal interest, not an afterthought. Your ERP implementation experience and the question about whether the region's laboratories share a LIMS will land better with this person than with almost any other COO.
+
+### Two contacts the profile surfaced
+
+- **Sarah Angeloff — Talent Acquisition Manager, Microbac.** If a recruiter screen happens, this is likely who runs it. Worth connecting with as well; a recruiter who knows your name before the résumé screen is a small, cheap advantage.
+- **Erica Kozen** appears as **Laboratory Director** (the research had her as Operations Manager, Pittsburgh Division). Titles may have shifted; don't assert hers.
+
+### The warm path — check this before sending anything cold
+
+LinkedIn shows **six mutual connections** with Chris Long ("Cory, Tanner and 4 other mutual connections"). **Look at who they are.** If any of them knows Long well, a one-line introduction from that person outperforms any note you could write yourself, and it is the single highest-value thing available right now. Ask the mutual connection for the introduction, not for a recommendation.
+

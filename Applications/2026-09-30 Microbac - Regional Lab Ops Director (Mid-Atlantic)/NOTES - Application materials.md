@@ -35,7 +35,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 ## Draft cover letter (v2 — rebuilt 9/29 around the Green Analytics numbers)
 
-> Dear Mr. Long,
+> Dear Chris Long,
 >
 > I'm applying for the Regional Laboratory Operations Director role for the Mid-Atlantic (requisition 2196). The short version of my case: I ran the inside of a high-throughput analytical laboratory and nearly doubled its output without doubling anything else.
 >
@@ -58,7 +58,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 ## Draft note to Chris Long (LinkedIn, send the same day you apply)
 
-> Mr. Long — I applied today for the Mid-Atlantic Regional Laboratory Operations Director role (req 2196). Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve departures to four. Analytical chemistry background, and I've taken two laboratories through ISO 17025 accreditation earlier in my career. My read from outside is that the hard half of a regional seat is making independently accredited laboratories comparable to each other rather than running any one of them well. I'm in southern Anne Arundel County, a straight run up to the Baltimore lab. I'd value fifteen minutes on what you need this region to look like a year from now.
+> Chris — I applied today for the Mid-Atlantic Regional Laboratory Operations Director role (req 2196). Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve departures to four. Analytical chemistry background, and I've taken two laboratories through ISO 17025 accreditation earlier in my career. My read from outside is that the hard half of a regional seat is making independently accredited laboratories comparable to each other rather than running any one of them well. I'm in southern Anne Arundel County, a straight run up to the Baltimore lab. I'd value fifteen minutes on what you need this region to look like a year from now.
 
 Under 300 characters if you need the connection-request version:
 
