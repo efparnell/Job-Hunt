@@ -79,11 +79,13 @@ You built management and progression systems, workflow and purchasing analysis, 
 
 **The 30% sales / 40% cost result is from Atlantic Test Labs (2017–2019), during a leadership transition — not from a multi-site industrial business.** Earlier versions of this doc framed it as an industrial turnaround. That was wrong. Attribute it correctly: it happened in **a startup cannabis testing lab**, which for this audience is *better*, not worse — it's a lab result, in a lab, under regulatory constraint.
 
-**The "8 locations / 300+ employees / $10M budget" claim needs your ruling before you use it.** Your Master Resume attaches those figures to **Green Analytics**, while you described that role as a ~40-person site. An older draft says "seven locations and 250+ employees." Both versions can be honest — the enterprise was that size and you built systems adopted across it without formal authority — but stated loosely it sounds like you ran 300 people, and a reference check or a sharp follow-up question will expose the gap.
+**The multi-site figures are resolved (confirmed 9/29).** Eight locations, a $10M operating budget, and headcount that **grew from 250 to roughly 350 during his tenure** — that is the **whole company**, which he influenced enterprise-wide while directly leading the ~40-person laboratory site.
 
-**Safe formulation if it's true:** *"I directly led a 40-person site, and the management infrastructure I built — the job architecture and the operating cadence — was adopted across an eight-location, 300-person organization where I had influence but no formal authority."* That's a more impressive claim than the vague one, because it names the hard part.
+**Say it in two clauses, always in this order:**
 
-**Decide tonight which version is accurate, and use only that one.** Nothing damages an otherwise strong interview faster than a number that moves.
+> *"I directly led a 40-person laboratory — three department managers, three shift leads, about sixteen analysts and techs. And the management infrastructure I built there, the job architecture and the operating cadence, was adopted across all eight locations as the company grew from 250 to about 350 people, with influence rather than formal authority."*
+
+Two reasons that version is stronger than the vague one. First, it can't be punctured — the direct-report scope and the enterprise scope are separate and both true. Second, **doing it without formal authority is the harder accomplishment**, and it is precisely the situation he'd walk into at Microbac, where three tenured sub-regional leaders already run their own pockets. The 250-to-350 growth also reframes the retention number: **he cut turnover ~75% while the company was scaling headcount 40%**, which is much harder than holding a steady-state team together.
 
 ### Story F — Why you left Green Analytics
 

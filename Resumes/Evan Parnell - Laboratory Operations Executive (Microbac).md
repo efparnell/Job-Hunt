@@ -23,6 +23,7 @@ My work is the same in every setting — find the constraint that keeps a techni
 - **ISO 9001 quality management system** designed and implemented following an unsuccessful external audit
 - **$1M+ in financing secured** for a greenfield laboratory build, through construction, validation and launch
 - **30% sales increase and 40% operating-cost reduction in four months** during a leadership transition
+- Management systems adopted across an **eight-location, ~350-employee, $10M-budget** organization
 
 ---
 
@@ -47,7 +48,8 @@ Laboratory Operations · P&L and Budget Ownership · ISO/IEC 17025 · ISO 9001 �
 
 Owned all internal operations of a high-throughput regulated analytical laboratory — people, workflow, throughput, quality practice and facility — partnered with a Laboratory Director who owned technical specialty and external relationships.
 
-- Led a site organization of roughly **40 people**: three department managers (chemistry, microbiology, sampling), three shift leads, and ~16 analysts and technicians.
+- Directly led a site organization of roughly **40 people**: three department managers (chemistry, microbiology, sampling), three shift leads, and ~16 analysts and technicians.
+- Built the management infrastructure adopted **across an eight-location organization that grew from 250 to approximately 350 employees on a $10M operating budget** — competency-based job architecture, workforce development, operating procedures and leadership systems — carried enterprise-wide through influence rather than formal authority.
 - **Doubled annual sample volume, from about 25,000 to roughly 48,000, on only 35% more staff** — approximately a 50% gain in output per person — by analyzing workflow and purchasing, redesigning the physical laboratory around how samples actually move, and building a management layer that owned its own results.
 - **Cut turnaround time from five days to three**, a competitive differentiator in a market where clients choose on speed and defensibility.
 - **Reduced turnover approximately 75%** by designing and implementing a **job-leveling program** — Technician I–III and Analyst I–III with published pay ranges, skill checklists, and supervisor sign-off and review — replacing a structure in which identical titles carried widely different pay and responsibility.
@@ -100,7 +102,7 @@ Joined a $400K field-services company as a technician and progressively took on 
 
 ## Notes for Evan — not part of the resume
 
-1. **One item needs your decision before this goes out.** Your Master Resume attributes *"eight locations, a $10M operating budget, and more than 300 employees"* to the Green Analytics role, and an older draft says *"seven locations and 250+ employees."* But you described the role to me as a single site with about 40 people. Those can both be true — the enterprise was that size and you built systems across it without formal authority — but as written on a resume it reads as if you ran 300 people, and that will not survive a reference check or a probing interview. **I left it off this version deliberately.** Tell me what's accurate and I'll put it back in a defensible form, e.g. *"Built management infrastructure adopted across an eight-location, 300-employee, $10M-budget organization while directly leading a 40-person site."* If it belongs in, it's a strength — it just has to be precise.
+1. **Resolved 9/29:** the eight-location / 250-to-350-employee / $10M figures are the **whole company**, which he influenced enterprise-wide while directly leading the ~40-person lab site. Both are now stated, and separated, above.
 2. **The 30%/40% result belongs to Atlantic Test Labs**, not to a multi-site industrial business. My earlier prep doc framed it as an industrial turnaround; that was wrong and is corrected here and in the prep doc.
 3. **You meet their stated minimum.** The posting asks for a bachelor's in science and **10 years of commercial laboratory experience**; you have roughly **14 years** (2012–2026) plus a B.S. in Chemistry from USNA. I had flagged that requirement as a reception risk — it isn't one. Say the number.
 4. **Format:** this is the content, not the layout. Your existing docx files carry your formatting; paste these sections in, or tell me and I'll produce a Word version directly.

@@ -5,6 +5,7 @@
 - **Turnaround 5 days → 3 days**
 - **Turnover down ~75%** — via the Job Leveling Program, not wages
 - **~40 people**: 3 department managers (chemistry, micro, sampling), 3 shift leads, ~16 techs and analysts
+- **Enterprise reach:** systems adopted across **8 locations**, company grew **250 → ~350 people**, **$10M budget** — influence, no formal authority. (Turnover fell 75% *while* headcount grew 40%.)
 
 Backup numbers: **14 years commercial lab experience** (they ask for 10) · **two ISO 17025 accreditations**, one with DEA registration · **ISO 9001 built after a failed audit** · **$1M+ financing** for a greenfield lab · **30% sales / 40% cost in four months** (Atlantic Test Labs)
 
