@@ -1,0 +1,13 @@
+Line,Identifier,Object,Type,SubType,Error/Warning,Steps
+27,annamschoon@gmail.com,Contacts,Error,,Could not read the phone number,"Ensure the phone numbers in your import file are in the correct format, preferably E.164 format (e.g., +1 1234567890). Then re-import the file."
+27,annamschoon@gmail.com,Opportunities,Error,,Corresponding opportunity could not get created,Correct the opportunity data in your import file and re-import it.
+52,
+innocentmaholi@gmail.com
+,Contacts,Error,,Invalid email address,Correct the email addresses in your import file and re-import it.
+52,
+innocentmaholi@gmail.com
+,Opportunities,Error,,Corresponding opportunity could not get created,Correct the opportunity data in your import file and re-import it.
+68,
+bruce@bruceburtch.com,Opportunities,Error,,Corresponding opportunity could not get created,Correct the opportunity data in your import file and re-import it.
+68,
+bruce@bruceburtch.com,Contacts,Error,,Invalid email address,Correct the email addresses in your import file and re-import it.

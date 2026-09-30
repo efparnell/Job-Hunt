@@ -27,7 +27,7 @@ Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificat
 1. Do the lab and site managers report to me, and who owns hiring them?
 2. **Is purchasing centralized or regional — can I change vendors or renegotiate?**
 3. Where does PFAS work in the Northeast go today, and is bringing 1633 or 533 into Dayville on the table?
-4. Is the P&L cut by site, by division, or by region? And does "Northeast" include Sterling VA and Pittsburgh?
+4. **Which laboratories are in the Mid-Atlantic, and how is it split from the Northeast?** Is the P&L cut by site, by division, or by region?
 5. Twelve months from now, what has to be true for this to have been a good hire?
 6. What's the escalation path when a site has a real problem at 7pm on a Saturday — and does this role become that number?
 
@@ -41,7 +41,13 @@ Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificat
 *"The industry doesn't have a hiring problem, it has a retention problem — testing labs pay below every other employer of chemists, and R&D labs raise faster. I cut turnover 75% with structure, not wages."*
 
 ## If asked about money
-*"Your posted range works for me. Given my last base and the scope here, I'd be looking at the upper end, and I'd want to understand the incentive structure on top of it."* Then ask about bonus, 401(k) match, and what the step after a successful region looks like.
+Posted band is **$90,000–$120,000** and you are going for **$120,000**.
+
+*"The top of your posted range works for me. My last base was in that neighborhood, and given the scope here — multiple accredited laboratories, a regional P&L, 50% travel — that's where I'd expect to land. I'd also want to understand what sits on top of it."*
+
+Then ask: bonus or profit share and how it's calculated · 401(k) match · review cycle timing · and **what the step after a successful region looks like.** Don't volunteer that you'd take less. Don't mention the Stellar income as a reason a lower base is survivable.
+
+**Leverage worth knowing, not mentioning:** this requisition has been open **30+ days** with a 10-year experience requirement. A search that has sat that long at this band is a search they want closed. That is a reason to aim at the top of it, calmly.
 
 ## Do not say
 - **No Mosaic Diagnostics, no GPL.** The citable acquisitions are **Geoanalytical/Turlock (Oct 2025)** and **Box R → Microbac Prineville (Jan 2026)**.

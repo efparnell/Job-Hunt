@@ -1,5 +1,9 @@
-# Microbac — full prep: Regional Laboratory Operations Director, Northeast
-**OPP-022 · Priority A · pursuing 9/30/26 · reports to Chris Long, COO · Baltimore base · ~50% travel · $110–130k**
+# Microbac — full prep: Regional Laboratory Operations Director, **Mid-Atlantic** (req 2196)
+**OPP-022 · Priority A · applying 9/30/26 · reports to Chris Long, COO · Baltimore base · 50% travel · $90–120k, targeting $120k**
+
+> **Retargeted 9/30:** Evan chose the **Mid-Atlantic** requisition (2196, Baltimore, open 30+ days) over the Northeast one (4467864999, $110–130k, one week old, Baltimore *or* Dayville CT). The Mid-Atlantic role is Baltimore-anchored with no pull toward Connecticut, which suits him better. Everything below applies to both unless noted; where it says "Northeast," read it as the region under discussion. **The footprint of the Mid-Atlantic region is the single biggest unknown — ask first.**
+>
+> **What the two postings together tell you:** Microbac is rebuilding its entire regional management layer at once. The Northeast req is a week old; this one has sat 30+ days. Both report to the COO. That means Chris Long is trying to install regional ownership across the whole eastern footprint, and he has been unable to close this one for a month.
 
 Companion docs: application materials and cover letter in `2026-09-29_Microbac_Regional_Lab_Ops_Director.md`. Company intel section below is appended from dedicated research.
 

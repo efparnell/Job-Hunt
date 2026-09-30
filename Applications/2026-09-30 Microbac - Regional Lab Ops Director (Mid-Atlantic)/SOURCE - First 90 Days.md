@@ -1,5 +1,5 @@
-# First 90 Days — Northeast Region
-**Evan Parnell** · Regional Laboratory Operations Director, Northeast
+# First 90 Days — Mid-Atlantic Region
+**Evan Parnell** · Regional Laboratory Operations Director, Mid-Atlantic
 *A working outline, offered for discussion rather than as a finished plan — it should change once I can see the region's actual numbers.*
 
 ---
