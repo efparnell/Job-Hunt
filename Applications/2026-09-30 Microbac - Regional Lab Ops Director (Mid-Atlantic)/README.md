@@ -93,8 +93,8 @@ Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock**
 ## Status
 
 - [ ] Confirm the Mid-Atlantic footprint and how it splits from the Northeast
-- [ ] Application submitted
-- [ ] LinkedIn note to Chris Long (same day)
+- [x] **Application submitted 9/30/2026** — req 2196, confirmed on the portal
+- [ ] **LinkedIn note to Chris Long — today**
 - [ ] Tracker updated (OPP-022 → Applied, Last Touch, next action)
 - [ ] Recruiter/HR screen
 - [ ] Conversation with Chris Long
