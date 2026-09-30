@@ -1,4 +1,4 @@
-# Microbac — Regional Laboratory Operations Director, Northeast
+# Microbac — Regional Laboratory Operations Director, **Mid-Atlantic** (req 2196)
 **OPP-022 · Fit 80 · Priority A (raised 9/29 on Evan's call) · posted ~9/22 · <25 applicants · $110–130k · 50% travel**
 Posting: https://www.linkedin.com/jobs/view/regional-laboratory-operations-director-northeast-at-microbac-laboratories-inc-4467864999
 Base: Baltimore, MD (or Dayville, CT). Reports to the **COO, Chris Long**.
@@ -37,7 +37,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 > Dear Mr. Long,
 >
-> I'm applying for the Regional Laboratory Operations Director role for the Northeast. The short version of my case: I ran the inside of a high-throughput analytical laboratory and doubled its output without doubling anything else.
+> I'm applying for the Regional Laboratory Operations Director role for the Mid-Atlantic (requisition 2196). The short version of my case: I ran the inside of a high-throughput analytical laboratory and nearly doubled its output without doubling anything else.
 >
 > As Associate Laboratory Director at Green Analytics, I owned everything inside the building — three department managers across chemistry, microbiology and sampling, three shift leads, and roughly sixteen technicians and analysts. Annual sample volume went from about 25,000 to just under 50,000 on a 35% increase in staff, which is close to a 50% gain in output per person. Turnaround went from five days to three. Turnover fell about 75%.
 >
@@ -45,7 +45,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 >
 > Earlier, at Atlantic Technical Systems and Atlantic Test Labs, I owned quality and accreditation end to end, including ISO 9001 and ISO 17025. My analytical background spans pharmaceutical, environmental and cannabis testing — HPLC, LC-MS/MS, GC-MS/MS, ICP-MS, qPCR and microbiological methods — and I'm comfortable in any analytical method.
 >
-> Why this role: from the outside, the Northeast looks less like five interchangeable labs than a network — Dayville carrying the organics and the multi-state licence stack, Baltimore running inorganics, microbiology and lead, and several service centers feeding them. I'd expect the harder half of this job is making those operations comparable to each other — the same definitions, the same cadence, the same standard — rather than running any one of them well. That's the work I'm best at, and it's why a multi-lab regional seat interests me more than another single-site job.
+> Why this role: a region of independently accredited laboratories, each with its own scope and its own state licences, can't be managed as one until its numbers mean the same thing at every site. Making several operations comparable — the same definitions, the same cadence, the same standard — while leaving technical authority where it belongs is the work I'm best at, and it's why a multi-laboratory regional seat interests me more than another single-site job. At Green Analytics what I was asked to fix was described as on-site leadership; the real constraint was that management systems built for a ten-person startup were running a multi-site organization.
 >
 > I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd welcome a conversation about what you need this region to accomplish in the next year.
 >
@@ -58,11 +58,11 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 ## Draft note to Chris Long (LinkedIn, send the same day you apply)
 
-> Mr. Long — I applied today for the Northeast Regional Lab Operations Director role. Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from ~25,000 samples to just under 50,000 on 35% more staff, cut turnaround from five days to three, and reduced turnover about 75%. Analytical chemistry background, ISO 9001/17025 ownership earlier in my career. Looking at the region from outside — Dayville carrying organics and the multi-state licences, Baltimore on inorganics, micro and lead, plus the service centers — I'd guess the hard half of this job is making them comparable rather than running any one of them. I'd value 15 minutes on what you need the region to look like a year from now.
+> Mr. Long — I applied today for the Mid-Atlantic Regional Laboratory Operations Director role (req 2196). Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve departures to four. Analytical chemistry background, and I've taken two laboratories through ISO 17025 accreditation earlier in my career. My read from outside is that the hard half of a regional seat is making independently accredited laboratories comparable to each other rather than running any one of them well. I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd value fifteen minutes on what you need this region to look like a year from now.
 
 Under 300 characters if you need the connection-request version:
 
-> Applied today for the Northeast Lab Ops Director role. As Associate Lab Director I doubled sample volume on 35% more staff, took turnaround 5 days to 3, cut turnover 75%. From outside, the hard part looks like making a mixed network of labs and service centers comparable. Worth 15 minutes?
+> Applied today for the Mid-Atlantic Lab Ops Director role (req 2196). As Associate Lab Director I took volume from ~25,000 to 47,000 samples while staff went 32 to 45, turnaround 5 days to 3, turnover 12/yr to 4. Two ISO 17025 accreditations earlier on. I'm 25 minutes from the Baltimore lab. Worth 15 minutes?
 
 ## Compensation — corrected 9/29, and it's not a problem
 
