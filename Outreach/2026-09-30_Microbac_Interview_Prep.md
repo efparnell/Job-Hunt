@@ -58,19 +58,32 @@ Why this matters more than it sounds: it's simultaneously a **retention system**
 
 Also say the culture part plainly, because it's real: you moved the lab from a culture of blame to one of responsibility, and you worked on psychological safety. Be honest that you don't know whether the last part outlasted you. That candor reads as credibility, not weakness.
 
-### Story C — Quality and accreditation: attribute it correctly
+### Story C — Quality and accreditation: you have more of this than you were claiming
 
-Accreditation ownership was **Atlantic Technical Systems and Atlantic Test Labs**, where you owned 100% of it, including ISO 9001 and ISO 17025 — **not** Green Analytics. Keep that straight; misattributing it is the kind of error that unravels an otherwise strong interview.
+Corrected 9/29 from your archived resumes. Your accreditation record is **three laboratory build-outs**, and it is the most underused asset in your file:
+- **Atlas Labs FL (2019–2021):** you took a greenfield lab from empty building to **ISO/IEC 17025 accreditation and DEA controlled-substance registration** — financing, construction, equipment procurement, installation, validation.
+- **Atlantic Test Labs (2017–2019):** you led the **ISO/IEC 17025 QMS implementation** supporting accreditation, method validation, documentation and regulatory readiness for a startup lab.
+- **Atlantic Technical Services (2012–2017):** you **rebuilt the operating system after an unsuccessful external audit** and implemented **ISO 9001**, and helped build one of Maryland's first pharmaceutical microbiology labs.
 
-At Green Analytics, the quality story is cultural rather than accreditation-based, and it's a good one: quality and accuracy won even when it cost a day. That's the answer to the QC-versus-deadline question, and it's true rather than rehearsed.
+**Why this matters more than anything else in a Microbac interview:** their entire business is accredited scope, and the PFAS constraint in 10.3 is an *accreditation and validation* problem, not a capital problem. **You have personally taken laboratories through 17025 accreditation and method validation twice.** Almost no operations candidate can say that. Say it early.
+
+Also, the failed-audit story is better than a clean one. Anyone can maintain a system someone else built; you rebuilt one that had already failed. **Ashley Malchow** — their Chief Quality, Safety and Risk Officer, who sits on A2LA's Accreditation Council — will recognize the difference immediately.
+
+At Green Analytics the quality story is cultural rather than accreditation-based, and it's still a good one: quality and accuracy won even when it cost a day.
 
 ### Story D — Systems: be precise about what you've built
 
 You built management and progression systems, workflow and purchasing analysis, and an ERP implementation earlier in your career. The lab analogue here is **LIMS**, which you should ask about rather than claim. If the three acquired labs are on different LIMS platforms, you've found the region's largest hidden cost — and that's a question that makes you sound like you've done this before.
 
-### Story E — Your multi-site industrial experience is now the *supporting* act
+### Story E — Two corrections about your own record (important)
 
-8 locations, 300+ employees, $10M budget, and the 30% sales / 40% cost turnaround still matter — they prove you operate above single-site scale, which is what a regional seat requires. But for this audience they come **second**, after the lab numbers. Reverse the order you'd use anywhere else in the pipeline.
+**The 30% sales / 40% cost result is from Atlantic Test Labs (2017–2019), during a leadership transition — not from a multi-site industrial business.** Earlier versions of this doc framed it as an industrial turnaround. That was wrong. Attribute it correctly: it happened in **a startup cannabis testing lab**, which for this audience is *better*, not worse — it's a lab result, in a lab, under regulatory constraint.
+
+**The "8 locations / 300+ employees / $10M budget" claim needs your ruling before you use it.** Your Master Resume attaches those figures to **Green Analytics**, while you described that role as a ~40-person site. An older draft says "seven locations and 250+ employees." Both versions can be honest — the enterprise was that size and you built systems adopted across it without formal authority — but stated loosely it sounds like you ran 300 people, and a reference check or a sharp follow-up question will expose the gap.
+
+**Safe formulation if it's true:** *"I directly led a 40-person site, and the management infrastructure I built — the job architecture and the operating cadence — was adopted across an eight-location, 300-person organization where I had influence but no formal authority."* That's a more impressive claim than the vague one, because it names the hard part.
+
+**Decide tonight which version is accurate, and use only that one.** Nothing damages an otherwise strong interview faster than a number that moves.
 
 ### Story F — Why you left Green Analytics
 
@@ -103,6 +116,8 @@ Ninety seconds, chronological, with a spine: chemistry and lab operations → qu
 
 **"You've run one lab. This job is several."**
 This is now your most likely real objection, so answer it before it hardens. The two halves of your career cover it: Green Analytics is the *depth* — what actually drives throughput, turnaround and retention inside a lab — and the 8-location, 300-person, $10M industrial operation is the *span*, including the part where sites that each think they're unique have to become comparable. Then the honest sentence: *"The regional job isn't running five labs myself. It's making five labs legible to each other and to you, and putting managers in place who own their numbers."*
+
+**"Do you meet the 10 years of commercial laboratory experience?"** — **Yes, roughly 14.** Atlantic Technical Services and the pharmaceutical microbiology lab build (2012), Atlantic Test Labs (2017–2019), Atlas Labs (2019–2021), Green Analytics (2021–2026), plus a B.S. in Chemistry from the Naval Academy. **Say the number early** — it clears their stated minimum and removes the only hard screen in the posting.
 
 **"How current are you technically? You haven't been at the bench in years."**
 Do not overclaim. The honest, strong answer: *"I'm not going to out-chemist your technical directors, and I shouldn't. What I keep current is enough method fluency to ask the right question and know whether an answer holds up."* Then give the hexavalent chromium example as an operations point — the prep queue, courier timing, instrument uptime and analyst certification behind a short-hold-time analysis are what set turnaround time and margin. One example. Move on.
