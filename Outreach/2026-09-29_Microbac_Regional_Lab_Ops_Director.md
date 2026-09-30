@@ -57,18 +57,11 @@ Under 300 characters if you need it shorter:
 
 > Applied today for the Northeast Lab Ops Director role. Analytical chemistry and ISO 17025 background, then 8 sites / 300 people / $10M P&L. With three labs recently acquired, I'd guess integration is the hard part. Worth 15 minutes?
 
-## The compensation problem — plan for it, don't ignore it
+## Compensation — corrected 9/29, and it's not a problem
 
-The posted range is **$110–130k**. His floor is $120k *after tax*, which in Maryland means roughly $160k gross. **Even the top of this range is meaningfully below his floor, by something like $30k.** This is not the Carter Machinery situation, where the top of the range at least reached his floor.
+**Superseded:** an earlier version of this doc treated $110–130k as roughly $30k below his floor. That was built on the old "$120k after tax" figure, which Evan has since corrected. His prior base at Green Analytics was **about $129k pre-tax**, and the Stellar consulting work continues ($2,000+ and $3,000+ invoiced in the last two cycles). So the posted range is lateral-to-up, and in his words "actually perfect to start."
 
-So: pursue it for fit, and get the money on the table early rather than after three rounds.
-
-Three questions worth asking once there's genuine interest:
-1. **Is the range the whole story?** Bonus, profit-share and the annual-plan structure may add materially, and a regional P&L role often has one.
-2. **Does the scope justify a higher band?** If integration of three acquired labs is really part of this, that's a different job than running an existing region, and it may argue for a Senior Director title and band.
-3. **What does 50% travel actually mean?** Which sites, how many nights, and does a Baltimore base reduce it? Half-time travel carries a real personal cost that should be priced in.
-
-If the answer to all three is no, this becomes a genuine decision rather than an obvious yes — worth having that clear before he's emotionally invested. His enthusiasm here is an asset in interviews and a liability in negotiation.
+Negotiating posture: anchor at the top of the posted range, ask about the incentive structure on top, and don't volunteer that he'd take less. Full script and the benefits checklist are in the comp section of `2026-09-30_Microbac_Interview_Prep.md`.
 
 ## Log
 
