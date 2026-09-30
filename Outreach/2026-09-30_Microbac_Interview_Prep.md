@@ -417,3 +417,69 @@ From a Smart Business Network interview, February 2022. Four years old, so treat
 3. *"Two federal deadlines land in 2027 — PFAS initial monitoring in April, Lead and Copper Rule Improvements in November. Lead and copper by 200.8 is already in Baltimore's scope. Has the region planned capacity for that wave, given samples arrive in the last two quarters before a deadline rather than evenly?"*
 4. *"The industry's problem isn't hiring, it's retention. Testing labs pay below every other employer of chemists and R&D labs are raising faster. I cut turnover about 75% at my last lab with a job-leveling structure rather than with wages."*
 5. *"You have three sub-regional leaders today, all tenured. I wouldn't reorganize that in month one. I'd make their numbers comparable first and let the structure question answer itself."*
+
+---
+
+## 11. Evidence found for your claims (9/29, from Google Drive → Networking folder)
+
+### 11.1 The volume claim is documented, and the arithmetic works
+
+**File:** `Samples Tracking - FC Only.xlsx` (Drive, Networking folder, last modified 7/11/2024) — [open it](https://drive.google.com/file/d/1hThehk057GVUgRpWBi-MKEIBG3vBuQs_/view)
+
+It's a month-by-month sample count from Jan 2022 through Jul 2024, with a category-mix summary at the top: **SS 48 / RD 219 / FC 408 = 675**, i.e. **FC ≈ 60% of total volume**. The monthly series tracks FC only.
+
+| | Monthly FC min | Monthly FC average | Monthly FC max |
+|---|---|---|---|
+| 2022 | 1,129 | **1,583** | 2,149 |
+| 2023 | 1,927 | **2,397** | 3,130 |
+| 2024 (Jan–Jul) | — | ~1,673 | 2,076 |
+
+**Annualizing and grossing up by the 60% FC share:**
+- 2022 ≈ 19,000 FC → **~31,700 total samples**
+- 2023 ≈ 28,800 FC → **~48,000 total samples**
+
+**So "just under 50,000 samples a year" is corroborated by 2023, and the file is the receipt.** It also records the year-over-year change directly: **2023 versus 2022 averaged +55.8%**.
+
+**The baseline resolves cleanly (confirmed 9/29):** **2021 total was ~25,000** — the year before you arrived. You started **November 29, 2021**, had a baby on **December 24, 2021**, and were effectively on the job from **February 2022**. So the progression is:
+
+| Year | Total samples |
+|---|---|
+| 2021 (before you) | ~25,000 |
+| 2022 | ~31,700 |
+| 2023 | **~48,000** |
+
+**That's the claim, and it's airtight: roughly doubled annual volume in two years, from about 25,000 to just under 50,000, on 35% more staff.** If you want the version straight off the file with no derivation, use *"2023 finished near 48,000 samples, up about 56% over 2022."*
+
+Don't volunteer the baby, but it's a fair answer if someone asks why your first months look light — and frankly it makes the ramp more impressive, not less.
+
+### 11.2 The same file protects you on the decline
+
+2024 runs **−18.4% against 2023**, and July 2024 collapses to 408. The file itself annotates why: **"Projected loss due to Batch Size Change ~17%"**. So the downturn was a **regulatory batch-size change**, not an operating failure.
+
+This matters because it's the quantitative version of your departure story: volume was structurally capped by a rule change, expansion stopped, and the business no longer needed someone to scale it. If anyone asks "did the volume hold after you left?" you can answer honestly and without defensiveness. **Have the batch-size change explanation ready — it's the difference between a market story and a performance story.**
+
+### 11.3 A capability worth naming (without the data)
+
+That spreadsheet also tracked microbial pass/fail rates, and the *reason* you tracked them is the part that belongs in an interview: **watching for excursions in normal pass/fail rates as a macro read on lab quality, and as the earliest available signal of a system problem** — a failing instrument, a reagent lot, a drifting method, a technique problem on one shift.
+
+That's an operator's use of QC data rather than a chemist's, and it's exactly the instinct a regional director needs across several labs where you can't be in the room. **The client-level numbers themselves stay out of this** — they were relevant when you were in the seat, not now, and they're a former employer's and their customers' data.
+
+**Say it as a method, not a metric:** *"I watched pass/fail rates at the method level as a leading indicator. A quality system tells you what already failed; excursion trends tell you what's about to."*
+
+**Definitions for your own recall** (don't cite abbreviations you can't expand): **TYMC** = Total Yeast and Mold Count; **TAC** = Total Aerobic Count. Trade shorthand in analytical microbial testing.
+
+**And here's the bridge to tomorrow:** Microbac's **Baltimore** A2LA biological scope explicitly includes **Rapid Yeast & Mold**, **Aerobic Plate Count and Rapid APC**, coliforms and E. coli by Petrifilm, Enterobacteriaceae, and Listeria and Salmonella confirmation. **That is the same micro bench you were managing.** You can speak to their Baltimore lab's actual test menu from direct experience — which is a rare thing for an outside candidate to be able to do, and worth saying plainly.
+
+### 11.4 The management-training claim is documented too
+
+**File:** `Management Training.docx` (Drive, Networking folder, ~84,000 characters) — [open it](https://drive.google.com/file/d/1srGAyy-FdL7pO5V69_BP5RmbxKWB9Ij3/view)
+
+This is the curriculum you assembled for developing middle managers. Its sections include: the finite versus infinite game and the five attributes of an infinite mindset (Sinek), **Put People Before Profits**, **Why Middle Management Is the Hardest Job**, **Employee Retention**, **Psychological Safety**, **Recognize Your Staff at Ground Level**, Extreme Ownership, Metronomics, and Scaling Up.
+
+**Why this matters for tomorrow:** it's evidence that your 75% turnover reduction came from a deliberate management-development program, not luck — and the emphasis on middle management, retention and psychological safety is exactly what you described. Describe it accurately as **the curriculum you built and taught** (much of it compiled from published frameworks), not as original authorship.
+
+It also pairs directly with Microbac's own published claim in 10.14: *"Our exceptional customer service is a result of the service that my team gives to each team member."* They believe internal treatment drives external service. You built a program on that premise and have the retention number to show it. **That's the most aligned thing you could bring into the room.**
+
+### 11.5 Still outstanding
+
+A scan of the E: backup drive for further supporting detail — Green Analytics artifacts, the Job Leveling Program documents, Atlantic Technical Systems / Atlantic Test Labs ISO and accreditation records, your thesis, and older resume versions — was running when this was written. Anything it turns up gets appended here.
