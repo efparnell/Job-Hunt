@@ -38,9 +38,50 @@ Reusable across applications. Started 9/29/2026 for Microbac (OPP-022).
 
 ---
 
-## 2, 3 and 4 — to complete
+## 2. Executive references — Marc and/or Andrew Rosenstein (CFO and CEO)
 
-Candidates named: **Scott Robertson · Caroline Stanka · Kiera Matlock** (Green Analytics and/or Atlantic Test Labs).
+**Both will pick up if he calls.** That is worth more than most references, and it corroborates something he can't prove alone: that he had a **standing two-way line to the C-suite** and that he left on good terms.
+
+**Use them for altitude, not detail.** A CEO or CFO will confirm scope, trust, enterprise impact and judgment. They will *not* be able to describe the prep queue or a turnaround bottleneck, and if they're the only references, a careful interviewer notices that nobody close to the work was offered.
+
+**Split them deliberately, because they corroborate different things:**
+
+| Person | Best used for |
+|---|---|
+| **CFO** | The **$10M operating budget**, the **~15% operating-cost reduction**, and the **purchasing and inventory system across the laboratory network**. He held the finances closely with no qualified helpers, which makes him the one person who can confirm those numbers are real. **This is the highest-value executive call available**, because cost claims are the hardest for an outsider to verify. |
+| **CEO** | Enterprise adoption of the job leveling framework **across eight laboratories and 250+ employees**, the trust behind the standing escalation line, and the departure narrative. |
+
+**Recommendation: list the CFO as reference #2 and hold the CEO as the reserve.** Two executives from the same company in a set of three crowds out the dimension that actually sells this role — someone he developed.
+
+### One thing to do before listing either of them
+
+**Align the departure narrative.** His version: career progression diverged from the business's future, the market capped out, expansion stopped, the next-phase need was technical depth, and he told them to hire a chemist. That is true and he should say it — but a reference call that produces a *different* framing is damaging even when both are honest.
+
+So ask, plainly and without coaching: *"If someone asks why I left, how would you describe it?"* Listen for a mismatch. Two specifics worth surfacing in that conversation:
+- He is **still nominally on their payroll as a backup reporting officer**. If a reference call or verification turns that up, both accounts need to match.
+- His private frustrations — not getting the C-suite to run the business professionally, a ceiling on his mobility, the intent to sell within ~5 years — **stay private**. Don't test whether they share that read; just make sure the public story is consistent.
+
+## 3. Daniel Kulakowski
+
+Named as a reference who will take his call. **Role and company still needed** — and the answer determines the slot:
+- If he was **one of the five middle managers**, he is the best available #3: someone whose own progression ran through the leveling framework. "He built the structure that got me promoted" is the most persuasive thing this set can contain.
+- If he was a **peer or technical lead**, he's a strong alternate to Margaret for the ATS/ATL era.
+- If he was **senior**, he competes with the Rosensteins for the same dimension — in which case keep him in reserve.
+
+*(Spelling: he wrote "Danial" — confirm before it goes on a sheet given to an employer.)*
+
+## Recommended slate for Microbac
+
+1. **Margaret Crouse** — eleven years across all three companies; the leveling framework, ISO 17025/9001, day-to-day laboratory operations.
+2. **The CFO (Marc or Andrew Rosenstein)** — budget, the ~15% cost reduction, purchasing across the network.
+3. **A former report** — Daniel Kulakowski if he was one of the five managers, otherwise Scott Robertson, Caroline Stanka or Kiera Matlock.
+4. **Reserve: the CEO** — enterprise adoption, trust, departure.
+
+That covers technical credibility, financial verification and people development, and keeps an ATS/ATL-era voice in the set.
+
+## Other candidates — to complete
+
+Remaining candidates: **Scott Robertson · Caroline Stanka · Kiera Matlock** (Green Analytics and/or Atlantic Test Labs).
 
 For each, capture: title, where and when you worked together, contact details, whether you've asked, and — most importantly — **the one claim they're best positioned to corroborate**.
 
@@ -68,8 +109,10 @@ Give people the context to be useful. A reference who knows which claim to speak
 ## Checklist
 
 - [ ] Margaret Crouse — contact details added, permission asked
-- [ ] Reference 2 identified and asked
-- [ ] Reference 3 identified and asked
-- [ ] Reference 4 (reserve) identified
+- [ ] CFO (Marc or Andrew Rosenstein) — confirm which is CFO, ask permission
+- [ ] Departure narrative aligned with whoever is listed from Green Analytics
+- [ ] Daniel Kulakowski — role and company confirmed, spelling verified, slot decided
+- [ ] Third reference chosen from the former-report pool
+- [ ] CEO held as reserve
 - [ ] Each mapped to a distinct claim
 - [ ] Posting and resume sent to each
