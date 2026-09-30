@@ -6,7 +6,7 @@
 
 ## Operating principle
 
-A region of independently accredited laboratories with different scopes, different licences and different histories cannot be managed as one until its numbers mean the same thing at every site. **Measurement first, standardization second, structure last.** I would rather be deliberately slow for thirty days than reorganize something in week two that I do not yet understand.
+A region of independently accredited laboratories with different scopes, different licenses and different histories cannot be managed as one until its numbers mean the same thing at every site. **Measurement first, standardization second, structure last.** I would rather be deliberately slow for thirty days than reorganize something in week two that I do not yet understand.
 
 ---
 
@@ -38,7 +38,7 @@ A region of independently accredited laboratories with different scopes, differe
 
 **Publish the region's numbers internally** so sites can see each other. Visible comparability drives more improvement than any target I could set from Baltimore.
 
-**Protect what is working.** Where a site or sub-region already performs, the cadence should confirm it and get out of the way. Technical authority stays with the technical leaders who hold the licences.
+**Protect what is working.** Where a site or sub-region already performs, the cadence should confirm it and get out of the way. Technical authority stays with the technical leaders who hold the licenses.
 
 **Deliverable at 60 days:** a single regional operating review, running on common definitions.
 

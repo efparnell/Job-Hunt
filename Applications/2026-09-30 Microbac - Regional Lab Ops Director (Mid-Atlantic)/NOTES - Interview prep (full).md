@@ -338,7 +338,7 @@ Microbac already runs this model elsewhere — **Adam Paddock** covers the West 
 
 **Say it, and offer the reference:** *"I've done this exact pairing for four years. My Lab Director was a PhD organic chemist — he owned the science and the external relationships, I owned the operation inside the building. He's one of my references, and he's the right person to ask whether that held up."* Volunteering the person best positioned to contradict you is the strongest available signal that it's true.
 
-**So expect the real question:** how would you take on three functioning pockets, each with a tenured leader, without breaking them? Your answer is the 90-day plan — measure first, standardize the measurement layer, leave technical authority where it belongs. Note also that **Warila is key-person risk**: he is personally named on the certificate for the region's most licence-dependent asset. Raising that thoughtfully — as succession and bench depth, not as a threat — shows you think like an operator.
+**So expect the real question:** how would you take on three functioning pockets, each with a tenured leader, without breaking them? Your answer is the 90-day plan — measure first, standardize the measurement layer, leave technical authority where it belongs. Note also that **Warila is key-person risk**: he is personally named on the certificate for the region's most license-dependent asset. Raising that thoughtfully — as succession and bench depth, not as a threat — shows you think like an operator.
 
 **Useful detail:** their own CFO blog says Microbac already does **"monthly financial tracking per facility,"** which is exactly the job's "monthly tracking and roll up." Ask what that pack contains today and what's missing from it.
 
@@ -468,7 +468,7 @@ From a Smart Business Network interview, February 2022. Four years old, so treat
 
 ### 10.10 Five things worth saying, if the moment comes
 
-1. *"Baltimore's scope is inorganics, micro and environmental lead; Dayville is where the organics, radiochem and the multi-state licence stack live. So this isn't five interchangeable labs — it's a network with one workhorse, a couple of real labs and several service centers. Is the P&L cut by site, by division, or by region?"*
+1. *"Baltimore's scope is inorganics, micro and environmental lead; Dayville is where the organics, radiochem and the multi-state license stack live. So this isn't five interchangeable labs — it's a network with one workhorse, a couple of real labs and several service centers. Is the P&L cut by site, by division, or by region?"*
 2. *"Where does PFAS work in the Northeast go today, and is bringing 1633 or 533 into Dayville on the table?"*
 3. *"Two federal deadlines land in 2027 — PFAS initial monitoring in April, Lead and Copper Rule Improvements in November. Lead and copper by 200.8 is already in Baltimore's scope. Has the region planned capacity for that wave, given samples arrive in the last two quarters before a deadline rather than evenly?"*
 4. *"The industry's problem isn't hiring, it's retention. Testing labs pay below every other employer of chemists and R&D labs are raising faster. I cut turnover about 75% at my last lab with a job-leveling structure rather than with wages."*

@@ -18,7 +18,7 @@ Backup: **14 years commercial lab** (they ask 10) · **two ISO 17025 accreditati
 Region today: **Ron Warila** (Dayville + Lee, 11 yrs, named on the CT certificate) · **Katie Owens** (Cortland + Pittston) · **Erica Kozen** (Pittsburgh Division incl. Baltimore) · **Russ Porter** (Baltimore)
 
 ## Four facts that prove you did the homework
-1. **Baltimore runs inorganics, micro and environmental lead** — metals by 200.8, nitrate/nitrite by 353.2, Colilert coliforms — **no organics, no radiochem, no PFAS**. **Dayville** is the full-service workhorse with an 11-state licence stack.
+1. **Baltimore runs inorganics, micro and environmental lead** — metals by 200.8, nitrate/nitrite by 353.2, Colilert coliforms — **no organics, no radiochem, no PFAS**. **Dayville** is the full-service workhorse with an 11-state license stack.
 2. **Baltimore's micro scope is your bench** — rapid yeast and mold, APC, coliforms, Listeria, Salmonella confirmation. TYMC and TAC by another name.
 3. **The Northeast has no single owner today** — three sub-regional pockets. The West Coast and Midwest already have regional directors. That's why this seat exists.
 4. **Founded 1969, third generation, largest family-owned testing company in the US.** Their line: *"combine local relationships with the strength of a national network."*
