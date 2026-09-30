@@ -12,8 +12,9 @@ Every other application has asked Evan to argue that operating skill transfers a
 ## Company facts (verified 9/29)
 
 - **Privately held, family-run, founded 1969**, HQ Pittsburgh. Trevor Boyce, Chairman & CEO. Grayson Boyce, President. Chris Long, COO.
-- **Buying labs:** Mosaic Diagnostics (6/2025), Geoanalytical Labs (Turlock, CA), GPL Laboratories.
+- **Buying labs — but verify before citing:** the one confirmed recent deal is **Geoanalytical Labs** (Turlock CA, announced ~10/29/2025).
 - Divisions span environmental, food, life sciences and specialty testing.
+- **Verified acquisitions:** Geoanalytical Labs (Turlock CA), announced ~10/29/2025. **Mosaic Diagnostics is unverified and GPL Laboratories dates to ~2009 — do not cite either.** Dayville and Lee came in together in Nov 2013 as Premier Laboratory. Their own stated focus has since shifted from acquisition to **organic growth**.
 - **Do not call them PE-backed.** An earlier scan note said that and it's wrong. A family-owned acquirer has different anxieties than a sponsor platform: they care about protecting the name over 50+ years and about absorbing acquisitions without breaking the culture, not about a 5-year exit. Speak to continuity and durable systems, not to an exit thesis.
 
 ## The pitch, three beats
@@ -44,7 +45,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 >
 > Earlier, at Atlantic Technical Systems and Atlantic Test Labs, I owned quality and accreditation end to end, including ISO 9001 and ISO 17025. My analytical background spans pharmaceutical, environmental and cannabis testing — HPLC, LC-MS/MS, GC-MS/MS, ICP-MS, qPCR and microbiological methods — and I'm comfortable in any analytical method.
 >
-> Why this role: with Mosaic, Geoanalytical and GPL recently in the fold, I'd expect the harder half of this job is making several labs comparable — the same definitions, the same cadence, the same standard — rather than running any one of them well. That's the work I'm best at, and it's why a multi-lab regional seat interests me more than another single-site job.
+> Why this role: from the outside, the Northeast looks less like five interchangeable labs than a network — Dayville carrying the organics and the multi-state licence stack, Baltimore running inorganics, microbiology and lead, and several service centers feeding them. I'd expect the harder half of this job is making those operations comparable to each other — the same definitions, the same cadence, the same standard — rather than running any one of them well. That's the work I'm best at, and it's why a multi-lab regional seat interests me more than another single-site job.
 >
 > I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd welcome a conversation about what you need this region to accomplish in the next year.
 >
@@ -57,11 +58,11 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 ## Draft note to Chris Long (LinkedIn, send the same day you apply)
 
-> Mr. Long — I applied today for the Northeast Regional Lab Operations Director role. Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from ~25,000 samples to just under 50,000 on 35% more staff, cut turnaround from five days to three, and reduced turnover about 75%. Analytical chemistry background, ISO 9001/17025 ownership earlier in my career. With Mosaic, Geoanalytical and GPL recently acquired, I'd guess the hard half of this job is making the labs comparable rather than running any one of them. I'd value 15 minutes on what you need the region to look like a year from now.
+> Mr. Long — I applied today for the Northeast Regional Lab Operations Director role. Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from ~25,000 samples to just under 50,000 on 35% more staff, cut turnaround from five days to three, and reduced turnover about 75%. Analytical chemistry background, ISO 9001/17025 ownership earlier in my career. Looking at the region from outside — Dayville carrying organics and the multi-state licences, Baltimore on inorganics, micro and lead, plus the service centers — I'd guess the hard half of this job is making them comparable rather than running any one of them. I'd value 15 minutes on what you need the region to look like a year from now.
 
 Under 300 characters if you need the connection-request version:
 
-> Applied today for the Northeast Lab Ops Director role. As Associate Lab Director I doubled sample volume on 35% more staff, took turnaround 5 days to 3, cut turnover 75%. With three labs recently acquired, I'd guess integration is the hard part. Worth 15 minutes?
+> Applied today for the Northeast Lab Ops Director role. As Associate Lab Director I doubled sample volume on 35% more staff, took turnaround 5 days to 3, cut turnover 75%. From outside, the hard part looks like making a mixed network of labs and service centers comparable. Worth 15 minutes?
 
 ## Compensation — corrected 9/29, and it's not a problem
 

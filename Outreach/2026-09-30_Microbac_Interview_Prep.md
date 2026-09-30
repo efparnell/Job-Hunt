@@ -151,10 +151,10 @@ Ops candidates get hired on their questions more than their answers. Ask these i
 3. Which lab in the region worries you most right now, and why that one?
 4. When you look at the region monthly today, what do you see and what do you wish you saw?
 
-**Integration (the real work):**
-5. Where are Mosaic, Geoanalytical and GPL in the integration? Same LIMS? Same method suites? Same pricing logic?
-6. What's been hardest about absorbing acquisitions so far — systems, people, or clients?
-7. Is more acquisition activity likely in the Northeast in the next year?
+**Standardization and growth (the real work):**
+5. Are the region's labs on a common LIMS, common method suites and common pricing logic, or does each carry its own? (Ask generally — don't cite acquisitions; see 10.9.)
+6. What's been hardest about bringing a newly acquired lab onto the network — systems, people, or clients?
+7. Is the Northeast growth plan organic, acquisitive, or both over the next year?
 
 **Authority and scope — ask these, they define whether the job is real:**
 8. Do the lab or site managers report to me directly, and who owns hiring decisions for them?
@@ -246,6 +246,174 @@ Lightly, and only where it comes up naturally. **Verify anything you plan to sta
 
 ---
 
-## 10. Company intel
+## 10. Company intel (researched 9/29, primary sources)
 
-*(Appended below from dedicated research — footprint, Northeast labs, accreditations, acquisition timeline, competitors, and 2026 industry conditions.)*
+### 10.1 The footprint, and what "multiple accredited labs" actually means
+
+Microbac lists **32 locations in 17 states**; say "just over 30," because their own pages variously claim 25, 30+ and 34. **Eleven sites are in the Northeast/Mid-Atlantic**, and critically they are *not* eleven full labs. The region is a mixed network:
+
+| Site | What it actually is |
+|---|---|
+| **Dayville, CT** | The region's **full-service environmental workhorse** — organics, radiochem, wastewater — with an 11-state certification stack (CT, KY, MD, MA, NH, NY, NC, PA, RI, TN, VA) |
+| **Baltimore, MD** (your base) | **Inorganics + microbiology + environmental lead**, plus a food-micro bench. Metals by 200.8, nitrate/nitrite by 353.2, coliforms and E. coli by Colilert, HPC. **No organic chemistry, no radiochem, no PFAS.** |
+| Cortland, NY | Real food/dairy + environmental micro lab (A2LA biological, NY dairy license) |
+| Pittston, PA | PA/NJ/NY certified, plus regional drop points |
+| Erie, PA | Small micro/field lab (drinking-water micro, field parameters) |
+| Harrisburg, PA | **Four accredited parameters only** — effectively a field-parameter and sample-receipt site |
+| Lee, MA · Sayre, PA | **Service centers** (Service Center Managers, not lab directors) |
+| Pittsburgh/Warrendale HQ | A2LA chemical and biological, PA dairy |
+| Sterling, VA | **Life Sciences** — FDA drug establishment registration, select-agent registration, high-containment virology |
+| Richmond, VA | Environmental |
+
+**Why this matters:** the posting says "multiple accredited, **independent** commercial laboratory facilities," and that word is literal. Sites carry their own accreditation identities — "Baltimore Division," "Erie Division," "Ohio Valley Division" — so a regional P&L spans separately accredited entities with separate scopes. That's the structural reason this job is hard, and naming it will land.
+
+**Ask directly:** does "Northeast" include Sterling VA (different division, entirely different regulatory regime) and Pittsburgh HQ?
+
+### 10.2 The org chart — and the real reason this job exists
+
+**Today the Northeast runs in three separate pockets with no single owner:**
+
+| Leader | Title | Sites |
+|---|---|---|
+| **Ron Warila** | Technical Director and Division Manager | Dayville CT, Lee MA ("New England laboratories"). **11 years.** B.A. Chemistry, URI. Multi-state approved Chemistry and Microbiology Laboratory Director, and the **named Director on the Connecticut state certificate** |
+| **Katie Owens** | Senior Operations Manager | Cortland NY, Pittston PA — the Eastern PA and NY labs and service centers. B.S. Chemistry |
+| **Erica Kozen** | Operations Manager, Pittsburgh Division | Pittsburgh, **Baltimore**, Richmond. B.S./M.S. Biology. **Named responsible contact on Baltimore's Maryland state certificate** |
+| **Russ Porter** | Operations Manager | Baltimore |
+
+Microbac already runs this model elsewhere — **Adam Paddock** covers the West Coast (Arcata, Prineville, Turlock) and **Leslie Taylor** covers the Midwest. **The Northeast is the gap.** That is almost certainly why the seat exists.
+
+**So expect the real question:** how would you take on three functioning pockets, each with a tenured leader, without breaking them? Your answer is the 90-day plan — measure first, standardize the measurement layer, leave technical authority where it belongs. Note also that **Warila is key-person risk**: he is personally named on the certificate for the region's most licence-dependent asset. Raising that thoughtfully — as succession and bench depth, not as a threat — shows you think like an operator.
+
+**Useful detail:** their own CFO blog says Microbac already does **"monthly financial tracking per facility,"** which is exactly the job's "monthly tracking and roll up." Ask what that pack contains today and what's missing from it.
+
+### 10.3 The PFAS gap — your single best interview asset
+
+**No Microbac location in the Northeast or Mid-Atlantic holds PFAS accreditation.** Confirmed three independent ways: Connecticut's approved-PFAS-lab list (7/1/2026) shows Microbac exactly once — **Marietta, Ohio, for 537.1 only**; Rhode Island's out-of-state list shows the same single Ohio Valley entry; and Dayville's own 15-page certified-analyte report contains **zero** instances of PFAS, 1633, 537 or 533.
+
+Meanwhile, in their own backyard: **Pace** (East Longmeadow and Mansfield MA, Fairfield NJ), **ALS** (Middletown and Queens NY, Toms River NJ), **Eurofins** (Lancaster PA), **SGS** (Dayton NJ), **EMSL** (Cinnaminson NJ), **Complete Environmental** (Stratford CT), plus Katahdin and Nova in Maine all hold in-region PFAS approvals. Every large one is public or PE-backed and consolidating hard.
+
+**The demand drivers are real and dated:**
+- **April 26, 2027:** federal PFAS initial-monitoring deadline under the 2024 drinking-water rule. Still legally in force — two proposed 2026 rules would rescind four of the six analytes and extend *treatment* deadlines, but neither is final and the PFOA/PFOS 4.0 ppt limits stand.
+- **Pennsylvania biosolids:** DEP proposed permits (7/2/2026) carrying first-ever PFAS requirements — PFOA and PFOS **by Method 1633**, twice yearly or quarterly depending on volume. A named-method, fixed-frequency, recurring mandate across a large state's wastewater plants. Microbac has **no in-region 1633 capability**.
+- **CERCLA upheld:** on 8/18/2026 the D.C. Circuit unanimously upheld PFOA and PFOS as hazardous substances, which makes site-investigation work (1633A, non-potable matrices) durable regardless of what happens to the drinking-water analyte list.
+- **Ten states enforce their own PFAS MCLs**, including NJ, NY, NH, MA, ME, RI, VT and PA — several stricter or broader than the federal rule, so a federal rescission wouldn't shrink required scope there. (Maryland has advisory levels, not an enforceable MCL.)
+
+**Use this as a question, never as an accusation.** Ask: *"Where does PFAS work in the Northeast go today?"* Let them tell you Marietta. Then: *"Is bringing 1633 or 533 capability into Dayville on the table, or is the hub model deliberate?"* There are legitimate reasons to hub PFAS — capital, contamination control, scope-addition cost — so don't assume oversight. But you now hold the most valuable question in the room, and if they ask for a 100-day proposal, this is it.
+
+**Scope-addition economics if it comes up:** agency fees for adding methods run roughly $8.5–11k in a state like California and far less in Florida; TNI baseline requires two proficiency samples per analyte per year plus a Demonstration of Capability before accreditation. A refurbished triple-quad LC-MS/MS runs about $120–165k, with service at 10–15% of purchase price per year. **Capital isn't the constraint — accreditation scope and validation time are.** That's an operator's read rather than a scientist's.
+
+### 10.4 The second 2027 deadline — and this one needs no new accreditation
+
+The **Lead and Copper Rule Improvements** compliance date is **November 1, 2027**: lead service line replacement within ten years, changed tap-sampling procedures, a lower action level. EPA said in 2025 it would defend the rule and issued implementation tools in June 2026.
+
+**Lead and copper run by EPA 200.8 — already inside Baltimore's certified scope.** Two federal drinking-water deadlines land in the same calendar year, and one lands on a bench your base lab already has. That's an organic-growth and capacity conversation needing no capital and no new accreditation, and it's exactly what a regional director should walk in already seeing. **This may be your strongest single contribution in a first interview.**
+
+Related context: **UCMR 5 PFAS monitoring ended December 2025 and UCMR 6 doesn't begin until January 2028 on a different method stack** (563, 540, 525.3, 524.3 — not 533/537.1). So 2026–27 carries a utilization gap that the 2027 compliance waves have to bridge. And compliance samples don't arrive evenly — they arrive in the last two quarters before a deadline, which is a scheduling and holding-time problem before it's a capacity problem.
+
+### 10.5 The labor argument — the data inverts the cliché, and it favors you
+
+Don't walk in saying there's a chemist shortage. The numbers say otherwise, and knowing that is itself a differentiator:
+
+- **Contract testing labs are the lowest-paying employer of chemists in the country.** BLS May 2025 data: chemists' national median $91,240 versus **$66,140 in testing laboratories** — a 27.5% gap. Chemical technicians $60,390 versus **$49,050**.
+- **Wage pressure is cooling, not rising.** Professional/scientific/technical compensation is up about 3.0% year over year, and testing-lab hourly earnings have been roughly flat since March 2026. Quits rates are below 2025.
+- **But churn is enormous.** Chemical technicians see roughly **7,600 openings a year against a 60,000 base**, with only about 4% of openings coming from growth. The occupation replaces itself within a decade.
+- **R&D labs are bidding wages up nearly twice as fast** as testing labs (+6.3% versus +3.5%), which is precisely where a contract lab loses its best people.
+- Inside contract labs, **technicians outnumber chemists** (10,550 versus 8,890), which means **accredited method scope and certification discipline — not degrees — are the real capacity constraint.**
+
+**The sentence to say:** *"The industry doesn't have a hiring problem, it has a retention problem, and it's structural — testing labs pay below every other employer of chemists while R&D labs raise faster."* Then land your own record: **turnover down about 75%**, delivered through the Job Leveling Program — published ranges, skill checklists, sign-offs. You didn't solve it with wages, you solved it with structure and a visible path. **This is the strongest pairing of evidence and argument you have for this job.**
+
+### 10.6 Chris Long — how to pitch to this specific person
+
+His published language: *"leading enterprise-wide operations, driving strategic growth, operational excellence,"* a *"collaborative leadership style, commitment to continuous improvement, and ability to deliver results in complex operating environments,"* credited with *"improving efficiency, strengthening customer partnerships, and developing high-performing teams."* **B.S. Biology, internally promoted, long-tenured.**
+
+Mirror that vocabulary: **throughput, schedule reliability, efficiency, customer partnership, developing people.** Don't try to out-science him, and don't lead with analytical chemistry depth — his published identity is operator, not scientist. Your Green Analytics numbers are already written in his language.
+
+Others you may meet: **Derrick Friedrich**, CTO, 35+ years, who **started as a dishwasher** and worked nearly every lab role — he'll respect the inside-the-walls story. **Ashley Malchow**, Chief Quality, Safety and Risk Officer, among the first 18 people to earn TNI's quality-systems certification and a member of A2LA's Accreditation Council — with her, quality is not a box to tick. **Grayson Boyce**, President. **Alexandra Boyce**, Chief Innovation Officer — **IT, and therefore LIMS, sits under her**, not under the COO, which is worth knowing before proposing any systems change.
+
+### 10.7 Company identity, and what they sell against
+
+- **"The largest family-owned, privately held third-party testing company in the nation."** Founded 1969, when A. Warne Boyce bought a small Pittsburgh dairy laboratory. **Third generation** now in leadership.
+- Their positioning against the consolidators, verbatim from the Geoanalytical announcement: **"combine local relationships with the strength of a national network."**
+- Stated values include **"Greatest Efficiency — quick turnarounds without quality compromise."** That is your resume in their own words: five days to three, with quality still winning.
+- The best quote for this role, from May 2026: **"When the stakes are high, you don't just need a test. You need a partner who owns the integrity of the result."** Their published quality philosophy is that data quality begins at collection — preservation, transport, receipt, chain of custody. That's an operations argument, and you can build a real answer on it.
+- Published benefits: medical/dental/vision, life and disability, generous PTO, flex time, wellness program, referral bonuses, **tuition reimbursement**, **401(k) matching**.
+- **Their growth strategy has shifted.** Their CFO blog says that once they had acquired a number of mom-and-pop labs, "the focus switched to **organic growth**." That reframes your pitch: less about integrating acquisitions, more about growing the labs they already have — which is exactly what 10.3 and 10.4 are about.
+
+### 10.8 Regional homework that will land
+
+Microbac is **exhibiting in your territory right now**: the **Chesapeake Tri-Association Conference** (booth 53) and **WaterJAM 2026** in Virginia Beach (booth 502) — the Chesapeake water-sector and Virginia AWWA/VWEA shows. They also published a **2026 EPA Drinking Water Compliance Guide** centered on the LCRR-to-LCRI transition, naming nitrates, arsenic and disinfection byproducts as enforcement priorities. Mentioning either show signals regional homework rather than corporate homework.
+
+### 10.9 Do not say these things
+
+As important as everything above:
+- **Do not mention the Mosaic Diagnostics or GPL Laboratories acquisitions.** Mosaic is unverifiable — a single PitchBook line, while Mosaic's own site, LinkedIn and independent C-suite make no mention of Microbac. GPL Laboratories was reported at **2009**, not recently, and that site appears closed. Citing either as recent growth would be a visible error. **The one verified acquisition is Geoanalytical Labs (Turlock, CA), announced around October 29, 2025.**
+- **Better rapport fact:** **Dayville and Lee joined Microbac together in November 2013** as Premier Laboratory. Warila's 11 years means he effectively arrived with that deal.
+- **Do not name Tamara Grecco as CFO.** The blog profiling her is roughly 2020, she's absent from the current leadership page, and her employee page 404s. Instead, **ask who your finance counterpart would be** — a fair question for someone owning profit plans and monthly roll-up.
+- **Do not cite ACS salary survey figures** (they run 26% above the BLS chemist median and 74% above the testing-lab figure, because they survey dues-paying members skewed toward PhDs and R&D), and don't cite clinical-lab turnover surveys as though they describe contract testing. Use the BLS figures in 10.5.
+- **Do not claim they offer cannabis testing.** It appears nowhere as a service; cannabis shows up only inside the *name* of the AOAC accreditation program on Baltimore's scope. Your own background stays framed as regulated, high-throughput analytical testing.
+- **Do not say "25 labs" or "34 labs."** Say **just over 30**.
+- **No ISO 9001 claim appears anywhere on their site.** Their accreditation world is **A2LA** (dominant) plus **TNI/NELAP** via Florida DOH and PA DEP; PJLA appears nowhere. **Correction: they DO claim a DoD accreditation** — Table B-15 of DOD QSM 5.3, on their PFAS page. See 10.11.
+
+### 10.11 Corrections to the above (later research, same day) — read these before the earlier subsections
+
+Four things changed. The PFAS finding in 10.3 survives, but it gets sharper rather than softer.
+
+1. **Microbac DOES hold a DoD accreditation — ignore the "no DoD ELAP" caution in 10.9.** Their PFAS page (not linked from the certifications page or any location page, which is why it was missed) states they are "NELAC accredited for drinking water methods EPA 537/537.1" and hold "a specialized Department of Defense accreditation for **Table B-15 of DOD QSM 5.3**." So they hold credentials they are not visibly monetizing in your region — which is a *better* version of the PFAS question.
+2. **They have made a PFAS capital investment, and the wording is the opening.** Same page: a "state of the art LC-MS-MS instrument" was added and is **"expected to increase our sample capacity and decrease turnaround time."** Forward tense. The constraint is live and unresolved. Note the tension worth asking about gently: that page markets "a network of laboratories that span the nation" for PFAS, while every state registry shows PFAS only at Marietta.
+3. **There IS a 2026 acquisition, and this one is Microbac-published:** Box R Laboratory became **"Microbac Prineville"** (Prineville, OR) on **January 2, 2026**. So the real cadence is Arcata/North Coast (Mar 2024) → Geoanalytical/Turlock (Oct 2025) → Box R/Prineville (Jan 2026). **This is safe to cite.** Mosaic and GPL remain off-limits.
+4. **Two in-region Microbac sites are missing from their locations page:** **Benchmark Analytics, Center Valley PA** (acquired ~Nov 2013; its model is permit-driven, repetitive drinking-water and wastewater testing — the highest recurring-revenue profile in the region), and a third PA site at **Cranberry Township** per the Pennsylvania accreditation roster. Excellent question: *"What's actually in my region? I count sites on your locations page, but the PA accreditation roster shows more."*
+
+### 10.12 The competitive picture in your region — much denser than it looks
+
+- **Pace Analytical's own release: "45 regional locations in the Northeast and 125 nationwide."** Pace alone has more Northeast locations than Microbac has labs nationwide. Pace is also the only true head-to-head multi-service competitor (environmental + food + life sciences), it's PE-backed (Leonard Green majority since Jan 2022), and it was built by buying exactly the family-owned regional labs Microbac is. **Pace has labs in both Erie and Pittsburgh — direct overlap with two Microbac sites.**
+- **Eurofins is dense in their backyard:** Lancaster PA is, by Eurofins' own claim, **the largest single-site environmental laboratory in the U.S.**, with a **$147.5M, 300,000 sq ft, ~250-job expansion** announced in 2025. They also run a Pittsburgh lab **twenty minutes from Warrendale HQ**, plus Baltimore and Easton MD, Edison NJ, and sites across New England.
+- **The independent tier Microbac belongs to has been emptied.** In New England every large regional independent is now consolidator-owned: Con-Test (Pace, 2020), **Alpha Analytical** — at acquisition the largest environmental lab in the Northeast — (Pace, 2023), Eastern Analytical (Eurofins, 2024), Katahdin (SGS, 2024), York (ALS, 2024), Spectrum (Eurofins). **At real scale, what's left in the region is EMSL Analytical and Microbac.** That's simultaneously the moat and the risk, and it's a genuinely strategic observation to offer.
+- **Alliance Technical Group is now Blackstone-backed** (closed January 6, 2026, from Morgan Stanley Capital Partners), so expect aggressive 2026–27 lab M&A from them. They have no food testing and only Newark NJ in-region.
+- **Two acquirers moving into Pennsylvania specifically:** **Metiri Group** (labs in Kittanning and Pottsville PA, explicitly "growing by carefully acquiring and integrating high-performing laboratories") and **SPL**, which bought Suburban Testing Labs in Reading PA (Nov 2024, rebranded Sept 2025).
+
+### 10.13 The 2027 window — a strategic answer, if they ask where you'd focus
+
+Several competitors are distracted in exactly the year the compliance waves land:
+- **ALS** spent only A$9.8m net on M&A in FY26, put its A$230m "hub laboratory" capital program outside North America entirely, disclosed a **cyber incident in May 2026**, and told shareholders its Americas environmental business underperformed — including **"the underperformance of the York integration."**
+- **Onterris (ex-Montrose)** did six acquisitions in 2024 and **zero since**.
+- **Mérieux NutriSciences + Certified Group** closes Q4 2026, and post-merger they'll own **two food labs about a mile apart in Allentown PA** (7150 Windsor Dr and 7020 Snowdrift Rd) that they'll have to rationalize — disruption and customer churn in Microbac's home state through 2027. Post-merger that ~$1.3B platform still has only about three sites in the entire region.
+- The **SGS–Bureau Veritas** merger died in twelve days in January 2025; Bureau Veritas is a net seller and has **no environmental analytical lab in any of the 13 target states**.
+
+**The line:** *"There's a window in 2027 and I'd plan the year around it — two federal deadlines land while several of the region's consolidators are mid-integration or sitting on their hands."*
+
+### 10.14 The consolidator paradox — own it before someone else raises it
+
+Microbac markets *against* consolidation while running its own roll-up (four-plus deals since early 2024, most recently January 2026). Their positioning piece, **"Why Size Matters When Picking a Laboratory,"** says it plainly: *"Too small and businesses find themselves having to deal with multiple laboratories… Too large and businesses become lost in the queue,"* and **"Having a big network with many small labs — that is the difference between Microbac and our competitors."**
+
+**The reconciliation to volunteer: "we consolidate without centralizing."** Acquire local labs, keep the local relationship and local turnaround, put network capability behind it. That is literally the job being hired for, and offering that framing beats being caught by it.
+
+Also from that piece, and worth knowing because it's an invitation: *"Our exceptional customer service is a result of the service that my team gives to each team member."* They publicly attribute external service quality to internal treatment of staff. **That is a direct opening for your retention and job-leveling story.**
+
+### 10.15 PFAS reality check, and the one line nobody else can offer
+
+- **Industry-standard PFAS turnaround is 3–4 weeks, and about a month even at labs not at capacity** (Pace, on the record). Biosolids run 4–6 weeks. **So do not assume Microbac beats the market on PFAS turnaround** — their own page says the new instrument is only *expected to* improve it. Ask; don't assert.
+- **PFAS is the stated thesis in nearly every recent deal in the sector:** ALS bought York for PFAS leadership, SGS bought RTI to reach its eighth PFAS lab, Pace bought Con-Test for air and PFAS, Alliance cited PFAS certifications, Metiri markets PFAS. SGS said in 2024 it would quadruple North American PFAS capacity.
+- **The original angle: PFAS in food matrices.** Certified Group got an **FDA-accepted PFAS-in-seafood method in June 2026**. Microbac is one of very few networks with **both an environmental and a food bench** — pure-play environmental labs and pure-play food labs each struggle with that work. If you want one forward-looking idea to offer, this is the one, and it costs them nothing to hear.
+
+### 10.16 Trevor Boyce, in his own words (2022) — the best read on the CEO
+
+From a Smart Business Network interview, February 2022. Four years old, so treat as intent rather than current fact, but it's the richest executive source available:
+- On the customer attitude he set out to change: *"We really don't want to use you, but we have to use you"* — he describes moving the company from being **"the dentists of industry"** toward *"something of the knight in shining armor."*
+- On the industry: *"we paint ourselves as dull, dark and dreary."*
+- On himself: *"I've never been afraid to take a shot at something. I am not afraid of failure at all."*
+- On marketing discipline: *"We spent a fair bit of money on Google ads"* with *"an 18 times ROI."*
+- On independence, as of 2022: **"The company's not for sale."**
+
+**What this tells you:** Trevor Boyce's differentiation instinct is **commercial and brand**, not technical. If you meet him, talk commercial rigor, measured demand generation and return on spend — and note the posting itself asks the role to explore "new market areas" and evaluate "the feasibility of potential new business." That line is his.
+
+**One thing to hold quietly:** Microbac and its press have used **~650 employees** since about 2022, while third-party trackers now infer ~480–510 and LinkedIn lists 482. Those trackers are unreliable in absolute terms, but a 650 → ~480 drift alongside four acquisitions is a divergence worth noticing. **Do not raise it as a challenge.** If headcount comes up, ask neutrally.
+
+**Also treat as marketing, not fact:** their homepage claim of a **"top 5 largest US analytical networks"** — no ranking body or methodology behind it. Their unusual four-vertical mix (Environmental, Food, Life Sciences, Applied Sciences) is the genuinely distinctive thing, and **Applied Sciences** — fuels, lubricants, ultra-pure water, consumer products — is easy to overlook.
+
+### 10.10 Five things worth saying, if the moment comes
+
+1. *"Baltimore's scope is inorganics, micro and environmental lead; Dayville is where the organics, radiochem and the multi-state licence stack live. So this isn't five interchangeable labs — it's a network with one workhorse, a couple of real labs and several service centers. Is the P&L cut by site, by division, or by region?"*
+2. *"Where does PFAS work in the Northeast go today, and is bringing 1633 or 533 into Dayville on the table?"*
+3. *"Two federal deadlines land in 2027 — PFAS initial monitoring in April, Lead and Copper Rule Improvements in November. Lead and copper by 200.8 is already in Baltimore's scope. Has the region planned capacity for that wave, given samples arrive in the last two quarters before a deadline rather than evenly?"*
+4. *"The industry's problem isn't hiring, it's retention. Testing labs pay below every other employer of chemists and R&D labs are raising faster. I cut turnover about 75% at my last lab with a job-leveling structure rather than with wages."*
+5. *"You have three sub-regional leaders today, all tenured. I wouldn't reorganize that in month one. I'd make their numbers comparable first and let the structure question answer itself."*
