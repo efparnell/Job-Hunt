@@ -48,17 +48,46 @@ Every other application in the pipeline requires arguing that operating skill tr
 2. **The 2027 double deadline:** PFAS initial monitoring (April) and the Lead and Copper Rule Improvements (November). **Lead and copper by EPA 200.8 is already in Baltimore's certified scope** — growth with no new accreditation and no capital.
 3. **Retention, not hiring:** testing labs pay below every other employer of chemists and R&D labs raise faster. The industry has a structural retention problem, and he cut turnover ~75% with a job architecture rather than wages.
 
-## Before you send — open item
+## Where to apply (verified live 9/30/2026)
 
-**Three numbers disagree across your own documents** (see section 12.1 of the prep notes): the Green Analytics volume figure (100% vs 150%), the Atlantic Test Labs result (30%/40% vs 50%/15%), and your Atlantic Test Labs title (Technical Manager/Quality Manager vs Director of Operations). The source is `E:\Evan Parnell Resume.docx`, written in 2024 while he was still at Green Analytics. **Settle these and the Word files get regenerated to match.**
+**1. Microbac's own portal — apply here if the req is listed:**
+https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&lang=en_US
+
+ADP WorkforceNow. It did not render in an automated browser, so open it yourself and search for the Regional Director listings. A company portal beats LinkedIn Easy Apply, because it takes the cover letter as a real attachment.
+
+**2. LinkedIn posting (confirmed live this morning):**
+https://www.linkedin.com/jobs/view/4467864999
+Still showing **"Be among the first 25 applicants"** and the **$110,000–$130,000** range, posted ~1 week ago. Use this if the ADP portal doesn't show the req.
+
+**3. Careers landing page:** https://www.microbac.com/career/
+
+### ⚠️ There appear to be TWO regional director openings
+
+Alongside the **Northeast** role ($110–130k, Baltimore or Dayville CT), job boards show a **"Regional Laboratory Operations Director, Mid-Atlantic"** in Baltimore 21224 — the same Holabird Park address — at **$90,000–$120,000**, with the same 10-year commercial-laboratory requirement. *(Unverified: it comes from Indeed/Glassdoor summaries, which block automated access. Check both on the ADP portal.)*
+
+**Why this matters:**
+- It suggests Microbac is **rebuilding its whole regional management layer**, not filling one seat — which strengthens the read that the region has been run in unowned pockets.
+- **It changes the scope question.** If a Mid-Atlantic director exists, Baltimore and Richmond may belong to *that* region rather than the Northeast — even though the Northeast posting names Baltimore as a base. Sorting this out is now the first thing to ask.
+- **Apply to the Northeast role.** Higher band, and it's the one all of this packet is built for. But know the other exists.
+
+**The question to ask early:** *"I noticed you're recruiting regional directors for both the Northeast and the Mid-Atlantic. How are those two regions split, and which laboratories would I own?"* That is unimprovable homework — it shows you looked past your own posting, and it forces the scope answer you need.
 
 ## References
 
-Working sheet at `..\..\References.md`. Offer three, hold a fourth. Lead reference is **Margaret Crouse**, Regional Microbiology Director — eleven years across ATS, ATL and Green Analytics, watched the job leveling framework get built, and asked him for advice on it.
+Working sheet at `..\..\References.md`. Offer three; add a fourth when allowed.
+
+1. **Dan Kulakowski** — Laboratory Director, PhD organic chemistry. Confirms the split-role framing and pre-answers the Ron Warila question.
+2. **Margaret Crouse** — Regional Microbiology Director, eleven years across all three companies.
+3. **Marc Rosenstein** — CFO. The only person who can verify the $10M budget and the ~15% cost reduction.
+4. **Caroline Stanka** — Regional Heavy Metals Technical Specialist, when a fourth is allowed.
+
+Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock** (the leveling framework from below), **Scott Robertson** (a Lab Director he hired; how the systems landed at another Green Analytics office).
+
+**Before listing Marc:** ask how he would describe the departure, so both accounts match.
 
 ## Status
 
-- [ ] Number conflicts reconciled (section 12.1)
+- [ ] Confirm which region owns Baltimore (Northeast vs Mid-Atlantic posting)
 - [ ] Application submitted
 - [ ] LinkedIn note to Chris Long (same day)
 - [ ] Tracker updated (OPP-022 → Applied, Last Touch, next action)
