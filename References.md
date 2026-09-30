@@ -80,6 +80,18 @@ Dan was the Laboratory Director at Green Analytics — the technical specialist 
 
 Roles confirmed. Use as described in section 2: **Marc (CFO)** for the $10M budget, the ~15% cost reduction and network purchasing; **Andrew (CEO)** for enterprise adoption and the departure narrative. Align the departure story with whichever one is listed.
 
+## 5. Stacey Kristales and Kiera Matlock — his middle managers
+
+Two of the five managers he led at Green Analytics. **These are the only voices that can speak from *below*, and for this employer that matters more than it usually would.**
+
+Microbac publishes, in its own words, that *"our exceptional customer service is a result of the service that my team gives to each team member."* They attribute external service quality to internal treatment of staff. A former manager saying *"he built the structure that told me what I was worth and how to get to the next level"* lands directly on that belief — and it corroborates the two claims doing the most work in this candidacy: **the job leveling framework** and **turnover falling from twelve a year to four**.
+
+**What to ask each of them for specifically:** their own progression. Not "was he a good boss," but *what changed for you when the leveling framework went in?* A concrete answer — a level change, a pay band they could finally see, a skill checklist that made a promotion legible — is the most persuasive thing in the entire reference set, because it's the mechanism rather than the sentiment.
+
+**Also worth knowing they can confirm:** that he managed a middle-management cadre he could only advise, not direct. That's the influence-without-authority claim, verified by the people he influenced.
+
+**Still to identify:** Scott Robertson and Caroline Stanka — capture their roles and which company, then decide whether either adds a dimension the set doesn't already cover.
+
 ## Recommended slate for Microbac
 
 | | Who | What they verify |
@@ -88,11 +100,11 @@ Roles confirmed. Use as described in section 2: **Marc (CFO)** for the $10M budg
 | **2** | **Margaret Crouse**, Regional Microbiology Director | Eleven years across all three companies: the job leveling framework, the ISO 17025/9001 arc, day-to-day laboratory operations |
 | **3** | **Marc Rosenstein**, CFO | The $10M budget, the ~15% cost reduction, purchasing across the network — numbers only he can confirm |
 | **Reserve** | **Andrew Rosenstein**, CEO | Enterprise adoption across eight laboratories and 250+ employees; the departure narrative |
-| **Reserve** | One of **Scott Robertson · Caroline Stanka · Kiera Matlock** | People development and retention from below — add if they probe the leveling framework or ask for a fourth |
+| **4, when a fourth is allowed** | **Stacey Kristales** or **Kiera Matlock**, former middle managers | The leveling framework and retention *from below* — the mechanism, in the words of someone it happened to |
 
 **Why this order:** it front-loads the two people who can corroborate what the job actually requires — partnering with technical leadership, and running a laboratory's interior — then adds the one person who can verify the financial claims. Two of the three are technical, which matters when the hiring manager is an operator with a biology degree rather than a finance executive.
 
-**The gap to be aware of:** nobody in the top three managed *under* him. His five middle managers are the people who lived the leveling framework, so if Microbac probes people development specifically, offer one of the three remaining names as a fourth.
+**On offering a fourth:** the top three cover technical partnership, laboratory operations and financial verification, but nobody in them managed *under* him. If the portal or the recruiter allows four, add **Stacey Kristales or Kiera Matlock**. If it allows only three, volunteer her anyway in conversation: *"I'd also offer one of the managers who reported to me, if you want a view from below — she lived the leveling framework."* Offering that unprompted is itself a signal, because most candidates avoid it.
 
 That covers technical credibility, financial verification and people development, and keeps an ATS/ATL-era voice in the set.
 
@@ -131,6 +143,7 @@ Give people the context to be useful. A reference who knows which claim to speak
 - [ ] Marc Rosenstein (CFO) — permission asked
 - [ ] Departure narrative aligned with Marc and Andrew
 - [ ] Andrew Rosenstein (CEO) held as reserve
-- [ ] A former middle manager identified as the fourth
+- [ ] Stacey Kristales or Kiera Matlock asked, and asked for their own progression story
+- [ ] Scott Robertson and Caroline Stanka — roles and companies captured
 - [ ] Each mapped to a distinct claim
 - [ ] Posting and resume sent to each
