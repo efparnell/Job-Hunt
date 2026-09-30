@@ -76,7 +76,7 @@ Be honest and specific; inflated self-ratings are easy to puncture in an intervi
 | 6 | Employee Training & Development | 01/15/2014 | 09/30/2026 | ADV | Designed a job leveling framework adopted across eight laboratories and 250+ employees. |
 | 7 | Quality Management Systems | 06/01/2015 | 09/30/2026 | ADV | *(leave blank)* |
 | 8 | Method Validation | 06/01/2017 | 12/31/2021 | ADV | *(leave blank)* |
-| 9 | LIMS | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
+| 9 | LIMS | 06/01/2017 | 09/30/2026 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
 | 10 | Microbiology | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
 | 11 | Team Leadership | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
 | 12 | Process Improvement | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
