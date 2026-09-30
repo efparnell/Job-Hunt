@@ -10,7 +10,7 @@
 | **Range** | $90,000–$120,000 · **targeting $120,000** |
 | **Apply** | ADP WorkforceNow, jobId 592355 — see below |
 
-**Why this one rather than the Northeast role:** the Northeast requisition (4467864999, $110–130k, one week old) is Baltimore *or* Dayville CT, with a pull toward Connecticut. This one is Baltimore-anchored, twenty-five minutes from home. Evan's call, 9/30.
+**Why this one rather than the Northeast role:** the Northeast requisition (4467864999, $110–130k, one week old) is Baltimore *or* Dayville CT, with a pull toward Connecticut. This one is Baltimore-anchored and close to home. Evan's call, 9/30.
 
 ---|---|
 | **Role** | Regional Laboratory Operations Director, Northeast |

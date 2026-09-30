@@ -47,7 +47,7 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 >
 > Why this role: a region of independently accredited laboratories, each with its own scope and its own state licenses, can't be managed as one until its numbers mean the same thing at every site. Making several operations comparable — the same definitions, the same cadence, the same standard — while leaving technical authority where it belongs is the work I'm best at, and it's why a multi-laboratory regional seat interests me more than another single-site job. At Green Analytics what I was asked to fix was described as on-site leadership; the real constraint was that management systems built for a ten-person startup were running a multi-site organization.
 >
-> I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd welcome a conversation about what you need this region to accomplish in the next year.
+> I'm in southern Anne Arundel County, a straight run up to the Baltimore lab. I'd welcome a conversation about what you need this region to accomplish in the next year.
 >
 > Sincerely,
 > Evan Parnell
@@ -58,11 +58,11 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 
 ## Draft note to Chris Long (LinkedIn, send the same day you apply)
 
-> Mr. Long — I applied today for the Mid-Atlantic Regional Laboratory Operations Director role (req 2196). Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve departures to four. Analytical chemistry background, and I've taken two laboratories through ISO 17025 accreditation earlier in my career. My read from outside is that the hard half of a regional seat is making independently accredited laboratories comparable to each other rather than running any one of them well. I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd value fifteen minutes on what you need this region to look like a year from now.
+> Mr. Long — I applied today for the Mid-Atlantic Regional Laboratory Operations Director role (req 2196). Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and took annual turnover from twelve departures to four. Analytical chemistry background, and I've taken two laboratories through ISO 17025 accreditation earlier in my career. My read from outside is that the hard half of a regional seat is making independently accredited laboratories comparable to each other rather than running any one of them well. I'm in southern Anne Arundel County, a straight run up to the Baltimore lab. I'd value fifteen minutes on what you need this region to look like a year from now.
 
 Under 300 characters if you need the connection-request version:
 
-> Applied today for the Mid-Atlantic Lab Ops Director role (req 2196). As Associate Lab Director I took volume from ~25,000 to 47,000 samples while staff went 32 to 45, turnaround 5 days to 3, turnover 12/yr to 4. Two ISO 17025 accreditations earlier on. I'm 25 minutes from the Baltimore lab. Worth 15 minutes?
+> Applied today for the Mid-Atlantic Lab Ops Director role (req 2196). As Associate Lab Director I took volume from ~25,000 to 47,000 samples while staff went 32 to 45, turnaround 5 days to 3, turnover 12/yr to 4. Two ISO 17025 accreditations earlier on. I'm a straight run up to the Baltimore lab. Worth 15 minutes?
 
 ## Compensation — corrected 9/29, and it's not a problem
 

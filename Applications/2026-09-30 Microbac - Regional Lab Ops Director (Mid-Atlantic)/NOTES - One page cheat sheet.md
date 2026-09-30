@@ -9,6 +9,9 @@
 
 Backup: **14 years commercial lab** (they ask 10) · **two ISO 17025 accreditations**, one with DEA · **ISO 9001 built after a failed audit** · **audited dozens of times across 3 organizations, ~97% success rate** (A2LA, PJLA, IAS, FDA, DEA, state programs) · **$1M+ financing** for a greenfield lab
 
+## Geography, stated accurately
+He lives in **Churchton, MD 20733** (southern Anne Arundel County). Baltimore/Holabird is roughly **45 minutes**, not 25. Say *"southern Anne Arundel County, a straight run up to the lab"* or give the real number — anyone local knows the drive, and an inflated commute is a cheap way to lose credibility on a role about being present in the labs.
+
 ## Your one-sentence identity
 *"I came up through analytical chemistry and lab operations, then spent my career learning to run the business. I can sit with a technical director and know whether the answer I'm getting holds up, and I can own the number."*
 
