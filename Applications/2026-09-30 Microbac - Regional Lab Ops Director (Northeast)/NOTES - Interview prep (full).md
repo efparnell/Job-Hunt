@@ -515,6 +515,69 @@ This is the curriculum you assembled for developing middle managers. Its section
 
 It also pairs directly with Microbac's own published claim in 10.14: *"Our exceptional customer service is a result of the service that my team gives to each team member."* They believe internal treatment drives external service. You built a program on that premise and have the retention number to show it. **That's the most aligned thing you could bring into the room.**
 
-### 11.5 Still outstanding
+### 11.5 The E: drive scan is complete — see section 12.
 
-A scan of the E: backup drive for further supporting detail — Green Analytics artifacts, the Job Leveling Program documents, Atlantic Technical Systems / Atlantic Test Labs ISO and accreditation records, your thesis, and older resume versions — was running when this was written. Anything it turns up gets appended here.
+---
+
+## 12. Number reconciliation and available exhibits (E: drive scan, 9/29)
+
+### 12.1 THREE CONFLICTS IN YOUR OWN DOCUMENTS — settle these before you send anything
+
+The scan found `E:\Evan Parnell Resume.docx`, internally last modified **2024-09-17** — written *while you were still at Green Analytics*, and the only contemporaneous description of that role anywhere. It's the most authoritative document about that job, and it disagrees with the materials we just built in three places.
+
+| Claim | This packet says | Your 2024 resume says |
+|---|---|---|
+| Green Analytics volume | *"doubled, ~25,000 → ~48,000"* (100%) | *"a workflow increase of **150%**"* |
+| Atlantic Test Labs result | *"30% sales increase, 40% cost reduction, four months"* | *"**50%** increase in month-to-month sales and a reduction in costs of **15%**"* |
+| Atlantic Test Labs title and dates | Technical Manager / Quality Manager, 2017–2019 | **Director of Operations**, Jan 2018 – Sep 2019 |
+
+**Why this is urgent rather than tidy-up:** if your LinkedIn or any previously submitted resume carries the other version, a recruiter comparing documents sees numbers that move. That does more damage than a smaller number would. And "Director of Operations" versus "Technical Manager" is a title discrepancy, which is the single most common thing a background check surfaces.
+
+**You need to decide tonight:**
+1. **Is the Green Analytics figure 100% or 150%?** They may measure different things — sample count doubled, while *workflow capacity* (throughput capability including the facility expansion) rose 150%. If so, both are true and you should say which is which: *"we doubled sample volume, and built capacity for about 150%."* If you can't reconstruct the distinction, **use the one you can defend from the tracking file: volume roughly doubled.**
+2. **Is the ATL result 30%/40% or 50%/15%?** The 2024 resume is nearer in time to the event and more likely right. Your Master Resume's 30%/40% may be a later paraphrase. Pick one and change every document, including this packet.
+3. **What was your ATL title?** If it was Director of Operations by the end, use that — it's stronger and it's what a reference would confirm. The resume in this packet currently says Technical Manager / Quality Manager, taken from your Master Resume.
+
+**Tell me which versions are correct and I'll regenerate the resume, cover letter and notes so everything matches.**
+
+### 12.2 One claim just got contemporaneous corroboration — use it
+
+That same 2024 resume says, verbatim:
+
+> *"Developed and implemented a job leveling / training plan for laboratory technicians and analysts which was **adopted and implemented across eight laboratories and over 250 total employees**."*
+
+That is the enterprise-adoption claim, written at the time, in your own words. It converts *"I built a leveling program"* into *"I built it and the network adopted it"* — and it independently supports the two-clause scope framing in Story E. **Say it that way: the program was adopted across eight laboratories and 250+ employees.**
+
+Also in that document, worth having ready: you *"implemented changes to the hiring and training process to better work with the Regional Human Resources department to reduce employee turnover"* (the retention claim, with the mechanism and the partner named), you developed *"a comprehensive purchasing and inventory system across our laboratory network"* (network-level, not just your site), and you *"ensured on time delivery of customer results seven days a week."*
+
+### 12.3 Green Analytics has no documentary backup — know this going in
+
+The scan indexed **530,620 files** and content-searched **18,259 Office documents**. "Green Analytics" appears **only in your own resumes** — never in an SOP, KPI report, org chart, leveling document, review or spreadsheet. **The four headline numbers are recollection you can defend verbally, not claims you can produce a page for.** The Drive sample-tracking file (section 11) is the single exception, and it covers volume only.
+
+That's normal — work product usually stays with the employer — but it means: **be conservative with any number you can't reconstruct, and never imply you have documentation you don't.** If someone asks how you'd verify it, the honest answer is your former managers and the company's own LIMS records.
+
+### 12.4 What you *can* document — and it's substantial
+
+The Atlantic Technical Systems / Atlantic Test Labs and Atlas Labs record is deeply documented, mostly under a 2020 Google Drive backup on E:. If Microbac ever wants evidence of the accreditation and quality claims, this is where it lives:
+
+- **The ISO 17025:2017 upgrade audit, complete** — `External Audits\ISO 17025 - Spring 2019 - 2017 upgrade\` with an audit response packet and per-finding folders (CAR 1-2-3, CAR 10, …), each holding the corrective action, the training record that closed it, and photo evidence. **This is your best single exhibit for "tell me about an audit finding you owned."**
+- **Quality manuals you authored** — `ATL-QAM-17025E - Quality Assurance Manual.docx` (17025, rev E) and the `AGI-QAM-9001C/D` lineage. `\Archive\Documents\QAM17025.docx` carries **your name as last modifier**.
+- **A2LA accreditation certificate and scope** — `TL-746 Cert.pdf`, `TL-746 Scope.pdf`, the full original submission packet, and your **scope-expansion proposals** (April 2018 scope, BioBurden/Conductivity expansion).
+- **A CAPA run of ~18 numbered records** (CAR 18-01 → CAR 19-02, deviations, a customer complaint, a gap analysis) plus internal audit checklists for both standards, registrar surveillance history, and **customer audits you hosted** — including the **Maryland cannabis regulator's audit, Nov 2018**.
+- **Method development you personally authored** — `\Archive\Method Verifications\` (Sept 2021): `ATP4000_Microbial Analysis of Hemp Materials.docx` has **you as both creator and last modifier**, alongside MDL and uncertainty workbooks, TAMC/TYMC verifications, PT data, and ICP-MS/ICP-OES IQ/OQ packages. **This is the cleanest proof of hands-on technical authorship you have.**
+- **People systems** — the performance-review instrument you used, including a **completed management 360 for a named report (Aug 2018)**; per-employee training records with sign-off for ~10 staff; job descriptions; and an ISO 9001 template library including an **employee training matrix** form.
+- **Lab design** — `ATL Shared\ITL\Lab Design Layout.xlsx` (Sept 2018) plus as-built floorplans with HVAC zoning. The closest documentation of the "redesigned the lab around how samples move" claim, from the ATL build rather than Green Analytics.
+- **Your CV as a controlled ISO record** — `Employee Docs\Evan Parnell\Evan Parnell CV.pdf` (Aug 2017), i.e. the version an assessor reviewed. That carries weight a self-published resume doesn't.
+- **`Job Hunt 2019\Qualifications & Certificates.pdf`** — 18.5 MB, Nov 2018, almost certainly your full scanned credential bundle. **Worth opening tonight** to confirm what certifications you can actually claim.
+
+### 12.5 Things that don't exist, so stop looking
+
+**No thesis, transcripts, publications, letters of recommendation, or awards** anywhere on the drive. On the thesis: your degree is a **B.S. in Chemistry from the Naval Academy (2008)** with no graduate degree, so what you remember is most likely a USNA capstone — and it isn't backed up. **The Job Leveling Program documents themselves are also gone** — no file on the drive contains "leveling," and no pay-band document exists for any lab. The nearest substitutes are the ISO 9001 training-matrix and position-description forms and the ATL training-record system.
+
+**Also:** the backup copies of this repo are clean — 102 files each, all present in the live repo, nothing missing.
+
+### 12.6 Tonight's short list
+
+1. **Open `E:\Evan Parnell Resume.docx`** and settle the three number/title conflicts in 12.1.
+2. **Open `Job Hunt 2019\Qualifications & Certificates.pdf`** and confirm which certifications you can claim.
+3. Tell me the rulings and I'll regenerate the Word files so every document agrees.

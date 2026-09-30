@@ -48,8 +48,13 @@ Every other application in the pipeline requires arguing that operating skill tr
 2. **The 2027 double deadline:** PFAS initial monitoring (April) and the Lead and Copper Rule Improvements (November). **Lead and copper by EPA 200.8 is already in Baltimore's certified scope** — growth with no new accreditation and no capital.
 3. **Retention, not hiring:** testing labs pay below every other employer of chemists and R&D labs raise faster. The industry has a structural retention problem, and he cut turnover ~75% with a job architecture rather than wages.
 
+## Before you send — open item
+
+**Three numbers disagree across your own documents** (see section 12.1 of the prep notes): the Green Analytics volume figure (100% vs 150%), the Atlantic Test Labs result (30%/40% vs 50%/15%), and your Atlantic Test Labs title (Technical Manager/Quality Manager vs Director of Operations). The source is `E:\Evan Parnell Resume.docx`, written in 2024 while he was still at Green Analytics. **Settle these and the Word files get regenerated to match.**
+
 ## Status
 
+- [ ] Number conflicts reconciled (section 12.1)
 - [ ] Application submitted
 - [ ] LinkedIn note to Chris Long (same day)
 - [ ] Tracker updated (OPP-022 → Applied, Last Touch, next action)
