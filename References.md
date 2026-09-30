@@ -90,7 +90,26 @@ Microbac publishes, in its own words, that *"our exceptional customer service is
 
 **Also worth knowing they can confirm:** that he managed a middle-management cadre he could only advise, not direct. That's the influence-without-authority claim, verified by the people he influenced.
 
-**Still to identify:** Scott Robertson and Caroline Stanka — capture their roles and which company, then decide whether either adds a dimension the set doesn't already cover.
+
+## 6. Scott Robertson — Laboratory Director, Atlantic Test Labs (Evan hired him)
+
+**Two things make him unusual, and neither is replaceable by anyone else on this list.**
+
+**First: Evan hired him into a Laboratory Director role.** Most candidates can describe developing technicians. Far fewer can point to a Laboratory Director they selected who then held the job. That is leadership judgment at the top of the org rather than the bottom, and it is the answer to *"can you build leaders, not just train staff?"* — which is precisely what a regional director is hired to do across sites he cannot personally run.
+
+**Second, and more useful than it looks: he later worked at Green Analytics for years, in a different office.** So he can speak to how Evan and his systems were regarded **outside the flagship laboratory**. Everyone else on this list saw the building Evan worked in; Scott saw the network receiving what came out of it. **Ask him directly: did the leveling framework reach your office, and how did people there take it?** That's third-party verification of the enterprise-adoption claim, from a location Evan had no authority over — which is the exact shape of the Microbac job.
+
+He also covers the **ATL era**, which no HR department can confirm any more.
+
+## 7. Caroline Stanka — Regional Heavy Metals Technical Specialist
+
+**The development story with a title attached, and the one with the most relevance to Baltimore's actual bench.**
+
+Evan encouraged her over years and she became a **regional** technical specialist in heavy metals. That is a complete arc with an outcome you can name — not "I mentored people," but "I grew an analyst into the region's metals specialist." Development claims are usually unfalsifiable; this one has a job title as its evidence.
+
+**Why she fits this employer specifically:** Microbac's **Baltimore laboratory runs metals by EPA 200.8** — it is one of the site's core certified capabilities — and the **November 2027 Lead and Copper Rule Improvements** wave lands on exactly that bench. A reference who is a regional metals specialist is speaking the same technical language as the laboratory he would be running.
+
+**They also shared a private office for three years**, which makes her the closest daily observer of temperament and judgment in the whole set — how he handled pressure, bad news, and difficult people, seen from two feet away rather than from an org chart.
 
 ## Recommended slate for Microbac
 
@@ -100,11 +119,17 @@ Microbac publishes, in its own words, that *"our exceptional customer service is
 | **2** | **Margaret Crouse**, Regional Microbiology Director | Eleven years across all three companies: the job leveling framework, the ISO 17025/9001 arc, day-to-day laboratory operations |
 | **3** | **Marc Rosenstein**, CFO | The $10M budget, the ~15% cost reduction, purchasing across the network — numbers only he can confirm |
 | **Reserve** | **Andrew Rosenstein**, CEO | Enterprise adoption across eight laboratories and 250+ employees; the departure narrative |
-| **4, when a fourth is allowed** | **Stacey Kristales** or **Kiera Matlock**, former middle managers | The leveling framework and retention *from below* — the mechanism, in the words of someone it happened to |
+| **4, when a fourth is allowed** | **Caroline Stanka**, Regional Heavy Metals Technical Specialist | A development arc with a title as its proof, in the specialty Baltimore actually runs (metals by 200.8) — plus three years of daily observation |
+| **Alternates** | **Stacey Kristales** or **Kiera Matlock**, former middle managers | The leveling framework and retention *from below* — the mechanism, from someone it happened to. Use if they probe the framework in detail |
+| **Reserve** | **Scott Robertson**, Laboratory Director at ATL (Evan hired him) | Leadership selection at Director level, and how the systems were received at a *different* Green Analytics office |
 
 **Why this order:** it front-loads the two people who can corroborate what the job actually requires — partnering with technical leadership, and running a laboratory's interior — then adds the one person who can verify the financial claims. Two of the three are technical, which matters when the hiring manager is an operator with a biology degree rather than a finance executive.
 
-**On offering a fourth:** the top three cover technical partnership, laboratory operations and financial verification, but nobody in them managed *under* him. If the portal or the recruiter allows four, add **Stacey Kristales or Kiera Matlock**. If it allows only three, volunteer her anyway in conversation: *"I'd also offer one of the managers who reported to me, if you want a view from below — she lived the leveling framework."* Offering that unprompted is itself a signal, because most candidates avoid it.
+**On offering a fourth:** the top three cover technical partnership, laboratory operations and financial verification, but nobody in them worked *under* him. If a fourth is allowed, **Caroline Stanka** is the best choice for this employer — the metals specialty maps onto Baltimore's certified bench and the 2027 lead-and-copper wave, and her promotion is the proof of the development claim. If they probe the leveling framework specifically, use **Stacey Kristales or Kiera Matlock** instead, since they managed under it.
+
+Even when only three are requested, volunteer one: *"I'd also offer someone who worked under me, if you want a view from below."* Most candidates avoid offering subordinates, so offering one unprompted is itself a signal.
+
+**The set now covers every angle worth covering:** technical partnership (Kulakowski), longitudinal operations and quality (Crouse), financial verification (Marc Rosenstein), development with a named outcome (Stanka), the framework from below (Kristales, Matlock), leadership selection and cross-site reception (Robertson), and enterprise scope and departure (Andrew Rosenstein). **Stop collecting names.** Beyond this, more references add length, not weight.
 
 That covers technical credibility, financial verification and people development, and keeps an ATS/ATL-era voice in the set.
 
@@ -144,6 +169,7 @@ Give people the context to be useful. A reference who knows which claim to speak
 - [ ] Departure narrative aligned with Marc and Andrew
 - [ ] Andrew Rosenstein (CEO) held as reserve
 - [ ] Stacey Kristales or Kiera Matlock asked, and asked for their own progression story
-- [ ] Scott Robertson and Caroline Stanka — roles and companies captured
+- [ ] Caroline Stanka asked (frame: her own progression to regional specialist)
+- [ ] Scott Robertson held in reserve — ask him how the leveling framework landed at his Green Analytics office
 - [ ] Each mapped to a distinct claim
 - [ ] Posting and resume sent to each
