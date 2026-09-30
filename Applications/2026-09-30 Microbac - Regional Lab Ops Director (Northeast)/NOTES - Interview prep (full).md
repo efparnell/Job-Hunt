@@ -23,16 +23,29 @@ You're the third thing. **Say some version of this out loud in the interview**, 
 
 ## 2. Your core stories, pre-loaded
 
-### The four numbers to say out loud, in this order
+### The numbers to say out loud (corrected 9/29 — these supersede everything earlier)
 
-From **Green Analytics, as Associate Laboratory Director** — this is the spine of your candidacy for this job, not your multi-site industrial experience:
+Source: your own **Master Executive Profile** (`Parnell Solutions\z_Archive_Master_Executive_Profile_Section_1.docx`), the career document you researched deliberately. It is the authority; earlier figures in this packet were my derivations and some were wrong.
 
-1. **Volume ~25,000 → just under 50,000 samples a year, on 35% more staff.** Do the arithmetic for them: that's roughly a **50% increase in output per person**. In his language, cost per sample fell hard.
-2. **Turnaround five days → three days.** In commercial testing this is a competitive weapon, not an efficiency stat. Say so.
-3. **Turnover down about 75%.** In the current analyst labor market this may be the most impressive number you have, and it's the one most candidates can't claim.
-4. **Scope: 40 people effectively** — three department managers (chemistry, microbiology, sampling), three shift leads, ~16 techs and analysts, plus the facility itself.
+| | |
+|---|---|
+| **Annual testing volume** | **2022: 27,000 · 2023: 33,000 · 2024: 39,000 · 2025: 47,000** (2021, before you: ~25,000) |
+| **Staffing** | **32 → 45 people (+40%)** |
+| **Output per person** | up **roughly one third** |
+| **Turnaround** | **5 days → 3 days** |
+| **Turnover** | **12 departures/year → 4** |
+| **Operating cost** | **down ~15%** while capabilities expanded |
+| **Scope** | ~40–45 on site · **5 middle managers you could only advise** · systems adopted across 8 locations / 250→~350 employees / $10M budget |
 
-Pull the supporting detail from your files before the call so you can defend any of these if pressed.
+**How to say the volume claim:** *"Annual volume went from about 25,000 samples to 47,000 across my tenure — 27, 33, 39, 47 by year — while the staff went from 32 to 45."* Giving the year-by-year series is far stronger than a single multiple, because it shows you actually tracked it.
+
+**On the turnover number, use the raw counts:** *"Twelve people a year leaving became four."* And add the qualitative half, which is the better half: **the character of departures changed** — from firings and rage-quits to people leaving for better jobs or to go back to school. That detail is more persuasive than any percentage, and it's the thing a lab manager will recognize instantly.
+
+**Two things I had wrong, now retracted:**
+1. I earlier reported a 2024 volume decline and built a "regulatory batch-size change" story around it. **That was wrong** — 2024 was 39,000 and 2025 was 47,000. The tracking spreadsheet simply stopped being maintained after July 2024. **Do not use the decline story.**
+2. The "50% more output per person" figure was mine, derived from a bad gross-up. The defensible figure is **about a third**.
+
+**Also now available, and worth having:** *"audited dozens of times at three different organizations, ~97% success rate,"* across **A2LA, PJLA and IAS**, plus FDA, DEA and state regulators. For a company whose entire business is accredited scope, that single line may be the most relevant sentence you own.
 
 ### How to explain the role structure — and why it's a selling point
 
@@ -48,7 +61,7 @@ They will ask how. Your answer has four parts, and none of them are "we worked h
 - **Facility and project management**: contractors, projects, the building itself.
 - **Management structure**: middle managers and shift leads who owned their areas, which is what let volume double without the staffing doubling.
 
-Land this line: *"Most of the capacity was already in the building. It was trapped in how the work moved."*
+Land this line: *"Most of the capacity was already in the building. It was trapped in how the work moved."* And note the cost half: **operating costs fell about 15% while capability expanded** — you added service offerings rather than cutting them, including complimentary investigative work when testing flagged a contamination issue, which is a revenue and retention play as much as a service one.
 
 ### Story B — The Job Leveling Program (your best differentiator)
 

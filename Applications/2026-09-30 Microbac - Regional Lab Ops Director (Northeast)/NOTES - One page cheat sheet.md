@@ -1,13 +1,13 @@
 # Microbac — one page, for five minutes before the call
 
-## Your four numbers
-- **~25,000 → ~48,000 samples/year** (2021 → 2023) on **35% more staff** = **~50% more output per person**
+## Your four numbers (corrected 9/29 from your Master Executive Profile)
+- **Annual volume ~25,000 → ~47,000** (2021 → 2025; 27k/33k/39k/47k by year) while **staff grew 32 → 45 (+40%)** — roughly **a third more output per person**
 - **Turnaround 5 days → 3 days**
-- **Turnover down ~75%** — via the Job Leveling Program, not wages
-- **~40 people**: 3 department managers (chemistry, micro, sampling), 3 shift leads, ~16 techs and analysts
-- **Enterprise reach:** systems adopted across **8 locations**, company grew **250 → ~350 people**, **$10M budget** — influence, no formal authority. (Turnover fell 75% *while* headcount grew 40%.)
+- **Turnover 12 departures/year → 4** — and the character changed: from firings and rage-quits to people leaving for better jobs or school
+- **Operating costs down ~15%** while capabilities expanded
+- **~40–45 people on site**; 5 middle managers you could only *advise*; systems adopted across **8 locations / 250 → ~350 people / $10M budget**
 
-Backup numbers: **14 years commercial lab experience** (they ask for 10) · **two ISO 17025 accreditations**, one with DEA registration · **ISO 9001 built after a failed audit** · **$1M+ financing** for a greenfield lab · **30% sales / 40% cost in four months** (Atlantic Test Labs)
+Backup: **14 years commercial lab** (they ask 10) · **two ISO 17025 accreditations**, one with DEA · **ISO 9001 built after a failed audit** · **audited dozens of times across 3 organizations, ~97% success rate** (A2LA, PJLA, IAS, FDA, DEA, state programs) · **$1M+ financing** for a greenfield lab
 
 ## Your one-sentence identity
 *"I came up through analytical chemistry and lab operations, then spent my career learning to run the business. I can sit with a technical director and know whether the answer I'm getting holds up, and I can own the number."*
