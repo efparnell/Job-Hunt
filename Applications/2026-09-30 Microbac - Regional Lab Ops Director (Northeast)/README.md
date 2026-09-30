@@ -52,6 +52,10 @@ Every other application in the pipeline requires arguing that operating skill tr
 
 **Three numbers disagree across your own documents** (see section 12.1 of the prep notes): the Green Analytics volume figure (100% vs 150%), the Atlantic Test Labs result (30%/40% vs 50%/15%), and your Atlantic Test Labs title (Technical Manager/Quality Manager vs Director of Operations). The source is `E:\Evan Parnell Resume.docx`, written in 2024 while he was still at Green Analytics. **Settle these and the Word files get regenerated to match.**
 
+## References
+
+Working sheet at `..\..\References.md`. Offer three, hold a fourth. Lead reference is **Margaret Crouse**, Regional Microbiology Director — eleven years across ATS, ATL and Green Analytics, watched the job leveling framework get built, and asked him for advice on it.
+
 ## Status
 
 - [ ] Number conflicts reconciled (section 12.1)
@@ -61,3 +65,4 @@ Every other application in the pipeline requires arguing that operating skill tr
 - [ ] Recruiter/HR screen
 - [ ] Conversation with Chris Long
 - [ ] Thank-you within 24 hours of each conversation
+- [ ] References confirmed (3 + reserve) and each briefed on their claim
