@@ -32,30 +32,36 @@ Use the **Laboratory / Technical Services** framing, not the Technical Services 
 - Keep the 8 locations / 300+ employees / $10M budget proof point prominent; it establishes he operates above single-lab scale.
 - Keep the 30%/40% result, but it's supporting evidence here rather than the headline.
 
-## Draft cover letter
+## Draft cover letter (v2 — rebuilt 9/29 around the Green Analytics numbers)
 
 > Dear Mr. Long,
 >
-> I'm applying for the Regional Laboratory Operations Director role for the Northeast, and I'll be direct about why I think it fits.
+> I'm applying for the Regional Laboratory Operations Director role for the Northeast. The short version of my case: I ran the inside of a high-throughput analytical laboratory and doubled its output without doubling anything else.
 >
-> My background is analytical chemistry and laboratory operations — I've built and run quality systems to ISO 9001 and ISO 17025 — and my career since then has been operating multi-site technical businesses: 8 locations, 300+ employees, a $10M operating budget, with P&L accountability for the results. In one turnaround I grew sales 30% and reduced costs 40% in four months by fixing how the work was scheduled, measured and staffed rather than by cutting capability.
+> As Associate Laboratory Director at Green Analytics, I owned everything inside the building — three department managers across chemistry, microbiology and sampling, three shift leads, and roughly sixteen technicians and analysts. Annual sample volume went from about 25,000 to just under 50,000 on a 35% increase in staff, which is close to a 50% gain in output per person. Turnaround went from five days to three. Turnover fell about 75%.
 >
-> Most people who want this job are either scientists who haven't carried a P&L or operators who can't speak to a method. I'm comfortable on both sides of that line. Short-hold-time analyses are a good example: hexavalent chromium by 218.7 is a chemistry problem, but the prep queue, courier timing, instrument uptime and analyst certification behind it are operations problems, and they're what actually set turnaround time and margin.
+> That came from unglamorous work: analyzing purchasing and workflow to take out cost, redesigning the physical lab around how samples actually move, and building a job-leveling program — Technician and Analyst levels one through three, with published pay ranges, skill checklists and supervisor sign-offs — to replace a structure where identical titles carried wildly different pay and responsibility. That program is the main reason turnover dropped.
 >
-> Three acquisitions in the last eighteen months also tells me something about what this region needs. Bringing newly acquired labs onto common methods, metrics and QA practice — without breaking what made them worth buying — is work I've done repeatedly.
+> Earlier, at Atlantic Technical Systems and Atlantic Test Labs, I owned quality and accreditation end to end, including ISO 9001 and ISO 17025. My analytical background spans pharmaceutical, environmental and cannabis testing — HPLC, LC-MS/MS, GC-MS/MS, ICP-MS, qPCR and microbiological methods — and I'm comfortable in any analytical method.
 >
-> I'm based in Edgewater, Maryland, twenty-five minutes from the Baltimore lab. I'd welcome the chance to talk about what you need this region to accomplish in the next year.
+> Why this role: with Mosaic, Geoanalytical and GPL recently in the fold, I'd expect the harder half of this job is making several labs comparable — the same definitions, the same cadence, the same standard — rather than running any one of them well. That's the work I'm best at, and it's why a multi-lab regional seat interests me more than another single-site job.
+>
+> I'm in Edgewater, twenty-five minutes from the Baltimore lab. I'd welcome a conversation about what you need this region to accomplish in the next year.
 >
 > Sincerely,
 > Evan Parnell
 
+**Optional sentence** if you want a technical signal in the letter itself, best placed after the Atlantic paragraph — but the letter is strong without it, and it's better used live:
+
+> Short-hold-time work is a good illustration of how I think: hexavalent chromium by 218.7 is a chemistry problem, but the prep queue, courier timing, instrument uptime and analyst certification behind it are operations problems, and those are what set turnaround and margin.
+
 ## Draft note to Chris Long (LinkedIn, send the same day you apply)
 
-> Mr. Long — I applied today for the Northeast Regional Lab Operations Director role. Quick context: analytical chemistry and lab operations background, ISO 9001/17025, then 8 locations / 300+ people / $10M P&L on the operating side. With Mosaic, Geoanalytical and GPL all recently in the fold, I suspect the harder half of this job is integration rather than daily operations. I'd value 15 minutes on what you need the region to look like a year from now.
+> Mr. Long — I applied today for the Northeast Regional Lab Operations Director role. Quick context: as Associate Laboratory Director at Green Analytics I took annual volume from ~25,000 samples to just under 50,000 on 35% more staff, cut turnaround from five days to three, and reduced turnover about 75%. Analytical chemistry background, ISO 9001/17025 ownership earlier in my career. With Mosaic, Geoanalytical and GPL recently acquired, I'd guess the hard half of this job is making the labs comparable rather than running any one of them. I'd value 15 minutes on what you need the region to look like a year from now.
 
-Under 300 characters if you need it shorter:
+Under 300 characters if you need the connection-request version:
 
-> Applied today for the Northeast Lab Ops Director role. Analytical chemistry and ISO 17025 background, then 8 sites / 300 people / $10M P&L. With three labs recently acquired, I'd guess integration is the hard part. Worth 15 minutes?
+> Applied today for the Northeast Lab Ops Director role. As Associate Lab Director I doubled sample volume on 35% more staff, took turnaround 5 days to 3, cut turnover 75%. With three labs recently acquired, I'd guess integration is the hard part. Worth 15 minutes?
 
 ## Compensation — corrected 9/29, and it's not a problem
 

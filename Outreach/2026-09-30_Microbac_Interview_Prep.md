@@ -21,27 +21,78 @@ You're the third thing. **Say some version of this out loud in the interview**, 
 
 ---
 
-## 2. Your five core stories, pre-loaded
+## 2. Your core stories, pre-loaded
 
-Have these ready as stories, not claims. Each needs a situation, what you did, and a number.
+### The four numbers to say out loud, in this order
 
-**A. The turnaround: sales +30%, costs −40% in four months.**
-This is your headline. Prepare the *mechanism*, because any competent interviewer will ask how. Be ready on: what you measured that nobody was measuring, what you stopped doing, what you changed about scheduling or staffing, and what you did *not* cut (capability, accreditation, quality). For a lab audience, the last part matters most — they are afraid of an operator who cuts QC to make a month.
+From **Green Analytics, as Associate Laboratory Director** — this is the spine of your candidacy for this job, not your multi-site industrial experience:
 
-**B. Multi-site scale: 8 locations, 300+ employees, $10M operating budget.**
-The point is not size, it's *variance*. Eight sites that each believed they were unique, and what you did to make them comparable: common definitions, a shared reporting cadence, site-level accountability. Land the line: "The hardest part of multi-site work isn't the distance, it's getting eight sites to agree on what a number means."
+1. **Volume ~25,000 → just under 50,000 samples a year, on 35% more staff.** Do the arithmetic for them: that's roughly a **50% increase in output per person**. In his language, cost per sample fell hard.
+2. **Turnaround five days → three days.** In commercial testing this is a competitive weapon, not an efficiency stat. Say so.
+3. **Turnover down about 75%.** In the current analyst labor market this may be the most impressive number you have, and it's the one most candidates can't claim.
+4. **Scope: 40 people effectively** — three department managers (chemistry, microbiology, sampling), three shift leads, ~16 techs and analysts, plus the facility itself.
 
-**C. Quality systems as an operating system: ISO 9001 and ISO 17025.**
-Your 17025 experience is a credential in this room and nowhere else in your pipeline. Prepare a story where the quality system *made* the operation better — a corrective action that fixed a process, an audit that exposed a real workflow defect — not one where you merely passed an audit. Most operators treat accreditation as tax. Treat it as instrumentation.
+Pull the supporting detail from your files before the call so you can defend any of these if pressed.
 
-**D. ERP and systems implementation.**
-The lab analogue is LIMS. Be honest that you've implemented ERP rather than LIMS, then show you understand why it's the same fight: adoption, data discipline, sequencing, and what happens when people keep the old spreadsheet running in parallel. Ask which LIMS each of their labs runs — if the acquired labs are on different ones, you've found the region's biggest hidden cost.
+### How to explain the role structure — and why it's a selling point
 
-**E. Green Analytics — your most recent lab-side credibility.**
-This is your proof you're current, so don't let it go unmentioned. Before tomorrow, write out three things: what the operation was, what you owned, and one measurable thing you changed. *(Fill this in yourself — I don't have the specifics and you should not improvise them on the call.)*
+You and the Lab Director split the job: he was the technical specialist and the public face, owning everything outside the walls; **you owned everything inside them** — people, workflow, throughput, facility, and the connection between the building and HR, regional operations and the C-suite.
 
-**F. Current Stellar work.**
-You are not unemployed, you're operating right now. Frame it as active consulting with invoiced project work through this month, and be ready with one sentence on the kind of problem you're solving. Then pivot to why you want a durable seat with a team and a P&L rather than project work. Do not sound apologetic, and do not sound like you'd keep it as a side business unless you intend to disclose that.
+Say it that way. It does three things: explains a title that reads as second-in-command, establishes that you ran the operation rather than assisting, and maps directly onto how a regional director at Microbac would actually work — you are the standard and the cadence inside the labs, while technical directors own the science.
+
+### Story A — How you doubled throughput (the mechanism)
+
+They will ask how. Your answer has four parts, and none of them are "we worked harder":
+- **Workflow and purchasing analysis** to take out cost and add capacity.
+- **Physical lab redesign** around how samples actually move — you developed new lab designs to fix flow. This is a rare and credible thing for an ops leader to have done, and it plays directly to a region that may need capacity without new buildings.
+- **Facility and project management**: contractors, projects, the building itself.
+- **Management structure**: middle managers and shift leads who owned their areas, which is what let volume double without the staffing doubling.
+
+Land this line: *"Most of the capacity was already in the building. It was trapped in how the work moved."*
+
+### Story B — The Job Leveling Program (your best differentiator)
+
+Technician 1–3 and Analyst 1–3, with **published pay ranges, skill checklists, and supervisor sign-offs and reviews**, replacing a structure where everyone held the same title with wildly different pay and responsibility.
+
+Why this matters more than it sounds: it's simultaneously a **retention system** (the 75% turnover reduction), a **certification-coverage map** (who is qualified to run what — the constraint most labs don't track until someone quits), a **wage-equity fix**, and a **training pipeline**. Most operators talk about culture; you built the mechanism that produced it.
+
+Also say the culture part plainly, because it's real: you moved the lab from a culture of blame to one of responsibility, and you worked on psychological safety. Be honest that you don't know whether the last part outlasted you. That candor reads as credibility, not weakness.
+
+### Story C — Quality and accreditation: attribute it correctly
+
+Accreditation ownership was **Atlantic Technical Systems and Atlantic Test Labs**, where you owned 100% of it, including ISO 9001 and ISO 17025 — **not** Green Analytics. Keep that straight; misattributing it is the kind of error that unravels an otherwise strong interview.
+
+At Green Analytics, the quality story is cultural rather than accreditation-based, and it's a good one: quality and accuracy won even when it cost a day. That's the answer to the QC-versus-deadline question, and it's true rather than rehearsed.
+
+### Story D — Systems: be precise about what you've built
+
+You built management and progression systems, workflow and purchasing analysis, and an ERP implementation earlier in your career. The lab analogue here is **LIMS**, which you should ask about rather than claim. If the three acquired labs are on different LIMS platforms, you've found the region's largest hidden cost — and that's a question that makes you sound like you've done this before.
+
+### Story E — Your multi-site industrial experience is now the *supporting* act
+
+8 locations, 300+ employees, $10M budget, and the 30% sales / 40% cost turnaround still matter — they prove you operate above single-site scale, which is what a regional seat requires. But for this audience they come **second**, after the lab numbers. Reverse the order you'd use anywhere else in the pipeline.
+
+### Story F — Why you left Green Analytics
+
+Your own framing is strong and you should use close to your exact words: **your career progression had diverged from the business's future.** The market capped out, expansion stopped, the lab reached steady state, and the next-phase need was technical depth rather than someone to scale the operation. You told them to hire a chemist. They did. No hard feelings.
+
+Then the positioning line that turns it into an asset: *"I'm who you hire when you're growing or absorbing something. I'm not who you need once it's steady state."* Microbac has bought three labs in eighteen months. That is precisely the growing-and-absorbing condition.
+
+**One caution: handle the payroll detail cleanly.** You're still technically on their payroll as a backup reporting officer and haven't been used in months. Don't hide it and don't lead with it. If asked when you left or whether you're currently employed, the honest version is one sentence: you resigned, and a nominal administrative role remains on their license until the transition closes out — pending returning the laptop. For a licensed lab, a named reporting officer on a state license is normal and Long will understand it instantly. What you must avoid is a version that sounds like you're still employed there when a reference check says otherwise, or vice versa.
+
+**Do not carry the bitterness in.** Your real reason for leaving includes a C-suite you couldn't convince to run the business professionally, a ceiling on your mobility, regional purchasing you couldn't influence, and an owner who held the finances closely. All legitimate, and all poison if voiced as complaint. The interview-safe translation: *"I reached the limit of what I could change from where I sat. I'm looking for a seat where the regional decisions are actually mine."* Say it once, without heat, and move on.
+
+**Turn the scar tissue into questions instead** (see section 4): who owns purchasing regionally, what can you change without asking, and who decides on capital. Those questions come from real experience and they double as your own screening.
+
+### Story G — Cannabis: get ahead of it, in one move
+
+You worked in cannabis, pharmaceutical (drug) and pharmaceutical-environmental testing, and you're comfortable in any analytical method. **You've also decided you're done with the cannabis industry** — and adjacent-but-not-cannabis is exactly what you want, which is worth saying because it reads as a considered decision rather than an escape.
+
+Frame the experience, before anyone else can frame it for you: it was **high-throughput regulated analytical testing under a state compliance program**, with the same instrumentation, the same defensibility requirements and tighter turnaround pressure than most environmental work. Lead with the instrumentation and the volume, and let cannabis be the matrix rather than the identity.
+
+### Story H — Current Stellar work
+
+You're operating right now, not between jobs: active consulting with invoiced project work in the last two cycles. One sentence on the kind of problem you solve, then pivot to why you want a durable seat with a team and a P&L instead of project work. Don't sound apologetic, and don't imply you'd quietly keep it running unless you intend to disclose that.
 
 ---
 
@@ -49,6 +100,9 @@ You are not unemployed, you're operating right now. Frame it as active consultin
 
 **"Walk me through your background."**
 Ninety seconds, chronological, with a spine: chemistry and lab operations → quality systems and accreditation → multi-site operations and P&L → why that path leads here. End on the reason you want *this* seat, which is that it's the first role you've seen that needs both halves of your career at once.
+
+**"You've run one lab. This job is several."**
+This is now your most likely real objection, so answer it before it hardens. The two halves of your career cover it: Green Analytics is the *depth* — what actually drives throughput, turnaround and retention inside a lab — and the 8-location, 300-person, $10M industrial operation is the *span*, including the part where sites that each think they're unique have to become comparable. Then the honest sentence: *"The regional job isn't running five labs myself. It's making five labs legible to each other and to you, and putting managers in place who own their numbers."*
 
 **"How current are you technically? You haven't been at the bench in years."**
 Do not overclaim. The honest, strong answer: *"I'm not going to out-chemist your technical directors, and I shouldn't. What I keep current is enough method fluency to ask the right question and know whether an answer holds up."* Then give the hexavalent chromium example as an operations point — the prep queue, courier timing, instrument uptime and analyst certification behind a short-hold-time analysis are what set turnaround time and margin. One example. Move on.
@@ -77,6 +131,9 @@ Have one. Show a real sequence: clear expectations, documented, with support off
 **"Your career has covered a lot of industries. Why?"**
 Your own framing, which is genuinely strong: it's one specialty, not many. Organizations where growth outran the management systems, and building the systems and leaders to scale. Then name why this one is the consolidation of it rather than another swerve.
 
+**"Why are you leaving cannabis?"**
+Answer it as a decision, not an escape: the market capped out, the business's future and your own progression diverged, and you'd concluded you were done with that industry. Then the forward half — you want to stay in regulated analytical testing, where the instrumentation and the defensibility standards are the same, without the cannabis regulatory overhead. That's a coherent story and it happens to be true.
+
 **"Why Microbac?"**
 Three specifics, not flattery: (1) family-owned and independent in a sector being rolled up by Eurofins, Pace and SGS, which means service and defensibility are the differentiation and operations is how you deliver it; (2) recent acquisitions mean the interesting work is real and immediate; (3) the seat needs a lab person who can own a number, which is your actual profile. Do **not** call them PE-backed.
 
@@ -103,7 +160,10 @@ Ops candidates get hired on their questions more than their answers. Ask these i
 8. Do the lab or site managers report to me directly, and who owns hiring decisions for them?
 9. How is commercial ownership split — do I own revenue in the region, or partner with sales?
 10. What's the capital process for instrumentation? Who decides, and how fast?
-11. What can I change without asking, and what comes to you first?
+11. **Is purchasing centralized or regional? Can a regional director change vendors or renegotiate supply?**
+12. What can I change without asking, and what comes to you first?
+
+Question 11 is yours specifically. At Green Analytics, purchasing was regional rather than local, so the savings you could see were savings you couldn't capture without company-wide buy-in you were never going to get. Ask it neutrally — *"Where does procurement sit?"* — and listen carefully to the answer. If the answer is "centralized and closed," you're buying the same frustration again. If it's "regional with real latitude," that's a reason to want this job that you can name in the offer conversation.
 
 **Success:**
 12. Twelve months from now, what has to be true for this to have been a good hire?
