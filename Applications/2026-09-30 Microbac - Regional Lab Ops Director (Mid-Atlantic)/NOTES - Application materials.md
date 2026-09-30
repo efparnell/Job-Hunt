@@ -110,3 +110,42 @@ Two things, in this order:
 - **If he gives intel only:** use it, thank him specifically, and send the direct note yourself.
 - **Either way:** tell him how it turns out. People who hear the outcome help again.
 
+---
+
+## The note to Chris Long — final drafts (10/1)
+
+**Channel:** send a connection request with the short note. If LinkedIn gives a message box instead (or you have InMail), use the long version. Either way, **no honorific** — "Chris," not "Mr." or "Ms."
+
+**Timing:** mid-morning, Tuesday through Thursday. Avoid Monday morning and Friday afternoon, when an operator is either triaging the week or closing it out.
+
+### Short version — connection request (~275 characters)
+
+> Chris — I applied for the Mid-Atlantic Regional Lab Ops Director role (req 2196). Lab background: took volume 25k to 47k samples on staff of 32 to 45, turnaround 5 days to 3, turnover 12/yr to 4. Two ISO 17025 accreditations, built the LIMS. Local to Anne Arundel County. Worth 15 minutes?
+
+### Long version — message, InMail or email (chris.long@microbac.com)
+
+> **Subject: Mid-Atlantic Regional Lab Ops Director — req 2196**
+>
+> Chris —
+>
+> I applied yesterday for the Regional Laboratory Operations Director role for the Mid-Atlantic, and wanted to reach you directly since you own the hire.
+>
+> Briefly: I came up through analytical chemistry and laboratory operations, then spent my career learning to run the business side. As Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff went from 32 to 45, cut turnaround from five days to three, and brought annual turnover from twelve departures down to four. Earlier I took two laboratories through ISO 17025 accreditation and built the LIMS they ran on.
+>
+> My read from the outside is that the hard half of a regional seat isn't running any one laboratory well — it's making independently accredited laboratories with different scopes comparable to each other, without disturbing the technical authority that holds the licenses.
+>
+> I'm in southern Anne Arundel County, a straight run up to the Baltimore laboratory. Worth fifteen minutes?
+>
+> Evan Parnell
+> (443) 294-5481
+
+### Why these say what they say
+
+- **Turnover and turnaround lead**, because those are the numbers a laboratory COO manages by — and, per Cory, the ones under pressure at Microbac. They are stated as his own record, never as a comment about Microbac.
+- **The LIMS is named**, because it is Long's top endorsed skill and almost no operations candidate can claim it.
+- **The closing line describes the job as Long's own posting describes it** — "multiple accredited, independent commercial laboratory facilities" — and adds the clause that shows he knows where the friction is: not disturbing the technical authority holding the licenses. That is the Ron Warila question, pre-answered without naming anyone.
+- **What's deliberately left out:** anything from Cory, the PFAS gap, and the fact that Long personally held this seat. All three are conversation material, not cold-outreach material. Leading with what's wrong at their company, or with how much you know about their career, changes the tone from operator to investigator.
+
+### If the connection is accepted but nothing is said
+
+Wait two days, then send the long version as a message. If there's still nothing by **10/14**, that is the application follow-up date anyway — one message, adding something useful rather than repeating the ask.
