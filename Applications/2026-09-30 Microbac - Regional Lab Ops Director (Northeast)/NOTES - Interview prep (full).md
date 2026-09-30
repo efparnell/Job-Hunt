@@ -330,6 +330,10 @@ Microbac lists **32 locations in 17 states**; say "just over 30," because their 
 
 Microbac already runs this model elsewhere — **Adam Paddock** covers the West Coast (Arcata, Prineville, Turlock) and **Leslie Taylor** covers the Midwest. **The Northeast is the gap.** That is almost certainly why the seat exists.
 
+**You have a precedent for this, and a witness to it.** Your Laboratory Director at Green Analytics was **Dan Kulakowski, PhD organic chemistry (NYU)** — the technical specialist who owned the science and everything outside the building while you owned everything inside it. That is structurally the same relationship you would have with **Ron Warila** at Dayville: a tenured technical authority personally named on a state certificate, whose science you would not touch and whose operation you would help run.
+
+**Say it, and offer the reference:** *"I've done this exact pairing for four years. My Lab Director was a PhD organic chemist — he owned the science and the external relationships, I owned the operation inside the building. He's one of my references, and he's the right person to ask whether that held up."* Volunteering the person best positioned to contradict you is the strongest available signal that it's true.
+
 **So expect the real question:** how would you take on three functioning pockets, each with a tenured leader, without breaking them? Your answer is the 90-day plan — measure first, standardize the measurement layer, leave technical authority where it belongs. Note also that **Warila is key-person risk**: he is personally named on the certificate for the region's most licence-dependent asset. Raising that thoughtfully — as succession and bench depth, not as a threat — shows you think like an operator.
 
 **Useful detail:** their own CFO blog says Microbac already does **"monthly financial tracking per facility,"** which is exactly the job's "monthly tracking and roll up." Ask what that pack contains today and what's missing from it.

@@ -61,21 +61,38 @@ So ask, plainly and without coaching: *"If someone asks why I left, how would yo
 - He is **still nominally on their payroll as a backup reporting officer**. If a reference call or verification turns that up, both accounts need to match.
 - His private frustrations — not getting the C-suite to run the business professionally, a ceiling on his mobility, the intent to sell within ~5 years — **stay private**. Don't test whether they share that read; just make sure the public story is consistent.
 
-## 3. Daniel Kulakowski
+## 3. Dan Kulakowski — Laboratory Director, PhD Organic Chemistry (NYU)
 
-Named as a reference who will take his call. **Role and company still needed** — and the answer determines the slot:
-- If he was **one of the five middle managers**, he is the best available #3: someone whose own progression ran through the leveling framework. "He built the structure that got me promoted" is the most persuasive thing this set can contain.
-- If he was a **peer or technical lead**, he's a strong alternate to Margaret for the ATS/ATL era.
-- If he was **senior**, he competes with the Rosensteins for the same dimension — in which case keep him in reserve.
+**This is the most strategically valuable reference in the set, and it belongs near the front.**
 
-*(Spelling: he wrote "Danial" — confirm before it goes on a sheet given to an employer.)*
+Dan was the Laboratory Director at Green Analytics — the technical specialist who owned the science and everything outside the building, while Evan owned everything inside the walls. That makes him the **only person who can confirm the split-role framing** the whole candidacy rests on. Coming from a PhD organic chemist rather than from Evan, "he ran the operation, I owned the science" stops being self-description and becomes testimony.
+
+**It also answers Microbac's hardest question before they ask it.** Their Northeast region has **Ron Warila** — Technical Director and Division Manager, eleven years, personally named on the Connecticut state certificate. The obvious concern about hiring an outside operations director is precisely how he would work with someone like that. **Evan has already run that pairing for four years, and his Lab Director can describe how it went.** A PhD technical authority vouching that an operations leader made his laboratory better without encroaching on the science is worth more than any answer Evan could give himself.
+
+**He can speak to:**
+- The division of labor, and that it worked — Evan carrying people, workflow, throughput and facility while Dan kept the technical and external relationships.
+- **Whether Evan's technical fluency is real** — that he could be argued with about a method and hold his ground, which is exactly what Chris Long will be testing.
+- Turnaround and throughput from the technical side, and the quality-over-speed norm they operated under.
+
+**Use him in the interview, not only in the reference check:** *"The Lab Director I worked with is a PhD organic chemist. He owned the science and everything outside the building; I owned everything inside it. He's one of my references, and he's the right person to ask how that division held up."* Offering the person best positioned to puncture your own claim signals that you expect to be checked.
+
+## 4. Marc Rosenstein — CFO · Andrew Rosenstein — CEO
+
+Roles confirmed. Use as described in section 2: **Marc (CFO)** for the $10M budget, the ~15% cost reduction and network purchasing; **Andrew (CEO)** for enterprise adoption and the departure narrative. Align the departure story with whichever one is listed.
 
 ## Recommended slate for Microbac
 
-1. **Margaret Crouse** — eleven years across all three companies; the leveling framework, ISO 17025/9001, day-to-day laboratory operations.
-2. **The CFO (Marc or Andrew Rosenstein)** — budget, the ~15% cost reduction, purchasing across the network.
-3. **A former report** — Daniel Kulakowski if he was one of the five managers, otherwise Scott Robertson, Caroline Stanka or Kiera Matlock.
-4. **Reserve: the CEO** — enterprise adoption, trust, departure.
+| | Who | What they verify |
+|---|---|---|
+| **1** | **Dan Kulakowski**, Laboratory Director (PhD, NYU) | The split-role framing, genuine technical fluency, and that he partners with a technical authority rather than colliding with one — the Warila question, answered |
+| **2** | **Margaret Crouse**, Regional Microbiology Director | Eleven years across all three companies: the job leveling framework, the ISO 17025/9001 arc, day-to-day laboratory operations |
+| **3** | **Marc Rosenstein**, CFO | The $10M budget, the ~15% cost reduction, purchasing across the network — numbers only he can confirm |
+| **Reserve** | **Andrew Rosenstein**, CEO | Enterprise adoption across eight laboratories and 250+ employees; the departure narrative |
+| **Reserve** | One of **Scott Robertson · Caroline Stanka · Kiera Matlock** | People development and retention from below — add if they probe the leveling framework or ask for a fourth |
+
+**Why this order:** it front-loads the two people who can corroborate what the job actually requires — partnering with technical leadership, and running a laboratory's interior — then adds the one person who can verify the financial claims. Two of the three are technical, which matters when the hiring manager is an operator with a biology degree rather than a finance executive.
+
+**The gap to be aware of:** nobody in the top three managed *under* him. His five middle managers are the people who lived the leveling framework, so if Microbac probes people development specifically, offer one of the three remaining names as a fourth.
 
 That covers technical credibility, financial verification and people development, and keeps an ATS/ATL-era voice in the set.
 
@@ -109,10 +126,11 @@ Give people the context to be useful. A reference who knows which claim to speak
 ## Checklist
 
 - [ ] Margaret Crouse — contact details added, permission asked
-- [ ] CFO (Marc or Andrew Rosenstein) — confirm which is CFO, ask permission
-- [ ] Departure narrative aligned with whoever is listed from Green Analytics
-- [ ] Daniel Kulakowski — role and company confirmed, spelling verified, slot decided
-- [ ] Third reference chosen from the former-report pool
-- [ ] CEO held as reserve
+- [ ] Dan Kulakowski — permission asked, first-name spelling confirmed
+- [ ] Margaret Crouse — contact details added, permission asked
+- [ ] Marc Rosenstein (CFO) — permission asked
+- [ ] Departure narrative aligned with Marc and Andrew
+- [ ] Andrew Rosenstein (CEO) held as reserve
+- [ ] A former middle manager identified as the fourth
 - [ ] Each mapped to a distinct claim
 - [ ] Posting and resume sent to each
