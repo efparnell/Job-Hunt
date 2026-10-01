@@ -149,3 +149,30 @@ Two things, in this order:
 ### If the connection is accepted but nothing is said
 
 Wait two days, then send the long version as a message. If there's still nothing by **10/14**, that is the application follow-up date anyway — one message, adding something useful rather than repeating the ask.
+
+---
+
+## Final: the email actually sent (10/1)
+
+**Why email rather than LinkedIn:** the connection request required her email address to verify the invitation, and the note was capped at 200 characters. Since the email was needed either way, email won — full message, no cap, and no personalized invitation burned on a guess. Address: **chris.long@microbac.com** (pattern confirmed from Microbac's A2LA accreditation documents; fallback christopher.long@microbac.com). Followed her on LinkedIn as a light secondary signal.
+
+> **Subject: Mid-Atlantic Regional Lab Ops Director — req 2196**
+>
+> Chris —
+>
+> I applied this week for the Regional Laboratory Operations Director role for the Mid-Atlantic, and wanted to introduce myself directly rather than hope a resume speaks for itself.
+>
+> The quick version of me: I came up through analytical chemistry and laboratory operations, then spent my career learning the business side. As Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff grew from 32 to 45, cut turnaround from five days to three, and brought annual turnover from twelve departures down to four. Earlier I took two laboratories through ISO 17025 accreditation and built the LIMS they ran on — one that's still the kernel of the system my last laboratory uses.
+>
+> What draws me to Microbac specifically: it's one of the few independent networks left in a sector being rolled up, and that independence only holds if the operations hold. From the outside, the hard half of a regional seat looks less like running any one laboratory well and more like making independently accredited laboratories comparable to one another — without stepping on the technical authority that holds the licenses. That's the work I enjoy most.
+>
+> I'm in southern Anne Arundel County, a straight run up to the Baltimore laboratory, and I'd welcome fifteen minutes whenever it suits you.
+>
+> Thanks for reading this far —
+>
+> Evan Parnell
+> (443) 294-5481
+
+**What makes this version warmer without going soft:** it opens with an intention ("introduce myself") rather than a transaction; "the quick version of me" and "that's the work I enjoy most" sound like a person; the LIMS line carries quiet pride by noting the system outlived him; and the Microbac paragraph gives a real reason for wanting *them* rather than a job. The numbers are untouched, because they are what make the warmth credible rather than ingratiating.
+
+**The one line doing strategic work:** *"that independence only holds if the operations hold."* It flatters the operator's role without flattering the person, and it frames operations as the thing protecting what the company is proud of being.
