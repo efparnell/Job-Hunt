@@ -380,9 +380,9 @@ Don't walk in saying there's a chemist shortage. The numbers say otherwise, and 
 
 ### 10.6 Chris Long — how to pitch to this specific person
 
-Their published language: *"leading enterprise-wide operations, driving strategic growth, operational excellence,"* a *"collaborative leadership style, commitment to continuous improvement, and ability to deliver results in complex operating environments,"* credited with *"improving efficiency, strengthening customer partnerships, and developing high-performing teams."* **B.S. Biology, internally promoted, 20 years at Microbac.**
+Her published language: *"leading enterprise-wide operations, driving strategic growth, operational excellence,"* a *"collaborative leadership style, commitment to continuous improvement, and ability to deliver results in complex operating environments,"* credited with *"improving efficiency, strengthening customer partnerships, and developing high-performing teams."* **B.S. Biology, internally promoted, 20 years at Microbac.**
 
-Mirror that vocabulary: **throughput, schedule reliability, efficiency, customer partnership, developing people.** Don't try to out-science them, and don't lead with analytical chemistry depth — their published identity is operator, not scientist. Your Green Analytics numbers are already written in his language.
+Mirror that vocabulary: **throughput, schedule reliability, efficiency, customer partnership, developing people.** Don't try to out-science her, and don't lead with analytical chemistry depth — her published identity is operator, not scientist. Your Green Analytics numbers are already written in his language.
 
 Others you may meet: **Derrick Friedrich**, CTO, 35+ years, who **started as a dishwasher** and worked nearly every lab role — he'll respect the inside-the-walls story. **Ashley Malchow**, Chief Quality, Safety and Risk Officer, among the first 18 people to earn TNI's quality-systems certification and a member of A2LA's Accreditation Council — with her, quality is not a box to tick. **Grayson Boyce**, President. **Alexandra Boyce**, Chief Innovation Officer — **IT, and therefore LIMS, sits under her**, not under the COO, which is worth knowing before proposing any systems change.
 
@@ -609,7 +609,7 @@ The Atlantic Technical Systems / Atlantic Test Labs and Atlas Labs record is dee
 
 **Profile:** https://www.linkedin.com/in/chris-long-96377136/ · based in **Pittston, PA** (where Microbac has a laboratory) · **20 years and 1 month at Microbac** · B.S. Biology, East Stroudsburg University, 2007 · top endorsed skills **LIMS** and **Microbiology** · volunteers at the Pocono Wildlife Rehabilitation Center.
 
-**A note on address:** the profile photo appears to be a woman and no pronouns are published. **Do not use "Mr." or "Ms."** Write "Dear Chris Long," or just "Chris." The submitted cover letter said "Dear Mr. Long" — see the fix below.
+**A note on address:** Chris Long is a woman (confirmed by Evan, 10/1), so **she/her**. Address her as "Chris" — first name is right for the operator-to-operator register, and "Ms. Long" would be correct but stiffer than this exchange needs. The already-submitted cover letter said "Dear Mr. Long," which is the one error in the package; never repeat it in live correspondence.
 
 ### The career history, which is the important part
 
@@ -623,17 +623,17 @@ The Atlantic Technical Systems / Atlantic Test Labs and Atlas Labs record is dee
 
 **Three things follow from this, and they reshape the whole conversation.**
 
-**1. Long ran the Mid-Atlantic region personally, for four years.** The job being filled is, in substance, their old seat. That means: they know every laboratory in it by name, they have firm opinions about what works there, and they will evaluate answers against their own experience rather than against a job description. Generic regional-management talk will not survive contact.
+**1. Long ran the Mid-Atlantic region personally, for four years.** The job being filled is, in substance, her old seat. That means: she knows every laboratory in it by name, she has firm opinions about what works there, and she will evaluate answers against her own experience rather than against a job description. Generic regional-management talk will not survive contact.
 
-**The single best question you can ask becomes obvious:** *"You ran the Mid-Atlantic yourself for four years. What did you learn in that seat that you'd want whoever takes it next to know on day one?"* That question flatters nothing, invites the story they most want to tell, and hands you the actual success criteria. **Ask it early.**
+**The single best question you can ask becomes obvious:** *"You ran the Mid-Atlantic yourself for four years. What did you learn in that seat that you'd want whoever takes it next to know on day one?"* That question flatters nothing, invites the story she most wants to tell, and hands you the actual success criteria. **Ask it early.**
 
 A second one: *"What would you have done in that region if you'd had more time or more support?"* The answer is very likely the mandate.
 
-**2. They are nine months into the COO role, and this is their first structural move.** A new COO filling two regional director seats at once is rebuilding the management layer they used to occupy. Early COO hires are about installing people they can trust to run what they can no longer run personally. That is an argument for emphasizing judgment and reliability over cleverness — and for the escalation and decision-rights story, which is exactly about being someone a senior leader can rely on.
+**2. She is nine months into the COO role, and this is her first structural move.** A new COO filling two regional director seats at once is rebuilding the management layer they used to occupy. Early COO hires are about installing people they can trust to run what they can no longer run personally. That is an argument for emphasizing judgment and reliability over cleverness — and for the escalation and decision-rights story, which is exactly about being someone a senior leader can rely on.
 
-**3. They came up the same ladder you did, only inside one company.** Laboratory Manager → Laboratory Director → Senior Director → VP → COO, starting on the bench with a biology degree. They will recognize and respect the operator's path. They will also know instantly whether you have actually run a laboratory. **Speak in specifics — sample flow, prep queues, analyst certification coverage, turnaround definitions — not in management abstractions.**
+**3. She came up the same ladder you did, only inside one company.** Laboratory Manager → Laboratory Director → Senior Director → VP → COO, starting on the bench with a biology degree. She will recognize and respect the operator's path. She will also know instantly whether you have actually run a laboratory. **Speak in specifics — sample flow, prep queues, analyst certification coverage, turnaround definitions — not in management abstractions.**
 
-**Also worth noting:** their top endorsed skill is **LIMS**. Systems for running laboratories are a personal interest, not an afterthought. Your ERP implementation experience and the question about whether the region's laboratories share a LIMS will land better with this person than with almost any other COO.
+**Also worth noting:** her top endorsed skill is **LIMS**. Systems for running laboratories are a personal interest, not an afterthought. Your ERP implementation experience and the question about whether the region's laboratories share a LIMS will land better with this person than with almost any other COO.
 
 ### Two contacts the profile surfaced
 

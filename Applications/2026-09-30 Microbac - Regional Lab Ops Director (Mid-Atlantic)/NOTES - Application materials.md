@@ -154,7 +154,7 @@ Wait two days, then send the long version as a message. If there's still nothing
 
 ## Final: the email actually sent (10/1)
 
-**Why email rather than LinkedIn:** the connection request required her email address to verify the invitation, and the note was capped at 200 characters. Since the email was needed either way, email won — full message, no cap, and no personalized invitation burned on a guess. Address: **chris.long@microbac.com** (pattern confirmed from Microbac's A2LA accreditation documents; fallback christopher.long@microbac.com). Followed her on LinkedIn as a light secondary signal.
+**Why email rather than LinkedIn:** the connection request required her email address to verify the invitation, and the note was capped at 200 characters. Since the email was needed either way, email won — full message, no cap, and no personalized invitation burned on a guess. Address: **chris.long@microbac.com** (pattern confirmed from Microbac's A2LA accreditation documents). **If it bounces, do not try christopher.long@ — Chris is a woman.** Check the **Contact info** link on her LinkedIn profile first, then try clong@microbac.com, then ask Careers@microbac.com to pass a note along.. Followed her on LinkedIn as a light secondary signal.
 
 > **Subject: Mid-Atlantic Regional Lab Ops Director — req 2196**
 >
