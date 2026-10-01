@@ -95,7 +95,7 @@ Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock**
 - [ ] Confirm the Mid-Atlantic footprint and how it splits from the Northeast
 - [x] **Application submitted 9/30/2026** — req 2196, confirmed on the portal
 - [x] **Asked Cory Koons for a warm introduction — 9/30**
-- [ ] Direct note to Chris Long — send 10/3 if Cory has not come back
+- [x] **Emailed Chris Long directly — 10/1** (chris.long@microbac.com; LinkedIn invites required her email)
 - [ ] Tracker updated (OPP-022 → Applied, Last Touch, next action)
 - [ ] Recruiter/HR screen
 - [ ] Conversation with Chris Long
