@@ -162,7 +162,9 @@ Wait two days, then send the long version as a message. If there's still nothing
 >
 > I applied this week for the Regional Laboratory Operations Director role for the Mid-Atlantic, and wanted to introduce myself directly rather than hope a resume speaks for itself.
 >
-> The quick version of me: I came up through analytical chemistry and laboratory operations, then spent my career learning the business side. As Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff grew from 32 to 45, cut turnaround from five days to three, and brought annual turnover from twelve departures down to four. Earlier I took two laboratories through ISO 17025 accreditation and built the LIMS they ran on — one that's still the kernel of the system my last laboratory uses.
+> The quick version of me: analytical chemistry by training, and I've run analytical microbiology laboratories for the last decade — the bench your Baltimore scope is built on. As Associate Laboratory Director at Green Analytics I took annual volume from about 25,000 samples to 47,000 while the staff grew from 32 to 45, cut turnaround from five days to three, and brought annual turnover from twelve departures down to four. Earlier I took two laboratories through ISO 17025 accreditation and built the LIMS they ran on — one that's still the kernel of the system my last laboratory uses.
+>
+> If it's useful, my strongest reference on the microbiology side is Margaret Crouse, a Regional Microbiology Director who worked alongside me across three laboratories and eleven years.
 >
 > What draws me to Microbac specifically: it's one of the few independent networks left in a sector being rolled up, and that independence only holds if the operations hold. From the outside, the hard half of a regional seat looks less like running any one laboratory well and more like making independently accredited laboratories comparable to one another — without stepping on the technical authority that holds the licenses. That's the work I enjoy most.
 >
@@ -172,6 +174,10 @@ Wait two days, then send the long version as a message. If there's still nothing
 >
 > Evan Parnell
 > (443) 294-5481
+
+**Why the microbiology emphasis belongs here:** Baltimore's A2LA accreditation is **biological plus environmental lead** — rapid yeast and mold, aerobic plate count, coliforms and E. coli, Enterobacteriaceae, Listeria and Salmonella confirmation — with no organic chemistry, no radiochemistry and no PFAS. Micro is not one capability at that site; it is substantially what the site *is*. A decade running analytical microbiology operations speaks directly to the laboratory he would be sitting in, and "the bench your Baltimore scope is built on" shows the homework without reciting certificate numbers back at them.
+
+**Why name Margaret in a first email:** offering a reference unprompted signals that he expects to be checked, which only confident candidates do. And the specific person is unusually apt — a **Regional Microbiology Director**, a title Microbac's own structure respects, who worked with him across three companies and eleven years. One sentence, offered rather than attached.
 
 **What makes this version warmer without going soft:** it opens with an intention ("introduce myself") rather than a transaction; "the quick version of me" and "that's the work I enjoy most" sound like a person; the LIMS line carries quiet pride by noting the system outlived him; and the Microbac paragraph gives a real reason for wanting *them* rather than a job. The numbers are untouched, because they are what make the warmth credible rather than ingratiating.
 

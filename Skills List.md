@@ -77,7 +77,7 @@ Be honest and specific; inflated self-ratings are easy to puncture in an intervi
 | 7 | Quality Management Systems | 06/01/2015 | 09/30/2026 | ADV | *(leave blank)* |
 | 8 | Method Validation | 06/01/2017 | 12/31/2021 | ADV | *(leave blank)* |
 | 9 | LIMS | 06/01/2017 | 09/30/2026 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
-| 10 | Microbiology | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
+| 10 | Microbiology | 01/15/2014 | 09/30/2026 | ADV | Ten years running analytical microbiology operations - aerobic plate count, yeast and mold, pathogen detection and confirmation, environmental monitoring - including a pharmaceutical microbiology laboratory build. |
 | 11 | Team Leadership | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
 | 12 | Process Improvement | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
 | 13 | P&L Management | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |

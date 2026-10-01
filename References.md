@@ -27,6 +27,8 @@ Reusable across applications. Started 9/29/2026 for Microbac (OPP-022).
 | **Asked yet?** | Not yet — ask before you list her |
 | **Cautions** | None |
 
+**Promoted 10/1 for this role specifically:** Microbac's **Baltimore laboratory is accredited for biological testing and environmental lead** — micro is most of what that site does. Margaret is a **Regional Microbiology Director**. She is therefore not just a character witness but the subject-matter reference for the exact bench he would be running, and she is named in the outreach email to Chris Long for that reason.
+
 **Why she leads the set:** she is a **longitudinal reference across eleven years and all three organizations**. That's rare and it does something no single-employer reference can: it makes your career read as one continuous specialty rather than a series of jobs. She also covers the ATS/ATL era that no employer can now confirm.
 
 **She can speak first-hand to:**
