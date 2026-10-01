@@ -164,14 +164,12 @@ Give people the context to be useful. A reference who knows which claim to speak
 
 ## Checklist
 
-- [ ] Margaret Crouse — contact details added, permission asked
-- [ ] Dan Kulakowski — permission asked, first-name spelling confirmed
-- [ ] Margaret Crouse — contact details added, permission asked
-- [ ] Marc Rosenstein (CFO) — permission asked
-- [ ] Departure narrative aligned with Marc and Andrew
-- [ ] Andrew Rosenstein (CEO) held as reserve
-- [ ] Stacey Kristales or Kiera Matlock asked, and asked for their own progression story
-- [ ] Caroline Stanka asked (frame: her own progression to regional specialist)
-- [ ] Scott Robertson held in reserve — ask him how the leveling framework landed at his Green Analytics office
-- [ ] Each mapped to a distinct claim
+- [x] **Permission obtained from the references — 10/1/2026**
+- [ ] Contact details (phone + email) captured for each, so a sheet can go out the moment it's asked for
+- [ ] Each briefed on the one claim they're best placed to corroborate
+- [ ] **Margaret Crouse told she was named by name in the 10/1 email to Chris Long** — she shouldn't be surprised by that call
+- [ ] Departure narrative aligned with Marc Rosenstein before he is listed
+- [ ] Scott Robertson asked how the leveling framework landed at his Green Analytics office
 - [ ] Posting and resume sent to each
+
+**What each is carrying:** Dan Kulakowski — the split-role framing and genuine technical fluency · Margaret Crouse — microbiology, the leveling framework, the ISO arc, eleven years · Marc Rosenstein — the $10M budget and the ~15% cost reduction · Caroline Stanka — development with a title as its proof · Stacey Kristales / Kiera Matlock — the framework from below · Scott Robertson — leadership selection and cross-site reception · Andrew Rosenstein — enterprise scope and the departure.
