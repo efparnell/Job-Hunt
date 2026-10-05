@@ -48,8 +48,33 @@ One of the few independent networks left in a consolidating sector; family-owned
 Your career progression diverged from the business's future: the market capped out, expansion stopped, the lab reached steady state, and the next-phase need was technical depth rather than scaling. You told them to hire a chemist. No hard feelings.
 **Say nothing about** the C-suite you couldn't convince, the ceiling on your mobility, or their intent to sell. All true, all poison in an HR screen.
 
-**"Are you currently employed?"** — *handle cleanly, do not improvise.*
-You resigned; a nominal administrative role remains on their state license as a backup reporting officer until the transition closes out. For a licensed laboratory, a named reporting officer is routine and she will understand it instantly. You also have active consulting work through Stellar. **Decide your exact phrasing before the call** — this is the single likeliest place to sound evasive by accident.
+**"Are you currently employed?" / "What are you doing now?"** — *the one to rehearse.*
+
+Three facts have to fit in one calm answer: you left Green Analytics, you have active consulting work, and you are still nominally on Green Analytics' payroll as a backup reporting officer. Nothing here is a problem; sounding uncertain about it would be.
+
+**The default answer (about fifteen seconds):**
+
+> *"I'm not in a laboratory at the moment. I left Green Analytics in [MONTH], and since then I've been consulting — I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding their pricing and catalog systems, and I co-founded a small e-commerce company. Both are project work. What I want is to be back inside a laboratory operation with a team and a P&L, which is why this role got my attention."*
+
+That answers the question, accounts for the time, and ends on intent rather than circumstance.
+
+**If she asks why the consulting isn't on the resume:**
+
+> *"I kept that resume focused on the laboratory record, since that's what this role is. The consulting is commercial systems and data work rather than lab operations. Happy to walk through it if it's useful."*
+
+Tailoring a resume is normal and she'll accept it. **Don't volunteer this explanation** — only use it if asked.
+
+**If employment verification or Green Analytics specifically comes up — raise the payroll detail yourself, once:**
+
+> *"One administrative thing so nothing surprises you later: I'm still listed as a backup reporting officer on Green Analytics' state license while they finish the transition. It's a name on a license rather than a working role — I haven't been used in months and it drops off once I return the laptop. If you verify employment, I may still show as technically active there."*
+
+**Why volunteer it:** a licensed laboratory having named officers on a state license is routine, and Kelly will understand it immediately. But if a verification turns it up *after* you said you'd left, it looks like a dodge. Saying it first costs nothing and buys credibility. Keep it to one sentence and don't editorialize.
+
+**If she asks whether you'd keep the consulting going** — decide your answer before the call, because this is a real question and not a trick:
+
+> *"I'd wind down the project work. Stellar is at a natural handoff point, and this role deserves full attention — especially at 50% travel."*
+
+**Decide now whether that's true.** If you intend to keep Stellar income running alongside a full-time job, most employers require disclosure of outside work, and some have outright policies. It is far better to raise it at offer stage as a question — *"I have a small ongoing consulting engagement; what's your policy?"* — than to have it discovered later. Don't improvise this one in the screen.
 
 **"What are your salary expectations?"**
 *"Your posted range works for me — I'd be looking at the top of it, $120,000, and I'd want to understand the incentive structure and benefits that sit alongside it."* Same number you put on the application. Don't negotiate here; she's confirming, not bargaining.
