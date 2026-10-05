@@ -96,8 +96,8 @@ Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock**
 - [x] **Application submitted 9/30/2026** — req 2196, confirmed on the portal
 - [x] **Asked Cory Koons for a warm introduction — 9/30**
 - [x] **Emailed Chris Long directly — 10/1** (chris.long@microbac.com; LinkedIn invites required her email)
-- [ ] Tracker updated (OPP-022 → Applied, Last Touch, next action)
-- [ ] Recruiter/HR screen
+- [x] Tracker updated (OPP-022 → Recruiter Screen)
+- [x] **HR screen scheduled — Kelly Schaeffer, Director of HR, Teams, Tue 10/13 1:00 PM** (prep doc in this folder)
 - [ ] Conversation with Chris Long
 - [ ] Thank-you within 24 hours of each conversation
 - [ ] References confirmed (3 + reserve) and each briefed on their claim
