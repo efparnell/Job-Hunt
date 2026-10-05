@@ -52,13 +52,17 @@ Your career progression diverged from the business's future: the market capped o
 
 Three facts have to fit in one calm answer: you left Green Analytics, you have active consulting work, and you are still nominally on Green Analytics' payroll as a backup reporting officer. Nothing here is a problem; sounding uncertain about it would be.
 
-**The default answer (about fifteen seconds):**
+**The default answer — revised 10/5, now that the Green Analytics relationship is clear:**
 
-> *"I left Green Analytics in October of last year, and since then I've been consulting — I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding the pricing and catalog systems they run on, and I co-founded a small e-commerce company. Good work, but it's project work. What I want is to be back inside a laboratory operation with a team and a P&L, which is why this role got my attention."*
+> *"I stepped out of the Associate Laboratory Director seat in October of last year and moved to a consulting relationship with them — I'm still a named backup reporting officer on their state license and I support them on an as-needed basis. Alongside that I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding the pricing and catalog systems they run on, and I co-founded a small e-commerce company. Good work, but it's project work. What I want is to be back inside a laboratory operation with a team and a P&L."*
 
-**On the year:** October 2025 to now is twelve months, so treat it as a deliberate chapter rather than a gap — a year spent building commercial systems while looking for the right laboratory seat. Said evenly, it is a fine answer; said apologetically, it invites digging.
+**Why this version is much stronger than the earlier draft:**
 
-That answers the question, accounts for the time, and ends on intent rather than circumstance.
+1. **There is no gap.** October 2025 to now is continuous work, not twelve months of looking.
+2. **The payroll technicality explains itself.** You no longer have to raise "I'm technically still on their payroll" as an awkward disclosure — being a named officer on a state license *is* the consulting relationship. To a laboratory person this needs no explanation at all; named officers on a certificate are how licensed labs work. Kelly came from healthcare HR and will recognize the same pattern from clinical licensure.
+3. **It reframes the departure.** Leaving on terms good enough that they kept you on the license says more about the exit than any sentence you could offer about it.
+
+**Keep it to that length.** The temptation is to over-explain the license role; don't. If she wants detail, she'll ask, and the detail is boring in a reassuring way.
 
 **If she asks why the consulting isn't on the resume:**
 
@@ -66,11 +70,7 @@ That answers the question, accounts for the time, and ends on intent rather than
 
 Tailoring a resume is normal and she'll accept it. **Don't volunteer this explanation** — only use it if asked.
 
-**If employment verification or Green Analytics specifically comes up — raise the payroll detail yourself, once:**
-
-> *"One administrative thing so nothing surprises you later: I'm still listed as a backup reporting officer on Green Analytics' state license while they finish the transition. It's a name on a license rather than a working role — I haven't been used in months and it drops off once I return the laptop. If you verify employment, I may still show as technically active there."*
-
-**Why volunteer it:** a licensed laboratory having named officers on a state license is routine, and Kelly will understand it immediately. But if a verification turns it up *after* you said you'd left, it looks like a dodge. Saying it first costs nothing and buys credibility. Keep it to one sentence and don't editorialize.
+**If employment verification comes up:** nothing special to do. You've already said you're a named reporting officer on their license under a consulting arrangement, so an active-payroll record matches what you told her rather than contradicting it. If she asks directly whether you're still paid by them: *"Yes — it's a consulting arrangement tied to the license role. It's a few hours when they need it, not a position."*
 
 **If she asks whether you'd keep the consulting going** — decide your answer before the call, because this is a real question and not a trick:
 
