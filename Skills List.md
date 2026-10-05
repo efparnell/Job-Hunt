@@ -66,25 +66,28 @@ Be honest and specific; inflated self-ratings are easy to puncture in an intervi
 
 **The Skill field is a dropdown, not free text.** Type the first word, take the closest match, and skip anything that isn't in their list rather than forcing an odd synonym.
 
+
+> **Date correction (10/5):** Evan left Green Analytics in **October 2025**, so the laboratory skills show **Last Used 10/31/2025**, not a 2026 date. A profile claiming lab skills in current use while the experience entry ends in 2025 is exactly the kind of mismatch these systems surface. Skills that genuinely continue through the consulting work — Analytical Chemistry, Strategic Planning, Forecasting, Project Management, Business Development — can keep a current date.
+
 | # | Skill | Date Attained | Last Used | Level | Comments |
 |---|---|---|---|---|---|
 | 1 | Analytical Chemistry | 05/01/2008 | 09/30/2026 | ADV | B.S. Chemistry, U.S. Naval Academy. HPLC, LC-MS/MS, GC-MS/MS, ICP-MS and qPCR across pharmaceutical, environmental and cannabis matrices. |
-| 2 | Laboratory Operations | 01/15/2014 | 09/30/2026 | ADV | Fourteen years in commercial laboratories. Grew annual volume from ~25,000 to ~47,000 samples while staff went from 32 to 45; turnaround five days to three. |
-| 3 | ISO/IEC 17025 | 06/01/2017 | 09/30/2026 | ADV | Expert level: led QMS implementation and accreditation at two laboratories, including an ISO 17025:2017 upgrade audit. |
+| 2 | Laboratory Operations | 01/15/2014 | 10/31/2025 | ADV | Fourteen years in commercial laboratories. Grew annual volume from ~25,000 to ~47,000 samples while staff went from 32 to 45; turnaround five days to three. |
+| 3 | ISO/IEC 17025 | 06/01/2017 | 10/31/2025 | ADV | Expert level: led QMS implementation and accreditation at two laboratories, including an ISO 17025:2017 upgrade audit. |
 | 4 | Laboratory Accreditation | 06/01/2017 | 12/31/2021 | ADV | Two laboratories taken through accreditation; one also DEA registered for controlled substances. |
 | 5 | ISO 9001 | 06/01/2015 | 12/31/2021 | ADV | Built and implemented a full quality management system following an unsuccessful external audit. |
-| 6 | Employee Training & Development | 01/15/2014 | 09/30/2026 | ADV | Designed a job leveling framework adopted across eight laboratories and 250+ employees. |
-| 7 | Quality Management Systems | 06/01/2015 | 09/30/2026 | ADV | *(leave blank)* |
+| 6 | Employee Training & Development | 01/15/2014 | 10/31/2025 | ADV | Designed a job leveling framework adopted across eight laboratories and 250+ employees. |
+| 7 | Quality Management Systems | 06/01/2015 | 10/31/2025 | ADV | *(leave blank)* |
 | 8 | Method Validation | 06/01/2017 | 12/31/2021 | ADV | *(leave blank)* |
-| 9 | LIMS | 06/01/2017 | 09/30/2026 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
-| 10 | Microbiology | 01/15/2014 | 09/30/2026 | ADV | Ten years running analytical microbiology operations - aerobic plate count, yeast and mold, pathogen detection and confirmation, environmental monitoring - including a pharmaceutical microbiology laboratory build. |
-| 11 | Team Leadership | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
-| 12 | Process Improvement | 01/15/2014 | 09/30/2026 | ADV | *(leave blank)* |
-| 13 | P&L Management | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
-| 14 | Budgeting | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
-| 15 | Multi-Site Operations Management | 11/01/2021 | 09/30/2026 | ADV | *(leave blank)* |
-| 16 | Cost Reduction | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
-| 17 | Client Relationship Management | 06/01/2017 | 09/30/2026 | ADV | *(leave blank)* |
+| 9 | LIMS | 06/01/2017 | 10/31/2025 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
+| 10 | Microbiology | 01/15/2014 | 10/31/2025 | ADV | Ten years running analytical microbiology operations - aerobic plate count, yeast and mold, pathogen detection and confirmation, environmental monitoring - including a pharmaceutical microbiology laboratory build. |
+| 11 | Team Leadership | 01/15/2014 | 10/31/2025 | ADV | *(leave blank)* |
+| 12 | Process Improvement | 01/15/2014 | 10/31/2025 | ADV | *(leave blank)* |
+| 13 | P&L Management | 01/01/2019 | 10/31/2025 | ADV | *(leave blank)* |
+| 14 | Budgeting | 01/01/2019 | 10/31/2025 | ADV | *(leave blank)* |
+| 15 | Multi-Site Operations Management | 11/01/2021 | 10/31/2025 | ADV | *(leave blank)* |
+| 16 | Cost Reduction | 06/01/2017 | 10/31/2025 | ADV | *(leave blank)* |
+| 17 | Client Relationship Management | 06/01/2017 | 10/31/2025 | ADV | *(leave blank)* |
 | 18 | Strategic Planning | 01/01/2019 | 09/30/2026 | ADV | *(leave blank)* |
 | 19 | Forecasting | 01/01/2019 | 09/30/2026 | **INT** | *(leave blank)* |
 | 20 | Project Management | 06/01/2015 | 09/30/2026 | **INT** | *(leave blank)* |

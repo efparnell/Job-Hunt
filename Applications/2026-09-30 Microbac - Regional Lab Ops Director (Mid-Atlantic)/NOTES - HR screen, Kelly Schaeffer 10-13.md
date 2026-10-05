@@ -54,7 +54,9 @@ Three facts have to fit in one calm answer: you left Green Analytics, you have a
 
 **The default answer (about fifteen seconds):**
 
-> *"I'm not in a laboratory at the moment. I left Green Analytics in [MONTH], and since then I've been consulting — I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding their pricing and catalog systems, and I co-founded a small e-commerce company. Both are project work. What I want is to be back inside a laboratory operation with a team and a P&L, which is why this role got my attention."*
+> *"I left Green Analytics in October of last year, and since then I've been consulting — I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding the pricing and catalog systems they run on, and I co-founded a small e-commerce company. Good work, but it's project work. What I want is to be back inside a laboratory operation with a team and a P&L, which is why this role got my attention."*
+
+**On the year:** October 2025 to now is twelve months, so treat it as a deliberate chapter rather than a gap — a year spent building commercial systems while looking for the right laboratory seat. Said evenly, it is a fine answer; said apologetically, it invites digging.
 
 That answers the question, accounts for the time, and ends on intent rather than circumstance.
 
@@ -72,9 +74,11 @@ Tailoring a resume is normal and she'll accept it. **Don't volunteer this explan
 
 **If she asks whether you'd keep the consulting going** — decide your answer before the call, because this is a real question and not a trick:
 
-> *"I'd wind down the project work. Stellar is at a natural handoff point, and this role deserves full attention — especially at 50% travel."*
+> *"I have one consulting engagement I'm actively handing off. The system I built for them goes live at the end of this month, and after that it's a few hours a week — nights and weekends. Microbac would be my primary focus from day one. If you have a policy on outside engagements I'd want to disclose it formally, and I'm happy to put the handoff timeline in writing."*
 
-**Decide now whether that's true.** If you intend to keep Stellar income running alongside a full-time job, most employers require disclosure of outside work, and some have outright policies. It is far better to raise it at offer stage as a question — *"I have a small ongoing consulting engagement; what's your policy?"* — than to have it discovered later. Don't improvise this one in the screen.
+**Why that version works:** it is true, it is specific (a date, a volume, a boundary), and it offers disclosure before anyone asks for it. Vagueness is what makes employers nervous about outside work — "a few hours a week, nights and weekends, winding down by year end" is a commitment they can hold you to, which is exactly why it reassures.
+
+**Don't minimize it and don't over-explain it.** Two sentences, then stop. If she wants more she'll ask, and at offer stage it becomes a written disclosure rather than a conversation.
 
 **"What are your salary expectations?"**
 *"Your posted range works for me — I'd be looking at the top of it, $120,000, and I'd want to understand the incentive structure and benefits that sit alongside it."* Same number you put on the application. Don't negotiate here; she's confirming, not bargaining.
