@@ -32,21 +32,22 @@
 
 ## Working notes (not for sending)
 
+- **`NOTES - HR screen, Kelly Schaeffer 10-13.md`** and **`NOTES - HR screen rehearsal, Kelly 10-13.md`** — the why and the script for the 10/13 screen. The rehearsal page has the checklist and the thank-you draft.
 - **`NOTES - One page cheat sheet.md`** — read this in the five minutes before any call. Four numbers, names, your five questions, the do-not-say list, thank-you skeleton.
 - **`NOTES - Interview prep (full).md`** — the complete brief: strategy, stories, question-by-question handling, company intel from primary sources, the corrections, and the evidence trail behind the numbers.
 - **`NOTES - Application materials.md`** — cover letter and outreach drafts, resume framing, company facts.
-- **`SOURCE - Resume.md`** / **`SOURCE - First 90 Days.md`** — markdown sources for the Word files. Edit these, then the Word version can be regenerated.
+- **`SOURCE - Resume.md`** / **`SOURCE - First 90 Days.md`** — markdown sources for the Word files. Edit these, then the Word version can be regenerated. **The resume source was brought back in step with the 10/6 Word file on 10/6.** Kelly Schaeffer holds the **9/30** version (one Green Analytics line, "November 2021 – 2026", Edgewater in the cover letter); the HR-screen notes carry the differences.
 
 ## The numbers
 
 | | |
 |---|---|
-| Volume | ~25,000 → ~48,000 samples/year (2021 → 2023) on **35% more staff** |
+| Volume | ~25,000 → ~47,000 samples/year (27k / 33k / 39k / 47k, 2022 → 2025) while **staff grew 32 → 45 (+40%)** |
 | Turnaround | **5 days → 3 days** |
-| Turnover | **down ~75%** — while company headcount grew 40% |
+| Turnover | **twelve departures a year → four** — say the counts, not a percentage (it's 67%, and older notes say ~75%) |
 | Scope | **~40 people** directly; systems adopted across **8 locations / ~350 people / $10M budget** |
 
-Plus: **14 years** commercial lab experience against their 10-year minimum · **two ISO 17025 accreditations** (one with DEA registration) · **ISO 9001 built after a failed audit**.
+Plus: **~15% operating-cost reduction** · **14 years** commercial lab experience against their 10-year minimum · **two ISO 17025 accreditations** (one with DEA registration) · **ISO 9001 built after a failed audit**.
 
 ## Why this one is different
 
@@ -56,7 +57,7 @@ Every other application in the pipeline requires arguing that operating skill tr
 
 1. **PFAS:** no Microbac lab in the Northeast holds PFAS accreditation — it's hubbed at Marietta, OH, while Pace, ALS, Eurofins and SGS all hold in-region approvals. Ask where the work goes today; don't accuse.
 2. **The 2027 double deadline:** PFAS initial monitoring (April) and the Lead and Copper Rule Improvements (November). **Lead and copper by EPA 200.8 is already in Baltimore's certified scope** — growth with no new accreditation and no capital.
-3. **Retention, not hiring:** testing labs pay below every other employer of chemists and R&D labs raise faster. The industry has a structural retention problem, and he cut turnover ~75% with a job architecture rather than wages.
+3. **Retention, not hiring:** testing labs pay below every other employer of chemists and R&D labs raise faster. The industry has a structural retention problem, and he took turnover from twelve departures a year to four with a job architecture rather than wages.
 
 ## Where to apply
 
@@ -97,7 +98,8 @@ Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock**
 - [x] **Asked Cory Koons for a warm introduction — 9/30**
 - [x] **Emailed Chris Long directly — 10/1** (chris.long@microbac.com; LinkedIn invites required her email)
 - [x] Tracker updated (OPP-022 → Recruiter Screen)
-- [x] **HR screen scheduled — Kelly Schaeffer, Director of HR, Teams, Tue 10/13 1:00 PM** (prep doc in this folder)
+- [x] **HR screen scheduled — Kelly Schaeffer, Director of HR, Teams, Tue 10/13 1:00 PM** (prep doc and rehearsal script in this folder)
+- [ ] Before 10/13: read the ADP profile back, fix the Atlantic Test Labs title on LinkedIn if it still says Director of Operations, choose the termination story, export the 10/6 resume to PDF
 - [ ] Conversation with Chris Long
 - [ ] Thank-you within 24 hours of each conversation
 - [ ] References confirmed (3 + reserve) and each briefed on their claim
