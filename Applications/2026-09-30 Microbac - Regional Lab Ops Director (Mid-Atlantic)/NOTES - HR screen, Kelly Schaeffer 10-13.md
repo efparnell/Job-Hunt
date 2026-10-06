@@ -54,7 +54,9 @@ Three facts have to fit in one calm answer: you left Green Analytics, you have a
 
 **The default answer — revised 10/5, now that the Green Analytics relationship is clear:**
 
-> *"I stepped out of the Associate Laboratory Director seat in October of last year and moved to a consulting relationship with them — I'm still a named backup reporting officer on their state license and I support them on an as-needed basis. Alongside that I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding the pricing and catalog systems they run on, and I co-founded a small e-commerce company. Good work, but it's project work. What I want is to be back inside a laboratory operation with a team and a P&L."*
+> *"I stepped out of the Associate Laboratory Director seat in October of last year and moved to a consulting relationship with them. I'm a named backup reporting officer on their state license, I led the handoff of a laboratory renovation I'd specified before I left, and I covered weekend results reporting through most of the summer. That's quieted down to a handshake arrangement now. Alongside it I run business analytics for Stellar Scientific, a national scientific distributor, rebuilding the pricing and catalog systems they run on, and I co-founded a small e-commerce company. Good work, but it's project work — what I want is to be back inside a laboratory operation with a team and a P&L."*
+
+**Say the specifics.** "I support them as needed" sounds like a cover story; "I led the renovation handoff and covered weekend results reporting through the summer" sounds like a person describing actual work, because it is. The detail is what makes it land.
 
 **Why this version is much stronger than the earlier draft:**
 
@@ -72,9 +74,11 @@ Tailoring a resume is normal and she'll accept it. **Don't volunteer this explan
 
 **If employment verification comes up:** nothing special to do. You've already said you're a named reporting officer on their license under a consulting arrangement, so an active-payroll record matches what you told her rather than contradicting it. If she asks directly whether you're still paid by them: *"Yes — it's a consulting arrangement tied to the license role. It's a few hours when they need it, not a position."*
 
+**A detail worth landing somewhere in the conversation:** the renovation they executed after he left was built from **his specification**. A lab design he worked out, handed over, and that the company chose to carry out without him in the seat — that is unusually clean evidence that his operational judgment outlasted his tenure. It also pairs with the LIMS, which is still running at three laboratories. **Two systems he built that survived his departure** is a theme worth having ready, for Kelly and especially for Chris.
+
 **If she asks whether you'd keep the consulting going** — decide your answer before the call, because this is a real question and not a trick:
 
-> *"I have one consulting engagement I'm actively handing off. The system I built for them goes live at the end of this month, and after that it's a few hours a week — nights and weekends. Microbac would be my primary focus from day one. If you have a policy on outside engagements I'd want to disclose it formally, and I'm happy to put the handoff timeline in writing."*
+> *"Both are winding down. Green Analytics is quiet — a handshake arrangement at this point, and I'd close it out and return their laptop once something here is final. The Stellar system goes live at the end of this month, and after that it's a few hours a week, nights and weekends, while I hand it off. Microbac would be my primary focus from day one. If you have a policy on outside engagements I'd want to disclose it formally, and I'm happy to put the handoff timeline in writing."*
 
 **Why that version works:** it is true, it is specific (a date, a volume, a boundary), and it offers disclosure before anyone asks for it. Vagueness is what makes employers nervous about outside work — "a few hours a week, nights and weekends, winding down by year end" is a commitment they can hold you to, which is exactly why it reassures.
 

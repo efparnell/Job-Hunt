@@ -67,20 +67,25 @@ Be honest and specific; inflated self-ratings are easy to puncture in an intervi
 **The Skill field is a dropdown, not free text.** Type the first word, take the closest match, and skip anything that isn't in their list rather than forcing an odd synonym.
 
 
-> **Date correction (10/5):** Evan left Green Analytics in **October 2025**, so the laboratory skills show **Last Used 10/31/2025**, not a 2026 date. A profile claiming lab skills in current use while the experience entry ends in 2025 is exactly the kind of mismatch these systems surface. Skills that genuinely continue through the consulting work — Analytical Chemistry, Strategic Planning, Forecasting, Project Management, Business Development — can keep a current date.
+> **Dates settled (10/6).** He left the Associate Laboratory Director seat in **October 2025** but has consulted for Green Analytics since — named backup reporting officer on the state license, the renovation handoff, and **weekend results reporting every weekend through June, most of July and into August 2026**. So:
+> - **Technical and quality skills still exercised through that work — Laboratory Operations, Quality Management Systems, LIMS, Microbiology, ISO/IEC 17025, Analytical Chemistry — carry Last Used 08/31/2026.** Results reporting is review and release; those skills were genuinely in use.
+> - **Management skills — Team Leadership, Employee Training, P&L, Budgeting, Multi-Site Operations, Cost Reduction, Client Relationship Management — end 10/31/2025**, because the consulting was not a managerial role.
+> - **Accreditation, ISO 9001 and Method Validation stay 12/31/2021** (the Atlas chapter).
+>
+> That gradation is more credible than blanket current dates, and every entry is defensible if someone asks what he was doing in each.
 
 | # | Skill | Date Attained | Last Used | Level | Comments |
 |---|---|---|---|---|---|
 | 1 | Analytical Chemistry | 05/01/2008 | 09/30/2026 | ADV | B.S. Chemistry, U.S. Naval Academy. HPLC, LC-MS/MS, GC-MS/MS, ICP-MS and qPCR across pharmaceutical, environmental and cannabis matrices. |
-| 2 | Laboratory Operations | 01/15/2014 | 10/31/2025 | ADV | Fourteen years in commercial laboratories. Grew annual volume from ~25,000 to ~47,000 samples while staff went from 32 to 45; turnaround five days to three. |
-| 3 | ISO/IEC 17025 | 06/01/2017 | 10/31/2025 | ADV | Expert level: led QMS implementation and accreditation at two laboratories, including an ISO 17025:2017 upgrade audit. |
+| 2 | Laboratory Operations | 01/15/2014 | 08/31/2026 | ADV | Fourteen years in commercial laboratories. Grew annual volume from ~25,000 to ~47,000 samples while staff went from 32 to 45; turnaround five days to three. |
+| 3 | ISO/IEC 17025 | 06/01/2017 | 08/31/2026 | ADV | Expert level: led QMS implementation and accreditation at two laboratories, including an ISO 17025:2017 upgrade audit. |
 | 4 | Laboratory Accreditation | 06/01/2017 | 12/31/2021 | ADV | Two laboratories taken through accreditation; one also DEA registered for controlled substances. |
 | 5 | ISO 9001 | 06/01/2015 | 12/31/2021 | ADV | Built and implemented a full quality management system following an unsuccessful external audit. |
 | 6 | Employee Training & Development | 01/15/2014 | 10/31/2025 | ADV | Designed a job leveling framework adopted across eight laboratories and 250+ employees. |
-| 7 | Quality Management Systems | 06/01/2015 | 10/31/2025 | ADV | *(leave blank)* |
+| 7 | Quality Management Systems | 06/01/2015 | 08/31/2026 | ADV | *(leave blank)* |
 | 8 | Method Validation | 06/01/2017 | 12/31/2021 | ADV | *(leave blank)* |
-| 9 | LIMS | 06/01/2017 | 10/31/2025 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
-| 10 | Microbiology | 01/15/2014 | 10/31/2025 | ADV | Ten years running analytical microbiology operations - aerobic plate count, yeast and mold, pathogen detection and confirmation, environmental monitoring - including a pharmaceutical microbiology laboratory build. |
+| 9 | LIMS | 06/01/2017 | 08/31/2026 | ADV | Built the LIMS at Atlantic Test Labs, carried it into Atlas Labs, and it became the kernel of the system at Green Analytics - three laboratories over nine years. |
+| 10 | Microbiology | 01/15/2014 | 08/31/2026 | ADV | Ten years running analytical microbiology operations - aerobic plate count, yeast and mold, pathogen detection and confirmation, environmental monitoring - including a pharmaceutical microbiology laboratory build. |
 | 11 | Team Leadership | 01/15/2014 | 10/31/2025 | ADV | *(leave blank)* |
 | 12 | Process Improvement | 01/15/2014 | 10/31/2025 | ADV | *(leave blank)* |
 | 13 | P&L Management | 01/01/2019 | 10/31/2025 | ADV | *(leave blank)* |
