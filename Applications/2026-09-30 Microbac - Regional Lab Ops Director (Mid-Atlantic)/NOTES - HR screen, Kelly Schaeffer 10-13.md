@@ -8,6 +8,8 @@
 | **Background** | B.A. Labor and Industrial Relations, Penn State (2003). Director of HR at Premier Medical Associates 2012–2023. **Joined Microbac March 2024** — about 18 months in. |
 | **Contact** | kelly.schaeffer@microbac.com · 412.459.1060 office · 412.913.6772 mobile |
 
+**Companion:** `NOTES - HR screen rehearsal, Kelly 10-13.md` — the run of show, the answers written out to say aloud, the pre-call checklist and the thank-you draft. This page is the why; that one is the script.
+
 **Note the sequence:** she wrote on **Oct 2, the day after the email to Chris Long**. Unprovable, but the direct note may well be why this is happening at all. Either way, assume Chris has seen your name.
 
 ---
@@ -115,16 +117,25 @@ Ask about process and people. Save the operational questions for Chris.
 
 ---
 
-## Consistency check — do this before the call
+## What Kelly has in front of her — checked 10/6 against the files actually submitted
 
-Because she will have the resume, the cover letter and the ADP profile open:
+She has the **9/30 submission**: the resume and cover letter as they were on 9/30, plus whatever went into the ADP profile. **The resume and cover letter in this folder were rebuilt on 10/6 and are not what she holds.** The differences matter because the whole screen is a consistency check.
 
-- **Green Analytics end date:** make sure what you say matches what's in the profile and resume.
-- **Atlantic Test Labs:** 2017–2019, Technical Manager / Quality Manager. (An older self-written resume said "Director of Operations, Jan 2018 – Sep 2019." Use the version you submitted.)
-- **The numbers:** ~25,000 → ~47,000 samples, staff 32 → 45, turnaround 5 → 3 days, turnover 12/yr → 4, costs down ~15%.
-- **Salary:** $120,000, same as the application.
-- **Phone:** the application lists both 703 and 443. Either reaches you; just don't look surprised.
-- **One known blemish:** the submitted cover letter opens "Dear Mr. Long." If it ever comes up, own it in one sentence and move on. Don't raise it yourself.
+| What she's looking at | What you'll say | How to handle it |
+|---|---|---|
+| **Resume: "Associate Laboratory Director, November 2021 – 2026."** One line, no end month, no consulting line. | You stepped out of the seat in **October 2025** and moved to a consulting relationship. | The resume isn't wrong — you are still engaged with Green Analytics in 2026 — but it reads as if you held the seat this year. **Say the October 2025 date yourself, in the current-employment answer, before she has to reconcile it.** If she notes the resume reads differently: *"Fair — that line covers the whole relationship. I stepped out of the director seat last October and the consulting role carried on, which is why it shows through this year. I've since split it into two lines; I'll send you that copy."* Then do (see the thank-you below). |
+| **Cover letter: "I live in Edgewater, twenty-five minutes from the Baltimore laboratory."** | You live in **Churchton**; Holabird is about **45 minutes**. | Don't repeat 25. If the commute comes up: *"Southern Anne Arundel County — Churchton, just below Edgewater. It's a straight run up 97, about forty-five minutes."* Anyone in Baltimore knows the drive; an inflated number costs more than an honest one. If she quotes the letter back, own it in half a sentence: *"That was optimistic — call it forty-five."* |
+| **Cover letter: "Dear Mr. Long."** Chris Long is a woman. | — | Don't raise it. If she does: *"That one's on me — I've since corrected it."* One sentence, move on. |
+| **Resume: 25,000 → 47,000 (27/33/39/47 by year), staff 32 → 45, turnover twelve a year to four, costs down ~15%.** | The same numbers. | **Use the raw counts for turnover, never a percentage.** Twelve to four is 67%; the "~75%" that appears in older notes doesn't match the resume she's holding, and an HR director can do that arithmetic in her head. |
+| **Resume: 14 years commercial laboratory (2012–2026).** | Same. | Say the number early; it clears their stated ten-year minimum. |
+| **Resume: Atlantic Test Labs, Technical Manager / Quality Manager, 2017–2019.** | Same. | An older self-written resume said "Director of Operations, Jan 2018 – Sep 2019." If that version is on LinkedIn or anywhere she can see, that is the title discrepancy a background check surfaces. **Check LinkedIn before the call** and make it match. |
+| **Application form: salary $120,000.** | $120,000, top of the posted range. | Same number. She's confirming, not bargaining. |
+| **Resume header: Annapolis. Phone: 443 only.** | — | The application form lists both 703 and 443. Either reaches you; don't look surprised. |
+| **The ADP profile.** Unknown — whatever you typed on 9/30. | — | **Log into the ADP portal before the call and read your own profile:** the Green Analytics end date, "current employer," the salary field ($120,000) and the start-availability field if there was one. If the profile says "current" for Green Analytics, that is consistent with the consulting answer; if it gives an end date other than October 2025, know it before she does. |
+
+**Why you don't send the updated resume before the call:** an unprompted resume with a changed end date, arriving a week before an HR screen, invites exactly the question you'd rather answer live. Give the answer in the conversation, where it sounds like what it is — a normal lab arrangement — and then send the two-line version with the thank-you as the follow-up to something you discussed. **If she asks you for an updated copy on the call, send it within the hour.**
+
+**One more thing she may have:** the email you sent Chris Long on 10/1 says *"my last laboratory"* and describes Green Analytics in the past tense. That matches the October 2025 story. Nothing to do; just don't contradict it.
 
 ---
 
@@ -140,4 +151,4 @@ Because she will have the resume, the cover letter and the ADP profile open:
 
 ## Within 24 hours
 
-Short thank-you to kelly.schaeffer@microbac.com referencing one specific thing she said, plus one useful addition. Then tell me how it went and we'll prep the Chris Long conversation properly — that's the one the whole packet was built for.
+Short thank-you to kelly.schaeffer@microbac.com referencing one specific thing she said, plus one useful addition — the drafted version, with the two-line resume attached, is in `NOTES - HR screen rehearsal, Kelly 10-13.md`. Then tell me how it went and we'll prep the Chris Long conversation properly — that's the one the whole packet was built for.
