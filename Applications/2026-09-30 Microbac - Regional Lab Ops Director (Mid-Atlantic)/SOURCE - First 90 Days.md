@@ -1,70 +1,55 @@
 # First 90 Days — Mid-Atlantic Region
 **Evan Parnell** · Regional Laboratory Operations Director, Mid-Atlantic
-*A working outline, offered for discussion rather than as a finished plan — it should change once I can see the region's actual numbers.*
+*A working outline offered for discussion, not a finished plan — it should change once I can see the region's actual data.*
 
 ---
 
 ## Operating principle
 
-A region of independently accredited laboratories with different scopes, different licenses and different histories cannot be managed as one until its numbers mean the same thing at every site. **Measurement first, standardization second, structure last.** I would rather be deliberately slow for thirty days than reorganize something in week two that I do not yet understand.
+A region of independently accredited laboratories, each with its own scope and its own state approvals, cannot be managed as one system until its data mean the same thing at every site. **Characterize first, harmonize second, restructure last.** I would rather spend thirty days establishing a defensible baseline than take corrective action against a problem I have not yet confirmed.
 
 ---
 
-## Days 1–30 · Listen and measure. Change almost nothing.
+## Phase I · Days 1–30 · Current-State Assessment
+*Observations only. No corrective action until the data set is complete.*
 
-**Visit every laboratory and service center in the region.** Time at the bench, not only in the office.
+- On-site assessment at every laboratory and service center in the region — time at the bench, not only in the office.
+- Interviews at three levels: laboratory and division management, technical and quality leadership, and the analysts and sample-receiving staff who see the failures first.
+- Retrospective review of twelve months by site: revenue and margin to plan, cost per sample, on-time turnaround, reanalysis and rework rate, overtime, instrument uptime, open corrective actions, accredited scope.
+- **Verify the measurement system before trusting the measurements.** Confirm every site calculates those the same way. Turnaround especially — received-to-reported versus scheduled-to-reported is where the variance hides.
+- Map the network as it actually is: which sites are full-service laboratories, which are focused benches, which are service centers, and where each site's accredited scope begins and ends.
+- Client view: the top accounts at each site, and what each would say about us if I called them.
 
-**Sit with each site's leadership** — laboratory and division managers, technical directors, QA leads — and separately with analysts and sample-receiving staff. The people who receive samples and the people who release data know where the losses are.
+**Deliverable at 30 days:** a written baseline of the region as it is — with anything not yet verifiable identified as such rather than assumed.
 
-**Pull twelve months of history by site:** revenue and margin against plan, cost per sample, on-time turnaround, reanalysis and rework, overtime, instrument uptime, open corrective actions, and accredited method scope.
+## Phase II · Days 31–60 · Gap Analysis and Harmonization
 
-**Then answer the question that determines everything else:** does every site define these the same way? On-time turnaround in particular — received-to-reported or scheduled-to-reported — is where variance hides.
+- Gap analysis against a single defined standard: what each site does today versus what the region needs to do in common.
+- A harmonized metric set, defined identically everywhere and small enough that site leadership can produce it without a project: backlog and aging, on-time turnaround, open corrective actions, overtime.
+- A monthly management review per site on a common agenda — performance to plan, capacity, quality, people — so the regional roll-up is built from comparable inputs.
+- **Specification before target.** Setting a target on an unharmonized measure produces reporting behavior rather than improvement — the same reason a method is qualified before its results are trended.
+- Trend the region visibly so sites can see one another. Internal comparability drives more improvement than any target set from Baltimore.
+- **Protect what already conforms.** Where a sub-region performs, the cadence confirms it and gets out of the way. Technical authority stays with the technical leadership holding the licenses — this is an operations harmonization, not a scientific one.
 
-**Map the region honestly:** which sites are full-service laboratories, which are focused benches, which are service centers and drop points, and where each site's accreditation scope begins and ends.
+**Deliverable at 60 days:** a documented gap analysis, and one regional management review running on harmonized definitions.
 
-**Understand the top clients per site** and what each would say about us if I called them.
+## Phase III · Days 61–90 · Corrective Action and Remediation Plan
 
-**Deliverable at 30 days:** a written baseline of the region as it actually is, including where our numbers are not yet comparable.
+- Take the highest-cost finding from Phase I, establish root cause rather than treating the symptom, implement the correction at one site, and define the effectiveness check. In most laboratories this is a turnaround bottleneck — often data review queued behind one or two approvers — or a reanalysis rate nobody has priced.
+- Capacity planning for 2027: two federal drinking-water deadlines land that year, and compliance samples arrive in the final quarters before a deadline rather than evenly. Staffing, scheduling and scope decided in advance rather than absorbed.
+- A written twelve-month regional plan: capacity and capital, accredited scope, staffing and development, and where growth comes from.
 
----
-
-## Days 31–60 · Install one operating cadence.
-
-**One weekly metric set, defined identically at every site.** Small enough that site leaders can produce it without a project: backlog and aging, on-time turnaround, open corrective actions, overtime.
-
-**One monthly operating review per site**, same agenda everywhere: performance to plan, capacity, quality, people.
-
-**Fix definitions before setting targets.** A target on an inconsistent measure produces reporting behavior, not operating improvement.
-
-**Publish the region's numbers internally** so sites can see each other. Visible comparability drives more improvement than any target I could set from Baltimore.
-
-**Protect what is working.** Where a site or sub-region already performs, the cadence should confirm it and get out of the way. Technical authority stays with the technical leaders who hold the licenses.
-
-**Deliverable at 60 days:** a single regional operating review, running on common definitions.
-
----
-
-## Days 61–90 · One visible win, and a plan.
-
-**Fix the most expensive addressable problem found in the first thirty days**, end to end, at one site, with a number attached. In most laboratories this is a turnaround bottleneck — often data review queued behind one or two approvers — or a reanalysis rate nobody has priced.
-
-**Bring the answer to the 2027 demand question.** Two federal drinking-water deadlines land that year, and compliance samples arrive in the final quarters before a deadline rather than evenly. Capacity, staffing and scheduling for that wave should be decided in advance, not absorbed.
-
-**Deliver a written twelve-month regional plan:** capacity and capital, accredited scope, staffing and development, and where growth comes from.
-
-**Deliverable at 90 days:** one proven improvement, and a plan the region has agreed to.
+**Deliverable at 90 days:** one corrective action implemented with its effectiveness check defined, and a twelve-month plan the region has agreed to.
 
 ---
 
-## What I would want from you
+## Inputs I would need
 
-- Clarity on which sites are mine, and whether the P&L is cut by site, by division, or by region.
-- Clarity on what I can decide and what comes to you first.
-- An introduction to my finance counterpart, and access to whatever facility-level tracking already exists.
-- Patience for thirty days of questions before I propose changes.
+- Which sites are in scope, and whether the P&L is cut by site, by division, or by region.
+- Defined decision rights — what I can approve, and what comes to you first.
+- An introduction to my finance counterpart, and access to whatever facility-level reporting already exists.
+- Thirty days of questions before I propose changes.
 
----
+## Controls I would hold myself to
 
-## What I will not do
-
-Reorganize a functioning team before I understand why it works. Set targets on measures that are not yet consistent. Trade defensible data for a faster month — a late result is recoverable, a result that does not hold up is not.
+No reorganization of a functioning team before the root cause is understood. No targets on measures that are not yet harmonized. And no trading defensible data for a faster month — a late result is recoverable, a result that does not hold up is not.
