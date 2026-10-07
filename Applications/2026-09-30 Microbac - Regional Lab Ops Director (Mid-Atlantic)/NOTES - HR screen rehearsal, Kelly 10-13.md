@@ -101,6 +101,23 @@ Never "immediately."
 - **Both stories need their endings.** An unfinished termination story makes a listener wonder whether he flinched; an unfinished threat story makes an HR director ask.
 - **The second story is the closer, not an aside.** Middle managers escalating correctly before he even heard about it is the best available evidence that the structure he built worked without him in the room — which is exactly what a regional director has to be able to say.
 
+### "Client needs results today, QA says rerun, client threatens to walk." — **rehearsed 10/7**
+
+> *"The data doesn't go out. If we can't defend the result in court, we don't publish it — that's not a judgment call, and a lab that makes it one doesn't have anything to sell.*
+>
+> *What is a judgment call is everything around it, and it's all about speed. Within a couple of hours I'd have the technical lead for that area, QA and the site's lab director in one conversation: confirm the rerun is genuinely the recommendation, get the realistic time, and find out what drove it — reagent lot, instrument drift, technique, sampling — because a rerun is a signal, not just a delay.*
+>
+> *Then the client gets a call, before their deadline, not after it. Whoever owns that relationship makes it, with me on it if it's escalated this far. What happened, when they'll have defensible data, what we're doing so it doesn't recur, and anything we can give them in the meantime.*
+>
+> *The asymmetry is what makes the decision easy: a late result is recoverable. A result that doesn't hold up isn't — not for them, and not for us."*
+
+**The three things that make this answer work:**
+- **The decision is stated first and treated as non-negotiable.** Any hedging here is disqualifying with a laboratory audience.
+- **The client call, made before the deadline rather than after.** This is the beat most candidates miss entirely, and it is what turns a quality answer into an operations answer. A client told at 10am is annoyed; a client who discovers it at 5pm is gone.
+- **Root cause runs in parallel.** A rerun is a signal — reagent lot, instrument drift, technique, sampling — so the event produces a fix rather than a repeat.
+
+**Two words to avoid:** "politics" (sounds like maneuvering — say *who owns the relationship and who the client hears best from*) and any version of "it depends" before the decision is stated.
+
 ### "How would your team describe you?" / "What's your management style?" — 30 seconds
 
 > *"Clear about the standard, and present. I put the expectations in writing — that's what the leveling framework was — and then I'm in the lab, not in an office describing it. My managers could call me at eight at night if something looked wrong, and the fact that they did is the thing I'm proudest of."*
