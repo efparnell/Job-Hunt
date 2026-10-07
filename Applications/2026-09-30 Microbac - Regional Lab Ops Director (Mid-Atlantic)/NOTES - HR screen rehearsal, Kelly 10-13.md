@@ -85,13 +85,21 @@ Same number as the application. She's confirming, not bargaining. Don't say what
 
 Never "immediately."
 
-### "Tell me about a time you had to let someone go." — the one behavioral an HR director reliably asks
+### "Tell me about a time you had to let someone go." — **rehearsed 10/7** · ~90 seconds
 
-Pick **one** real case before Tuesday and fill in the brackets. The sequence is what she's listening for; the drama is not.
+> *"The first one I walked our lab manager through was a technician with a chronic absence problem — frequently out, little notice, often none. In a lab that's not an inconvenience, it's a coverage problem: we'd stopped building her into the shift plan at all, which meant we were short certified coverage on methods she was qualified to run.*
+>
+> *We worked with HR to put together a performance improvement plan — specific goals, dated checkpoints — and I coached the lab manager through delivering it rather than doing it for him. It held for a couple of weeks, then the old pattern came back. At thirty days we sat down and went through the evaluation together. It was emotional. I told her we'd point her toward whatever help she needed, but that I couldn't run a shift schedule around attendance we couldn't rely on. **[OUTCOME — separated / resigned: fill this in]**. It was about as straight and as decent as that conversation can be.*
+>
+> *The sequel is the part I'm proudest of. About a year after the leveling program went in, a technician made some violent statements that disturbed the staff. By the time the lab director and I heard about it, the middle managers had already notified HR and Regional Ops, exactly per protocol — **[OUTCOME: fill this in]**. That's when I knew the structure had taken. They didn't need me to handle it."*
 
-> *"A [role] at Green Analytics. The expectation was [specific, measurable thing — on-time review of results, attendance on a shift, a certification deadline]. It wasn't being met, so I sat down with them, said so plainly, wrote down what had to change and by when, and asked what they needed from me to get there — [training, a schedule change, a different bench]. We checked in [weekly] for [six weeks]. It didn't change. I made the decision rather than letting it run another quarter, and I did the conversation myself, in person, with HR in the room — partly because that's how it should be done and partly because I wanted my managers to watch how it's done. The team's reaction told me it was the right call; they'd been carrying the gap."*
-
-If she pushes on how you feel about it: *"It's never pleasant and it shouldn't be. But the people who stay are watching whether you'll act, and so is the person you're not acting on."*
+**Why it's built this way:**
+- **Opens on coaching a manager through it**, not on firing someone. That makes it a leadership story rather than a discipline story, and it's true.
+- **Names the operational cost.** Absence in a lab is lost certified method coverage, not just a gap on a roster. That is the detail only an operator supplies.
+- **HR is the partner, named early.** With this audience that matters more than it would with Chris.
+- **The boundary comes with a referral** — help offered first, line drawn second. *"We're a chemistry lab, not professional care providers"* was the original phrasing; it's accurate but retells badly, so the version above keeps the boundary and loses the shrug.
+- **Both stories need their endings.** An unfinished termination story makes a listener wonder whether he flinched; an unfinished threat story makes an HR director ask.
+- **The second story is the closer, not an aside.** Middle managers escalating correctly before he even heard about it is the best available evidence that the structure he built worked without him in the room — which is exactly what a regional director has to be able to say.
 
 ### "How would your team describe you?" / "What's your management style?" — 30 seconds
 
