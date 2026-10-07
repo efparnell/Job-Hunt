@@ -46,9 +46,22 @@ Ninety seconds, chronological, ending on why this role. Lead with the lab: analy
 **"Why are you interested in Microbac?"**
 One of the few independent networks left in a consolidating sector; family-owned since 1969; the role needs someone who is both a lab person and an operator. Mention that Baltimore is a straight run up from home.
 
-**"Why did you leave Green Analytics?"** — *the one that needs precision.*
-Your career progression diverged from the business's future: the market capped out, expansion stopped, the lab reached steady state, and the next-phase need was technical depth rather than scaling. You told them to hire a chemist. No hard feelings.
-**Say nothing about** the C-suite you couldn't convince, the ceiling on your mobility, or their intent to sell. All true, all poison in an HR screen.
+**"Why did you leave Green Analytics?"** — *settled wording, rehearsed 10/6.*
+
+> *"The work I was brought in to do was finished. We'd built the management infrastructure the lab needed, and then the market flattened out — what the business needed next was technical depth more than another operator. I told them that, and that they'd be better served putting a chemist in that seat. Since then I've consulted for them and for Stellar Scientific. Good work, but it's advice from outside the operation. What I want is to be inside one again — a team, a P&L, and responsibility for the result, which is what this role is."*
+
+Four sentences, about thirty seconds: cause, evidence of judgment, honest bridge, forward close.
+
+**If she probes — "was there anything you wanted to accomplish there that you couldn't?"**
+
+> *"I was hired into a role that hadn't been defined yet — the offer actually said 'management position to be defined later' — so I built it. What the lab needed was management infrastructure: a middle layer that could own its own results, a competency framework, an operating cadence. Once that was in place and the market stopped growing, the next phase called for technical depth more than system-building. It's also how I think about where I'm useful: I'm who you bring in when something is growing or being absorbed and the systems haven't caught up."*
+
+**Three words and phrases that must not appear**, all of which surfaced in practice and all of which leak the real frustration or create a worse impression than the truth:
+- **"duplicative"** — about his own skills. An HR director hears "redundant," and it gets quoted onward without his framing.
+- **"this time"** — as in "this time I'll have a clear reporting structure." It tells her last time he didn't, and that it rankled.
+- **"my follow-on plans haven't panned out"** — reads as drift and invites "what plans?"
+
+**And one date discipline:** he decided to leave the industry in **early 2025** and left in **October 2025**. Not "two years ago." The resume in front of her says November 2021 – October 2025, and a mismatch there makes her check everything else.
 
 **"Are you currently employed?" / "What are you doing now?"** — *the one to rehearse.*
 
