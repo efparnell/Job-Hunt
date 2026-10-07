@@ -25,11 +25,11 @@ If she only has thirty minutes, the questions section shrinks. **Protect questio
 
 ### "Walk me through your background." — 90 seconds, about 210 words. Time it.
 
-> *"I'm a chemist by training — B.S. from the Naval Academy — and I spent my first years after the Navy on the water, which is where I learned to run a watch and a crew.*
+> *"I'm a chemist by training — B.S. from the Naval Academy — then the Navy and a couple of years in the merchant marine, which is where I learned to run a watch and a crew.*
 >
-> *My laboratory career started in 2012 at Atlantic Technical Services in Maryland. I came in as a field technician and over five years became their technical and quality manager, helping build one of the state's first pharmaceutical microbiology laboratories and rebuilding the quality system to ISO 9001 after a failed audit.*
+> *My laboratory career started in 2012 at a cleanroom certification company in Maryland, where I came at pharmaceutical quality control from the engineering side and helped bootstrap an in-house microbiology laboratory. Over five years I became their technical and quality manager and rebuilt the quality system to ISO 9001 after a failed audit.*
 >
-> *From there I launched an ISO 17025 laboratory at Atlantic Test Labs, then co-founded a greenfield lab in Florida — raised the financing, built it, got it accredited.*
+> *When Maryland legalized cannabis we expanded that capability into analytical chemistry — I launched an ISO 17025 laboratory at Atlantic Test Labs, then co-founded a greenfield lab in Florida: raised the financing, built it, got it accredited and DEA registered.*
 >
 > *The last four years I was Associate Laboratory Director at Green Analytics, a high-throughput regulated laboratory of about forty-five people. I ran the inside of the building. Annual volume went from about twenty-five thousand samples to forty-seven thousand while the staff grew from thirty-two to forty-five, turnaround went from five days to three, and turnover went from twelve departures a year to four.*
 >
@@ -43,11 +43,15 @@ If she only has thirty minutes, the questions section shrinks. **Protect questio
 
 Stop there. The PFAS and 2027 material is for Chris.
 
-### "Why did you leave Green Analytics?" — 30 seconds
+### "Why did you leave Green Analytics?" — 30 seconds · **settled in rehearsal, 10/7**
 
-> *"My career progression and the business's future diverged. The market capped out, expansion stopped, the lab reached steady state, and what they needed for the next phase was technical depth rather than someone to scale the operation. I told them to hire a chemist, and they did. We parted on good enough terms that I'm still the named backup reporting officer on their license."*
+> *"The work I was brought in to do was finished. We'd built the management infrastructure the lab needed, and then the market flattened out — what the business needed next was technical depth more than another operator. I told them that, and that they'd be better served putting a chemist in that seat. Since then I've consulted for them and for Stellar Scientific. Good work, but it's advice from outside the operation. What I want is to be inside one again — a team, a P&L, and responsibility for the result, which is what this role is."*
 
-No C-suite, no ceiling, no sale. That last sentence does all the work the complaints would have done, without the cost.
+Cause, evidence of judgment, honest bridge, forward close. No C-suite, no ceiling, no mention of the sale. *"I told them to put a chemist in that seat"* does all the work the complaints would have done, at none of the cost.
+
+**If she probes — "anything you wanted to accomplish there that you couldn't?"**
+
+> *"I was hired into a role that hadn't been defined yet — the offer actually said 'management position to be defined later' — so I built it. What the lab needed was management infrastructure: a middle layer that could own its own results, a competency framework, an operating cadence. Once that was in place and the market stopped growing, the next phase called for technical depth more than system-building. It's also how I think about where I'm useful: I'm who you bring in when something is growing or being absorbed and the systems haven't caught up with it."*
 
 ### "Are you currently employed?" — the one to rehearse most
 
