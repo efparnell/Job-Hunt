@@ -102,4 +102,6 @@ Reserves: **Andrew Rosenstein** (CEO), **Stacey Kristales** or **Kiera Matlock**
 - [ ] Before 10/13: read the ADP profile back, fix the Atlantic Test Labs title on LinkedIn if it still says Director of Operations, choose the termination story, export the 10/6 resume to PDF
 - [ ] Conversation with Chris Long
 - [ ] Thank-you within 24 hours of each conversation
-- [ ] References confirmed (3 + reserve) and each briefed on their claim
+- [x] References confirmed; Margaret briefed that she was named to Chris Long (10/7)
+- [x] ADP profile corrected: Green Analytics split into director + consulting, Stellar added, skills cleaned (10/7)
+- [x] LinkedIn reconciled against the submitted resume (10/7)

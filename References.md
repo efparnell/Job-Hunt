@@ -167,7 +167,7 @@ Give people the context to be useful. A reference who knows which claim to speak
 - [x] **Permission obtained from the references — 10/1/2026**
 - [ ] Contact details (phone + email) captured for each, so a sheet can go out the moment it's asked for
 - [ ] Each briefed on the one claim they're best placed to corroborate
-- [ ] **Margaret Crouse told she was named by name in the 10/1 email to Chris Long** — she shouldn't be surprised by that call
+- [x] **Margaret Crouse told she was named in the 10/1 email to Chris Long (done 10/7)**
 - [ ] Departure narrative aligned with Marc Rosenstein before he is listed
 - [ ] Scott Robertson asked how the leveling framework landed at his Green Analytics office
 - [ ] Posting and resume sent to each
