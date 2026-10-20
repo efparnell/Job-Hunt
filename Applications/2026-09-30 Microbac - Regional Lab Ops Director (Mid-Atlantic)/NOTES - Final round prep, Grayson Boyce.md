@@ -44,6 +44,22 @@ The honest frame: the moves were a trajectory, not restlessness. Each one was a 
 
 ---
 
+## The longevity answer, settled 10/20
+
+The one question in this conversation with a wrong answer. Say it before he has to ask, if there is a natural opening.
+
+> *"Let me say the thing I assume you're thinking when you look at my resume. There's a five, a two, a two and a four on there. Two of those were companies I helped build that reached their natural end. Atlantic Test Labs got acquired. Atlas was my own, and the market we built it for didn't materialize. Green Analytics capped out and needed a chemist in that seat more than it needed an operator, and I'm the one who told them so. None of it was restlessness, but I understand how the pattern reads from the outside.*
+>
+> *What I'd tell you is that I'm done with that shape of a career. At this stage what I want is one place for the next ten or fifteen years where I'm not thinking about the next move. Some of that is where I am in life. Most of it is that the combination I've ended up with, the laboratory side and the operations side, only really pays off if you stay somewhere long enough to build with it. Four years isn't long enough to see the second-order effects of anything you put in.*
+>
+> *Microbac is the first place I've looked at where that's realistic. You've been independent since 1969, people here count tenure in decades, and the network is still growing, so there's room to grow into without having to leave to get it. I'd rather be the person who fixes Baltimore, then takes the region, then takes on more than that, than someone who does eighteen good months and moves on."*
+
+**Why it is built this way.** Naming the pattern first takes the weapon off the table, and an owner respects a candidate who says the uncomfortable thing unprompted. The explanations are specific and checkable, and two of them are not about him leaving at all, which is what a resume cannot show. "I'm the one who told them so" is the credibility detail. The want is then stated plainly with a business reason attached, so it reads as professional interest rather than a wish for a safe harbor. The close is about this company specifically.
+
+**The load-bearing line is the second-order effects one.** It reframes long tenure as the condition under which his kind of work pays off at all. That is what separates this from wanting somewhere quiet to land.
+
+**Three things to avoid:** sounding tired of work rather than tired of churn, letting "security" imply coasting, and any hint of defensiveness about the resume.
+
 ## Questions he is likely to ask
 
 **"Why Microbac, and why this role?"**
