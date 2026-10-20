@@ -60,29 +60,47 @@ The one question in this conversation with a wrong answer. Say it before he has 
 
 **Three things to avoid:** sounding tired of work rather than tired of churn, letting "security" imply coasting, and any hint of defensiveness about the resume.
 
-## Questions he is likely to ask
+## Questions he is likely to ask, with answers
 
-**"Why Microbac, and why this role?"**
-Same answer as with Chris, pointed at him: one of the few independent networks left, family-owned since 1969, and a role that needs a laboratory person who can also own a number. Add the part that matters to an owner: *this is the first role I have seen where I would not have to choose between the lab and the business.*
+Drafted 10/20 from Evan's own material. Adjust wording to voice; the structure is what matters.
 
-**"Where do you see yourself in five years?"**
-Do not say "your job" and do not say "wherever the company needs me." The truthful answer is better: running the region well enough that it stops being the problem it is now, and then taking on more of the network. Growth inside one company, which is exactly what he wants to hear and happens to be what Evan wants.
+### "Why Microbac, and why this role?"
 
-**"What would make you leave?"**
-Rare but possible from an owner. The honest answer is the strongest: being somewhere his skills stopped being needed, which is what happened at Green Analytics when the market capped out. A company that is still acquiring and still building a national network does not have that problem.
+> *"Three things. First, you're independent in a sector that's being rolled up. Pace, Eurofins, SGS and ALS have bought most of what used to be the regional independents, and you've been at this since 1969 without selling. That matters to me because independence only holds if the operations are strong enough to defend it, and that's the work I do. Second, the role itself needs someone who can sit with a technical director and know whether the answer holds up, and also own a number. That's an unusual combination, and it's the one I actually have rather than one I'd have to argue for. Third, and I'll be honest about it, Baltimore is a straight run up from where I live. I want to be in the labs, not describing them from a distance."*
 
-**"What do you need from us to succeed?"**
-The inputs list from the plan: clarity on which sites are in scope, defined decision rights, a finance counterpart, and thirty days of questions before he proposes changes. Short, specific, and it signals he has thought about failure modes.
+### "Where do you see yourself in five years?"
 
-**"What concerns you about the role?"**
-Have one and make it real. The honest candidate concern is the authority question: a regional director who cannot make decisions about purchasing, capital or staffing becomes a reporting function. Ask it as a question rather than a complaint.
+> *"Running this region well enough that it isn't the problem it is today, and then carrying more of the network. I'd like the Mid-Atlantic to be where the operating standard got proven, and then be useful putting it anywhere else you're growing. I'm not angling for anybody's chair. I want scope that grows inside one company, which is the thing I haven't had."*
 
-**"Tell me about yourself."**
-Possible even at this stage. Use the ninety-second version from the Kelly prep, ending on the present and why this role.
+Do not say "your job." Do not say "wherever the company needs me."
 
-**Compensation.** If he raises it, hold at $120,000 and do not re-open it. If he offers more, thank him and accept the conversation; do not negotiate against an owner in an approval meeting. Any negotiation belongs with Kelly afterward.
+### "What would make you leave?"
 
----
+> *"The same thing that ended the last one. Being somewhere my skills stopped being needed. That's what happened at Green Analytics when the market capped and what they needed next was technical depth. A company that's still acquiring and still building out a national network doesn't really have that failure mode, as long as I keep being useful as it grows. The other version would be a seat where I couldn't make decisions, and that's a question I'd rather settle now than discover in month four."*
+
+### "What's your management style?" (the culture-fit question in a family company)
+
+> *"Two rules I've operated by my whole career: do no harm, and respect expertise. A lab that's been running for years is running for reasons, and my first job is to understand them. After that it's fairly simple. Clear standards, published, so people know what's expected and how to move up. Numbers visible, so nobody gets surprised. And managers who own their results instead of passing them up to me. The thing I'm proudest of from Green Analytics isn't the throughput. It's that by the end, the middle managers handled a serious personnel situation correctly, by the book, before I'd even heard about it."*
+
+It ends on the managers acting without him on purpose. In a family company the question behind the question is whether he builds people or only processes.
+
+### "What do you need from us to succeed?"
+
+> *"Four things. Clarity on which sites are mine and how the P&L is cut. Defined decision rights, so I know what I can approve and what goes to Chris first. An introduction to whoever I'd work with on the finance side. And thirty days of questions before I start proposing changes."*
+
+### "What concerns you about the role?"
+
+> *"One thing, and I'd rather raise it than discover it later. A regional director who can't make decisions about purchasing, capital or staffing turns into a reporting function. I've been in a version of that before, and it's the one thing I wouldn't want to repeat. Nothing in the conversations so far suggests that's what this is, but it's the question I'd want answered plainly."*
+
+The riskiest answer in the set and the most valuable. It is the only place the authority question can be asked without sounding like a demand, and it pairs with the inputs list rather than competing with it.
+
+### "Tell me about yourself"
+
+Possible even at this stage. Use the ninety-second version from the Kelly prep: chemist, built labs, ran a big one, why this role. End on the present.
+
+### Compensation
+
+If he raises it, hold at $120,000 and do not reopen it. If he offers more, thank him and move on. Do not negotiate against an owner in an approval meeting. Anything to settle goes back through Kelly afterward.
 
 ## What to ask him
 
